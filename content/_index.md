@@ -1,8 +1,8 @@
 ---
 title: About Hugo
-date: 2014-04-09
+date: 2021-15-5
 authorbox: false
-sidebar: false
+sidebar: true
 menu:
 ---
 

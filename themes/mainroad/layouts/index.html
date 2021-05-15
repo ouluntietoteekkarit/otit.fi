@@ -1,6 +1,7 @@
 {{ define "main" }}
 <main class="main list" role="main">
 	{{- with .Content }}
+
 	<div class="content main__content clearfix">
 		{{ . }}
 	</div>
@@ -21,4 +22,7 @@
 	{{ end }}
 </main>
 {{ partial "pagination.html" . }}
+{{ partial "authorbox.html" . }}
+{{ partial "pager.html" . }}
+{{ partial "comments.html" . }}
 {{ end }}
