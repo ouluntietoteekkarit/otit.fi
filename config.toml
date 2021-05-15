@@ -1,0 +1,231 @@
+baseURL = "https://otit.fi/"
+languageCode = "fi"
+title = "Oulun Tietoteekkarit ry"
+theme = "mainroad"
+paginate = "10" # Number of posts per page
+
+
+[Author] # Used in authorbox
+    name = "Oulun Tietoteekkarit ry"
+
+[Params]
+    copyright = "Oulun Tietoteekkarit ry" # Footer copyright holder, otherwise will use site title
+    toc = true # Enable Table of Contents
+    pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+
+[Params.style.vars]
+    # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
+    # Take care of different quotes OR escaping symbols in these params if necessary
+    fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+    fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+    image = "img/logoo.png" # Logo image. Path relative to "static"
+    title = "Oulun Tietoteekkarit ry" # Logo title, otherwise will use site title
+    subtitle = "" # Logo subtitle
+
+[Params.sidebar]
+    home = "right" # Configure layout for home page
+    list = "left"  # Configure layout for list pages
+    single = false # Configure layout for single pages
+    # Enable widgets in given order
+    # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+    # alternatively "ddg-search" can be used, to search via DuckDuckGo
+    # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+    widgets = ["ddg-search", "recent", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+
+
+
+########################################
+####                ####################
+####    MENU        ####################
+####                ####################
+########################################
+
+[menu]
+
+  [[menu.main]]
+    identifier = "etusivu"
+    name = "Etusivu"
+    url = "/"
+    weight = 1
+
+
+  [[menu.main]]
+    identifier = "kilta"
+    name = "Kilta"
+    url = "/kilta/"
+    weight = 2
+    [[menu.main]]
+      identifier = "yhteystiedot"
+      name = "Yhteystiedot"
+      url = "/kilta/yhteystiedot"
+      parent = "kilta"
+      weight = 1
+    [[menu.main]]
+      identifier = "hallitus"
+      name = "Hallitus"
+      url = "/kilta/hallitus"
+      parent = "kilta"
+      weight = 2
+    [[menu.main]]
+      identifier = "toimihenkilot"
+      name = "Toimihenkilöt"
+      url = "/kilta/toimihenkilot"
+      parent = "kilta"
+      weight = 3
+    [[menu.main]]
+      identifier = "historia"
+      name = "Historia"
+      url = "/kilta/historia"
+      parent = "kilta"
+      weight = 4
+    [[menu.main]]
+      identifier = "saannot"
+      name = "Säännöt"
+      url = "/kilta/saannot"
+      parent = "kilta"
+      weight = 5
+
+
+  [[menu.main]]
+    identifier = "toiminta"
+    name = "Toiminta"
+    url = "/toiminta/"
+    weight = 3
+    [[menu.main]]
+      identifier = "kiltahuone"
+      name = "Kiltahuone"
+      url = "/toiminta/kiltahuone"
+      parent = "toiminta"
+      weight = 1
+    [[menu.main]]
+      identifier = "otitsunii"
+      name = "otitsunii"
+      url = "/toiminta/otitsunii"
+      parent = "toiminta"
+      weight = 2
+    [[menu.main]]
+      identifier = "terminaali"
+      name = "Terminaali"
+      url = "/toiminta/terminaali"
+      parent = "toiminta"
+      weight = 3
+    [[menu.main]]
+      identifier = "laulut"
+      name = "Laulut"
+      url = "/toiminta/laulut"
+      parent = "toiminta"
+      weight = 4
+
+
+  [[menu.main]]
+    identifier = "fuksit"
+    name = "Fuksit"
+    url = "/fuksit/"
+    weight = 4
+    [[menu.main]]
+      identifier = "pienryhmaohjaajat"
+      name = "Pienryhmäohjaajat"
+      url = "/fuksit/pienryhmaohjaajat"
+      parent = "fuksit"
+      weight = 1
+    [[menu.main]]
+      identifier = "tietopaketti"
+      name = "Tietopaketti"
+      url = "/fuksit/tietopaketti"
+      parent = "fuksit"
+      weight = 2
+    [[menu.main]]
+      identifier = "ukk"
+      name = "UKK"
+      url = "/fuksit/ukk"
+      parent = "fuksit"
+      weight = 3
+
+
+  [[menu.main]]
+    identifier = "yritykset"
+    name = "Yritykset"
+    url = "/yritykset/"
+    weight = 5
+
+
+  [[menu.main]]
+    identifier = "tietopankki"
+    name = "Tietopankki"
+    url = "/tietopankki/"
+    weight = 6
+    [[menu.main]]
+      identifier = "irc-opas"
+      name = "IRC-opas"
+      url = "/tietopankki/irc-opas"
+      parent = "tietopankki"
+      weight = 1
+    [[menu.main]]
+      identifier = "astiasto"
+      name = "Astiasto"
+      url = "/tietopankki/astiasto"
+      parent = "tietopankki"
+      weight = 2
+    [[menu.main]]
+      identifier = "laskutuspohja"
+      name = "Laskutuspohja"
+      url = "/tietopankki/laskutuspohja"
+      parent = "tietopankki"
+      weight = 3
+    [[menu.main]]
+      identifier = "tenttiarkisto"
+      name = "Tenttiarkisto"
+      url = "/tietopankki/tenttiarkisto"
+      parent = "tietopankki"
+      weight = 4
+    [[menu.main]]
+      identifier = "jasenhakemus"
+      name = "Jäsenhakemus"
+      url = "/tietopankki/jasenhakemus"
+      parent = "tietopankki"
+      weight = 5
+    [[menu.main]]
+      identifier = "hyodyllisia-ohjelmia-opiskelijoille"
+      name = "Hyödyllisiä ohjelmia opiskelijoille"
+      url = "/tietopankki/hyodyllisia-ohjelmia-opiskelijoille"
+      parent = "tietopankki"
+      weight = 6
+    [[menu.main]]
+      identifier = "tietosuojaselosteet"
+      name = "Tietosuojaselosteet"
+      url = "/tietopankki/tietosuojaselosteet"
+      parent = "tietopankki"
+      weight = 7
+    [[menu.main]]
+      identifier = "otitsunii-tunnushakemus"
+      name = "otitsunii-tunnushakemus"
+      url = "/tietopankki/otitsunii-tunnushakemus"
+      parent = "tietopankki"
+      weight = 8
+
+
+  [[menu.main]]
+    identifier = "galleria"
+    name = "Galleria"
+    url = "/galleria/"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "palaute"
+    name = "Palaute"
+    url = "/palaute/"
+    weight = 8
+
+########################################
+####                   #################
+####    ENDMENU        #################
+####                   #################
+########################################
