@@ -1525,6 +1525,8 @@ textarea {
 	  position: absolute;
 	  right: 1rem;
 	  top: auto;
+	  min-width: 50px;
+	  text-align: right;
 	}
   
 	.menu__item.menu__dropdown input[type="checkbox"] + .submenu__list {
@@ -1547,6 +1549,8 @@ textarea {
 	  position: absolute;
 	  right: 1rem;
 	  top: auto;
+	  min-width: 50px;
+	  text-align: right;
 	}
   
 	.menu__item.menu__dropdown input[type="checkbox"] + .submenu__list {
