@@ -37,4 +37,15 @@ Halitulijullin julli, tsatsatsaa, pilipalipom tsatsatsaa
 åå… såå… svinger vi på seidelen igen – hej skål!
 
 ## Laulumaratonit
-Tulossa...
+- [2020](./laulumaraton2020)
+- [2019](./laulumaraton2019)
+- [2018](./laulumaraton2018)
+- [2017](./laulumaraton2017)
+- [2016](./laulumaraton2016)
+- [2015](./laulumaraton2015)
+- [2014](./laulumaraton2014)
+- [2013](./laulumaraton2013)
+- [2012](./laulumaraton2012)
+- [2011](./laulumaraton2011)
+- [2010](./laulumaraton2010)
+- [2009](./laulumaraton2009)

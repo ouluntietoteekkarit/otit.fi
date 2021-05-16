@@ -8,11 +8,22 @@
     <language>fi</language>
     <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://otit.fi/categories/uutiset/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Uudet sivut</title>
-      <link>https://otit.fi/news/uudet_sivut/</link>
+      <title>Kauden päättäjäiset</title>
+      <link>https://otit.fi/uutiset/kauden_paattajaiset/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://otit.fi/news/uudet_sivut/</guid>
+      <guid>https://otit.fi/uutiset/kauden_paattajaiset/</guid>
+      <description>Moikkelis moi!
+Voi juku ku pukkaa eventtiä nimittäin nyt tulevana perjantaina (21.5) on OTiTin kauden päättäjäiset! Luvassa on visailuja, pelejä ja kaikkea muuta hauskaa. Merkkaa siis päivä kalenteriisi ja laita hauskanpitohousut jalkaan jo valmiiksi. Tarkempaa infoa tulee pian, joten olkaahan kuulolla :D
+Aurinkoista ja kesäistä kesää kaikille!</description>
+    </item>
+    
+    <item>
+      <title>Uudet sivut</title>
+      <link>https://otit.fi/uutiset/uudet_sivut/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://otit.fi/uutiset/uudet_sivut/</guid>
       <description>Oulun Tietoteekkarit ry:n kotisivut ovat uudistuneet. Puuttuvaa sisältöä pyritään lisäämään mahdollisimman pian.</description>
     </item>
     
