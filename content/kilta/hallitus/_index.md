@@ -60,3 +60,7 @@ menu:
 - Ella Marjamaa
 - IRCnet: isolla
 - soteministeri(at)otit.fi
+
+---
+
+## Edeltävien vuosien hallitukset löytyvät [täältä](https://otit.fi/kilta/wanhat-toimijat)
