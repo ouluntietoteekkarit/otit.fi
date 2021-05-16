@@ -10,7 +10,7 @@ Terminaali on Oulun Tietoteekkarit ry:n virallinen kiltalehti ja pää-äänenka
 
 Terminaalin päätoimittajana toimii killan tiedotusministeri. Päätoimittajan tehtäviin kuuluu lähinnä lehden taitto, levitys ja yleisen Teekkarihengen ylläpito Terminaalin ”tasokkaassa” painoksessa. Toimituskunta (ja lehti) elävät kädet ristissä toivoen ja luottaen kiltalaisen aineksen kykyyn tuottaa kirjallisia tahi graafisia dokumentteja elämästään ja kokemastaan.
 
-Terminaalin verkkoversioita voit lukea täältä.
+Terminaalin verkkoversioita voit lukea [täältä](https://otit.fi/toiminta/terminaali/verkkoversiot).
 
 Terminaalin joidenkin numeroiden verkkoversioissa saattaa olla pieniä eroja painettuihin versioihin verrattuna. Syitä voimme vain arvailla.
 

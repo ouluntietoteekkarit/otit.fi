@@ -1,0 +1,198 @@
+---
+title: Terminaalin verkkoversiot
+date: 2021-15-5
+authorbox: false
+sidebar: true
+menu:
+---
+
+---
+
+## 2018 ->
+- ### 2021
+- ### 2020
+- ### 2019
+  - [1/2019](2018-2027/terminaali1901.pdf)
+  - [2/2019](2018-2027/terminaali1902.pdf)
+  - [3/2019](2018-2027/terminaali1903.pdf)
+  - [4/2019](2018-2027/terminaali1904.pdf)
+  - [Fuksinaamasto/2019](2018-2027/terminaali1903liite.pdf)
+- ### 2018
+  - [1/2018](2018-2027/terminaali1801.pdf)
+  - [2/2018](2018-2027/terminaali1802.pdf)
+  - [3/2018](2018-2027/terminaali1803.pdf)
+  - [4/2018](2018-2027/terminaali1804.pdf)
+  - [Fuksinaamasto/2018](2018-2027/terminaali1803liite.pdf)
+
+---
+
+## 2008 - 2017
+- ### 2017
+  - [1/2017](2008-2017/terminaali1701.pdf)
+  - [2/2017](2008-2017/terminaali1702.pdf)
+  - [3/2017](2008-2017/terminaali1703.pdf)
+  - [4/2017](2008-2017/terminaali1704.pdf)
+  - [Fuksinaamasto/2017](2008-2017/terminaali1703liite.pdf)
+- ### 2016
+  - [1/2016](2008-2017/terminaali1601.pdf)
+  - [2/2016](2008-2017/terminaali1602.pdf)
+  - [3/2016](2008-2017/terminaali1603.pdf)
+  - [4/2016](2008-2017/terminaali1604.pdf)
+  - [Fuksinaamasto/2016](2008-2017/terminaali1603liite.pdf)
+- ### 2015
+  - [1/2015](2008-2017/terminaali1501.pdf)
+  - [2/2015](2008-2017/terminaali1502.pdf)
+  - [3/2015](2008-2017/terminaali1503.pdf)
+  - [4/2015](2008-2017/terminaali1504.pdf)
+  - [Fuksinaamasto/2015](2008-2017/terminaali1503liite.pdf)
+- ### 2014
+  - [1/2014](2008-2017/terminaali1401.pdf)
+  - [2/2014](2008-2017/terminaali1402.pdf)
+  - [3/2014](2008-2017/terminaali1403.pdf)
+  - [4/2014](2008-2017/terminaali1404.pdf)
+  - [Fuksinaamasto/2014](2008-2017/terminaali1403liite.pdf)
+- ### 2013
+  - [1/2013](2008-2017/terminaali1301.pdf)
+  - [2/2013](2008-2017/terminaali1302.pdf)
+  - [3/2013](2008-2017/terminaali1303.pdf)
+  - [4/2013](2008-2017/terminaali1304.pdf)
+- ### 2012
+  - [1/2012](2008-2017/terminaali1201.pdf)
+  - [2/2012](2008-2017/terminaali1202.pdf)
+  - [3/2012](2008-2017/terminaali1203.pdf)
+  - [4/2012](2008-2017/terminaali1204.pdf)
+- ### 2011
+  - [3/2011](2008-2017/terminaali1103.pdf)
+  - [4/2011](2008-2017/terminaali1104.pdf)
+- ### 2010
+  - [1/2010](2008-2017/terminaali110.pdf)
+- ### 2009
+  - [1/2009](2008-2017/terminaali109.pdf)
+  - [2/2009](2008-2017/terminaali209.pdf)
+  - [3/2009](2008-2017/terminaali309.pdf)
+  - [4/2009](2008-2017/terminaali409.pdf)
+  - [Fuksinaali/2009](2008-2017/terminaaliF09.pdf)
+- ### 2008
+  - [1/2008](2008-2017/terminaali108.pdf)
+  - [2/2008](2008-2017/terminaali208.pdf)
+  - [3/2008](2008-2017/terminaali2.5_08.pdf)
+  - [4/2008](2008-2017/terminaali3-408.pdf)
+
+---
+
+## 1998 - 2007
+- ### 2007
+  - [1/2007](1998-2007/terminaali107.pdf)
+  - [2/2007](1998-2007/terminaali207.pdf)
+  - [3/2007](1998-2007/terminaali307.pdf)
+  - [4/2007](1998-2007/terminaali407.pdf)
+  - [Fuksinaali/2007](1998-2007/terminaali207f.pdf)
+- ### 2006
+  - [1/2006](1998-2007/terminaali106.pdf)
+  - [2/2006](1998-2007/terminaali206.pdf)
+  - [3/2006](1998-2007/terminaali306.pdf)
+  - [4/2006](1998-2007/terminaali406.pdf)
+  - [5/2006](1998-2007/terminaali506.pdf)
+  - [Erikoisnumero/2006](1998-2007/terminaali306_A.pdf)
+- ### 2005
+  - [1/2005](1998-2007/terminaali105.pdf)
+  - [2/2005](1998-2007/terminaali205.pdf)
+  - [3/2005](1998-2007/terminaali305.pdf)
+  - [4/2005](1998-2007/terminaali405.pdf)
+  - [Fuksinaali/2005](1998-2007/terminaali25405.pdf)
+- ### 2004
+  - [1/2004](1998-2007/terminaali104.pdf)
+  - [2/2004](1998-2007/terminaali204.pdf)
+  - [3/2004](1998-2007/terminaali304.pdf)
+  - [4/2004](1998-2007/terminaali404.pdf)
+  - [Fuksinaali/2004](1998-2007/terminaali2.67_04.pdf)
+- ### 2003
+  - [1/2003](1998-2007/terminaali103.pdf)
+  - [2/2003](1998-2007/terminaali203.pdf)
+  - [3/2003](1998-2007/terminaali303.pdf)
+  - [4/2003](1998-2007/terminaali403.pdf)
+  - [Fuksinaali/2003](1998-2007/terminaali2.718_03.pdf)
+- ### 2002
+  - [1/2002](1998-2007/terminaali102.pdf)
+  - [2/2002](1998-2007/terminaali202.pdf)
+  - [3/2002](1998-2007/terminaali302.pdf)
+  - [4/2002](1998-2007/terminaali402.pdf)
+  - [5/2002](1998-2007/terminaali502.pdf)
+  - [Fuksinaali/2002](1998-2007/terminaali2.57_02.pdf)
+- ### 2001
+  - [1/2001](1998-2007/terminaali101.pdf)
+  - [2/2001](1998-2007/terminaali201.pdf)
+  - [3/2001](1998-2007/terminaali301.pdf)
+  - [4/2001](1998-2007/terminaali401.pdf)
+  - [Fuksinaali/2001](1998-2007/terminaali2f01.pdf)
+- ### 2000
+  - [1/2000](1998-2007/terminaali100.pdf)
+  - [2/2000](1998-2007/terminaali200.pdf)
+  - [3/2000](1998-2007/terminaali300.pdf)
+  - [4/2000](1998-2007/terminaali400.pdf)
+- ### 1999
+  - [2/1999](1998-2007/terminaali299.pdf)
+  - [3/1999](1998-2007/terminaali399.pdf)
+  - [4/1999](1998-2007/terminaali499.pdf)
+  - [5/1999](1998-2007/terminaali599.pdf)
+- ### 1998
+  - [1/1998](1998-2007/terminaali198.pdf)
+  - [2/1998](1998-2007/terminaali298.pdf)
+  - [3/1998](1998-2007/terminaali398.pdf)
+  - [4/1998](1998-2007/terminaali498.pdf)
+
+---
+
+## 1988 - 1997
+- ### 1997
+  - [1/1997](1988-1997/terminaali197.pdf)
+  - [2/1997](1988-1997/terminaali297.pdf)
+  - [3/1997](1988-1997/terminaali397.pdf)
+  - [4/1997](1988-1997/terminaali497.pdf)
+- ### 1996
+  - [1/1996](1988-1997/terminaali196.pdf)
+  - [2/1996](1988-1997/terminaali296.pdf)
+  - [3/1996](1988-1997/terminaali396.pdf)
+- ### 1995
+  - [1/1995](1988-1997/terminaali195.pdf)
+  - [2/1995](1988-1997/terminaali295.pdf)
+  - [Fuksikuvasto/1995](1988-1997/terminaaliFK95.pdf)
+- ### 1994
+  - [1/1994](1988-1997/terminaali194.pdf)
+  - [2/1994](1988-1997/terminaali294.pdf)
+  - [3/1994](1988-1997/terminaali394.pdf)
+  - [Fuksikuvasto/1994](1988-1997/terminaaliFK94.pdf)
+- ### 1993
+  - [1/1993](1988-1997/terminaali393-1.pdf)
+  - [2/1993](1988-1997/terminaali393-2.pdf)
+  - [Fuksikuvasto/1993](1988-1997/terminaaliFK93.pdf)
+- ### 1992
+  - [1/1992](1988-1997/terminaali192.pdf)
+  - [2/1992](1988-1997/terminaali292.pdf)
+  - [3/1992](1988-1997/terminaali392.pdf)
+  - [4/1992](1988-1997/terminaali492.pdf)
+  - [Fuksikuvasto/1992](1988-1997/terminaaliFK92.pdf)
+- ### 1991
+  - [1/1991](1988-1997/terminaali191.pdf)
+  - [2/1991](1988-1997/terminaali291.pdf)
+  - [3/1991](1988-1997/terminaali391.pdf)
+  - [4/1991](1988-1997/terminaali491.pdf)
+- ### 1990
+  - [1/1990](1988-1997/terminaali190.pdf)
+  - [2/1990](1988-1997/terminaali290.pdf)
+  - [3/1990](1988-1997/terminaali390.pdf)
+- ### 1989
+  - [1/1989](1988-1997/terminaali189.pdf)
+  - [2/1989](1988-1997/terminaali289.pdf)
+  - [3/1989](1988-1997/terminaali389.pdf)
+- ### 1988
+  - [1/1988](1988-1997/terminaali188.pdf)
+
+---
+
+## Vuosijuhlapainokset
+ - [OTiT 10v](vuosijuhlapainokset/otit_10v.pdf)
+ - [OTiT 15v](vuosijuhlapainokset/otit_15v.pdf)
+ - [OTiT 20v](vuosijuhlapainokset/otit_20v.pdf)
+
+---
