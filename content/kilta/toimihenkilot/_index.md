@@ -184,3 +184,7 @@ menu:
 #### Suurlähettiläs
 - Aleksi Tuovinen
 - IRCnet: pintti
+
+---
+
+## Edeltävien vuosien toimihenkilöt löytyvät [täältä](https://otit.fi/kilta/wanhat-toimijat)
