@@ -13,16 +13,17 @@ paginate = "5" # Number of posts per page
     copyright = "Oulun Tietoteekkarit ry" # Footer copyright holder, otherwise will use site title
     toc = true # Enable Table of Contents
     pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
-    authorbox = true
+    authorbox = false
     post_meta = ["date", "categories"] # Order of post meta information
-    footer_logo_title = "Kannatusjäsenet"
+    footer_heading = "Kannatusjäsenet"
 
 [Params.style.vars]
     # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
     # Take care of different quotes OR escaping symbols in these params if necessary
     fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
     fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-    #highlightColor = "#401d8d" # Override highlight color
+    #highlightColor = "#e22d30" # Override highlight color
+    highlightColor = "#3e00c8" # Override highlight color
 
 
 [Params.logo]

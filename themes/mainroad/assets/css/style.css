@@ -429,6 +429,10 @@ select {
 	line-height: 1;
 	/*color: #000;*/
 	color: white;
+	text-shadow: -2px 2px 0 #000,
+				  2px 2px 0 #000,
+				 2px -2px 0 #000,
+				-2px -2px 0 #000;
 }
 
 .logo__tagline {
@@ -1171,6 +1175,13 @@ textarea {
 	border-top: 3px solid #999;
 }
 
+.footer-heading {
+	padding: 10px 25px;
+	color: #999;
+	background: #2a2a2a;
+	border-top: 3px solid #999;
+}
+
 .footer__container {
 	-webkit-flex-flow: row wrap;
 	flex-flow: row wrap;
@@ -1381,7 +1392,8 @@ textarea {
   }
   
   :focus > .menu__btn-title {
-	box-shadow: inset 0 0 1px 3px #e22d30;
+	/*box-shadow: inset 0 0 1px 3px #e22d30;*/
+	box-shadow: inset 0 0 1px 3px #3e00c8;
   }
   
   button:not(:-moz-focusring):focus > .menu__btn-title {
@@ -1394,7 +1406,8 @@ textarea {
   }
   
   .js .menu__btn--active {
-	color: #e22d30;
+	/*color: #e22d30;*/
+	color: #3e00c8;
   }
   
   .menu__list,
@@ -1404,7 +1417,8 @@ textarea {
   }
   
   .menu__item:hover > a {
-	color: #ffa500;
+	/*color: #ffa500;*/
+	color: white;
   }
   
   .menu__item:first-child {
@@ -1412,7 +1426,8 @@ textarea {
   }
   
   .menu__item--active {
-	background: #e22d30;
+	/*background: #e22d30;*/
+	background: #3e00c8;
   }
   
   .menu__link {
@@ -1431,7 +1446,8 @@ textarea {
 	position: absolute;
 	max-width: 15rem;
 	transition: all 0.5s ease;
-	border-top: 5px solid #e22d30;
+	/*border-top: 5px solid #e22d30;*/
+	border-top: 5px solid #3e00c8;
 	display: none;
   }
   
@@ -1478,7 +1494,8 @@ textarea {
   
   @media screen and (min-width: 767px) {
 	.menu {
-	  border-bottom: 5px solid #e22d30;
+	  /*border-bottom: 5px solid #e22d30;*/
+	  border-bottom: 5px solid #3e00c8;
 	}
   
 	.menu__btn {
