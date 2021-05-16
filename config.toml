@@ -2,7 +2,8 @@ baseURL = "https://otit.fi/"
 languageCode = "fi"
 title = "Oulun Tietoteekkarit ry"
 theme = "mainroad"
-paginate = "10" # Number of posts per page
+paginate = "5" # Number of posts per page
+
 
 
 [Author] # Used in authorbox
@@ -12,6 +13,9 @@ paginate = "10" # Number of posts per page
     copyright = "Oulun Tietoteekkarit ry" # Footer copyright holder, otherwise will use site title
     toc = true # Enable Table of Contents
     pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+    authorbox = true
+    post_meta = ["date", "categories"] # Order of post meta information
+    footer_logo_title = "Kannatusjäsenet"
 
 [Params.style.vars]
     # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
@@ -26,13 +30,13 @@ paginate = "10" # Number of posts per page
 
 [Params.sidebar]
     home = "right" # Configure layout for home page
-    list = "left"  # Configure layout for list pages
-    single = false # Configure layout for single pages
+    list = "right"  # Configure layout for list pages
+    single = "right" # Configure layout for single pages
     # Enable widgets in given order
     # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
     # alternatively "ddg-search" can be used, to search via DuckDuckGo
     # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
-    widgets = ["ddg-search", "recent", "calendar", "languages"]
+    widgets = ["ddg-search", "sidemenu", "recent", "calendar", "languages"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -52,6 +56,12 @@ paginate = "10" # Number of posts per page
 ########################################
 
 [menu]
+
+########################################
+####                ####################
+####    MAIN MENU   ####################
+####                ####################
+########################################
 
   [[menu.main]]
     identifier = "etusivu"
@@ -226,6 +236,80 @@ paginate = "10" # Number of posts per page
     name = "Palaute"
     url = "/palaute/"
     weight = 8
+
+########################################
+####                    ################
+####    END MAIN MENU   ################
+####                    ################
+########################################
+
+
+########################################
+####                   #################
+####    LOGOS          #################
+####                   #################
+########################################
+
+  [[menu.footer]]
+    identifier = "startuplifers-logo"
+    name = ""
+    url = "https://startuplifers.org/"
+    pre = "<a href='https://startuplifers.org/'><img src='/img/Startuplifers_Logo_Red_RGB_medium-1.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "boogie-logo"
+    name = ""
+    url = "https://boogiesoftware.com/"
+    pre = "<a href='https://boogiesoftware.com/'><img src='/img/boogie_logo-e1584384843857.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "buutti-logo"
+    name = ""
+    url = "https://buutti.com/"
+    pre = "<a href='https://buutti.com/'><img src='/img/Buutti-Logo.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "codemate-logo"
+    name = ""
+    url = "https://www.codemate.com/"
+    pre = "<a href='https://www.codemate.com/'><img src='/img/codemate-Logo-tagline-white-nobg.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "mediatek-logo"
+    name = ""
+    url = "https://www.mediatek.com/"
+    pre = "<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "siili-logo"
+    name = ""
+    url = "https://www.siili.com/"
+    pre = "<a href='https://www.siili.com/'><img src='/img/Siili_logo_text_8_spikes_Black_RGB_28042020.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "synopsys-logo"
+    name = ""
+    url = "https://www.synopsys.com/"
+    pre = "<a href='https://www.synopsys.com/'><img src='/img/snps-logo-sts-purple-grey-e1581696903879.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "verkotan-logo"
+    name = ""
+    url = "https://verkotan.com/"
+    pre = "<a href='https://verkotan.com/'><img src='/img/verkotan.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "visidon-logo"
+    name = ""
+    url = "https://www.visidon.fi/"
+    pre = "<a href='https://www.visidon.fi/'><img src='/img/Visidon_logo_RGB_1200dpi_white.png' style='padding: 20px; max-height: 140px; max-width: 220px;'></a>"
+    weight = 1
+
+########################################
+####                   #################
+####    ENDLOGOS       #################
+####                   #################
+########################################
 
 ########################################
 ####                   #################

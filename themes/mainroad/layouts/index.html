@@ -6,6 +6,7 @@
 		{{ . }}
 	</div>
 	{{- end }}
+	<h1 class="widget__title">{{ T "recent_title" }}</h1>
 	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 	{{- range $paginator.Pages }}
 		{{- .Render "summary" }}
