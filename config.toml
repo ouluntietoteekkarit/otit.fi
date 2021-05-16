@@ -22,9 +22,12 @@ paginate = "5" # Number of posts per page
     # Take care of different quotes OR escaping symbols in these params if necessary
     fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
     fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+    #highlightColor = "#401d8d" # Override highlight color
+
 
 [Params.logo]
     image = "img/logoo.png" # Logo image. Path relative to "static"
+    backgroundimage = "/img/IMG_3562.jpeg"
     title = "Oulun Tietoteekkarit ry" # Logo title, otherwise will use site title
     subtitle = "" # Logo subtitle
 
@@ -225,17 +228,17 @@ paginate = "5" # Number of posts per page
       weight = 8
 
 
-  [[menu.main]]
-    identifier = "galleria"
-    name = "Galleria"
-    url = "/galleria/"
-    weight = 7
+#  [[menu.main]]
+#    identifier = "galleria"
+#    name = "Galleria"
+#    url = "/galleria/"
+#    weight = 7
 
-  [[menu.main]]
-    identifier = "palaute"
-    name = "Palaute"
-    url = "/palaute/"
-    weight = 8
+#  [[menu.main]]
+#    identifier = "palaute"
+#    name = "Palaute"
+#    url = "/palaute/"
+#    weight = 8
 
 ########################################
 ####                    ################
