@@ -19,3 +19,7 @@ Akseli Uunila
 Santeri Hyvärinen
 
 varapro Juho Bruun
+
+---
+
+Edeltävien vuosien pienryhmäohjaajat löytyvät [täältä](./wanhat-prot)
