@@ -187,4 +187,4 @@ menu:
 
 ---
 
-## Edeltävien vuosien toimihenkilöt löytyvät [täältä](/kilta/wanhat-toimijat)
+## Officials of previous years can be found [here](/kilta/wanhat-toimijat) (in finnish)
