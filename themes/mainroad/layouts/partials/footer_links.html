@@ -2,7 +2,7 @@
 {{- with .Site.Menus.footer }}
 <div class="footer__links">
 	{{ range $key, $value := . }}
-		{{- if ne $key 0 }} | {{ end -}}
+		<!--{{- if ne $key 0 }} | {{ end -}}-->
 		{{ .Pre }}
 		<a class="footer__link" href="{{ $value.URL }}">{{ $value.Name }}</a>
 	{{- end }}

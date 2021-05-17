@@ -187,4 +187,4 @@ menu:
 
 ---
 
-## Edeltävien vuosien toimihenkilöt löytyvät [täältä](https://otit.fi/kilta/wanhat-toimijat)
+## Edeltävien vuosien toimihenkilöt löytyvät [täältä](/kilta/wanhat-toimijat)
