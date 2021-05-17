@@ -2,7 +2,7 @@
 
 Website for Oulun Tietoteekkarit ry (University of Oulu CSE student guild)
 
-Made with the [hugo static site generator](https://gohugo.io/) and a slightly modified version of the [hugo Mainroad theme](https://themes.gohugo.io/mainroad/).
+Made with the [Hugo static site generator](https://gohugo.io/) and a slightly modified version of the [Hugo Mainroad theme](https://themes.gohugo.io/mainroad/).
 
 Found at https://otit.fi
 

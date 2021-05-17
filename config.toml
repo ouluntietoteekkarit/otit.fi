@@ -5,6 +5,62 @@ theme = "mainroad"
 paginate = "8" # Number of posts per page
 
 
+defaultContentLanguage = "fi"
+
+[languages]
+
+[languages.fi]
+weight = 1
+
+########################################
+####                ####################
+####    LANG EN     ####################
+####                ####################
+########################################
+
+[languages.en]
+weight = 2
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
+    identifier = "etusivu"
+    name = "Frontpage"
+    url = "/en/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    identifier = "kilta"
+    name = "Guild"
+    url = "/en/kilta/"
+    weight = 2
+    [[languages.en.menu.main]]
+      identifier = "yhteystiedot"
+      name = "Contact"
+      url = "/en/kilta/yhteystiedot"
+      parent = "kilta"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "hallitus"
+      name = "Board"
+      url = "/en/kilta/hallitus"
+      parent = "kilta"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "toimihenkilot"
+      name = "Officials"
+      url = "/en/kilta/toimihenkilot"
+      parent = "kilta"
+      weight = 3
+
+########################################
+####                    ################
+####    END LANG EN     ################
+####                    ################
+########################################
+
+
+
 
 [Author] # Used in authorbox
     name = "Oulun Tietoteekkarit ry"
@@ -47,7 +103,6 @@ paginate = "8" # Number of posts per page
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
-
 
 
 
