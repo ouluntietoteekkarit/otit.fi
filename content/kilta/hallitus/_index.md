@@ -63,4 +63,4 @@ menu:
 
 ---
 
-## Edeltävien vuosien hallitukset löytyvät [täältä](https://otit.fi/kilta/wanhat-toimijat)
+## Edeltävien vuosien hallitukset löytyvät [täältä](/kilta/wanhat-toimijat)
