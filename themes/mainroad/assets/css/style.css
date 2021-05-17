@@ -1526,7 +1526,8 @@ textarea {
 	  position: absolute;
 	  right: 1rem;
 	  top: auto;
-	  min-width: 50px;
+	  min-width: 85px;
+	  padding-right: 25px;
 	  text-align: right;
 	}
   
@@ -1550,7 +1551,8 @@ textarea {
 	  position: absolute;
 	  right: 1rem;
 	  top: auto;
-	  min-width: 50px;
+	  min-width: 85px;
+	  padding-right: 25px;
 	  text-align: right;
 	}
   
@@ -1567,6 +1569,14 @@ textarea {
 	  position: relative;
 	  max-width: 100%;
 	}
+  }
+
+  .menu__item.menu__dropdown .drop-icon {
+	right: 1rem;
+	top: auto;
+	padding-left: 10px;
+	padding-right: 5px;
+	text-align: center;
   }
 
 /*
