@@ -8,11 +8,11 @@ menu:
 
 ###### Kaikenlaista sekalaista mutta enemmän tai vähemmän hyödyllistä tietoa
 
-- [IRC-opas](https://otit.fi/tietopankki/irc-opas)
-- [Astiasto](https://otit.fi/tietopankki/astiasto)
-- [Laskutuspohja](https://otit.fi/tietopankki/laskutuspohja)
-- [Tenttiarkisto](https://otit.fi/tietopankki/tenttiarkisto)
-- [Jäsenhakemus](https://otit.fi/tietopankki/jasenhakemus)
-- [Hyödyllisiä ohjelmia opiskelijoille](https://otit.fi/tietopankki/hyodyllisia-ohjelmia-opiskelijoille)
-- [Tietosuojaselosteet](https://otit.fi/tietopankki/tietosuojaselosteet)
-- [otitsunii-tunnushakemus](https://otit.fi/tietopankki/otitsunii-tunnushakemus)
+- [IRC-opas](/tietopankki/irc-opas)
+- [Astiasto](/tietopankki/astiasto)
+- [Laskutuspohja](/tietopankki/laskutuspohja)
+- [Tenttiarkisto](/tietopankki/tenttiarkisto)
+- [Jäsenhakemus](/tietopankki/jasenhakemus)
+- [Hyödyllisiä ohjelmia opiskelijoille](/tietopankki/hyodyllisia-ohjelmia-opiskelijoille)
+- [Tietosuojaselosteet](/tietopankki/tietosuojaselosteet)
+- [otitsunii-tunnushakemus](/tietopankki/otitsunii-tunnushakemus)
