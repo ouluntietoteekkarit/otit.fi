@@ -10,7 +10,14 @@ menu:
 
 ## 2018 ->
 - ### 2021
+  - [1/2020](2018-2027/terminaali2101.pdf)
+  - [2/2020](2018-2027/terminaali2102.pdf)
 - ### 2020
+  - [1/2020](2018-2027/terminaali2001.pdf)
+  - [2/2020](2018-2027/terminaali2002.pdf)
+  - [3/2020](2018-2027/terminaali2003.pdf)
+  - [4/2020](2018-2027/terminaali2004.pdf)
+  - [Fuksinaamasto/2020](2018-2027/terminaali2003liite.pdf)
 - ### 2019
   - [1/2019](2018-2027/terminaali1901.pdf)
   - [2/2019](2018-2027/terminaali1902.pdf)

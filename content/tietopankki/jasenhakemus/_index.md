@@ -6,4 +6,4 @@ sidebar: true
 menu:
 ---
 
-Jäsenhakemuksen (PDF) voi palauttaa hallituksen jäsenelle.
+Jäsenhakemuksen [(PDF)](otit_jasenhakemus.pdf) voi palauttaa hallituksen jäsenelle.

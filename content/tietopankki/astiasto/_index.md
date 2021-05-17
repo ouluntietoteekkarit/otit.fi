@@ -14,4 +14,4 @@ Lisempää informaatiota saa rahastonhoitajalta osoitteesta rahastonhoitaja(at)o
 
 Kun olet vuokraamassa astiastoa, ota yhteyttä rahastonhoitajaan ja sovi haku- ja palautuspäivämäärät.
 
-~~PDF-muotoisen vuokrauslomakkeen saat tästä tai kysymällä hallituksen jäseneltä. Lomakkeen voit täyttää joko etukäteen tai kun haet astiat.~~
+PDF-muotoisen vuokrauslomakkeen saat [tästä](astiaston_vuokrauslomake.pdf) tai kysymällä hallituksen jäseneltä. Lomakkeen voit täyttää joko etukäteen tai kun haet astiat.
