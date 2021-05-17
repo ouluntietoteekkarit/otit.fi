@@ -48,7 +48,8 @@ body {
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
-	background: #f7f7f7;
+	/*background: #f7f7f7;*/
+	background-color: #e2e2e2;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -1518,7 +1519,8 @@ textarea {
 	  position: absolute;
 	  right: 1rem;
 	  top: auto;
-	  min-width: 50px;
+	  min-width: 85px;
+	  padding-right: 25px;
 	  text-align: right;
 	}
   
@@ -1542,7 +1544,8 @@ textarea {
 	  position: absolute;
 	  right: 1rem;
 	  top: auto;
-	  min-width: 50px;
+	  min-width: 85px;
+	  padding-right: 25px;
 	  text-align: right;
 	}
   
@@ -1559,6 +1562,14 @@ textarea {
 	  position: relative;
 	  max-width: 100%;
 	}
+  }
+
+  .menu__item.menu__dropdown .drop-icon {
+	right: 1rem;
+	top: auto;
+	padding-left: 10px;
+	padding-right: 5px;
+	text-align: center;
   }
 
 /*
