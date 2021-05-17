@@ -10,7 +10,7 @@ Terminaali on Oulun Tietoteekkarit ry:n virallinen kiltalehti ja pää-äänenka
 
 Terminaalin päätoimittajana toimii killan tiedotusministeri. Päätoimittajan tehtäviin kuuluu lähinnä lehden taitto, levitys ja yleisen Teekkarihengen ylläpito Terminaalin ”tasokkaassa” painoksessa. Toimituskunta (ja lehti) elävät kädet ristissä toivoen ja luottaen kiltalaisen aineksen kykyyn tuottaa kirjallisia tahi graafisia dokumentteja elämästään ja kokemastaan.
 
-Terminaalin verkkoversioita voit lukea [täältä](https://otit.fi/toiminta/terminaali/verkkoversiot).
+Terminaalin verkkoversioita voit lukea [täältä](verkkoversiot).
 
 Terminaalin joidenkin numeroiden verkkoversioissa saattaa olla pieniä eroja painettuihin versioihin verrattuna. Syitä voimme vain arvailla.
 
@@ -79,10 +79,10 @@ Entiset päätoimittajat
 
 Muiden kiltojen lehdet
 - [Porle](http://www.prosessikilta.fi/index.php/kilta/porle)
-- [Sinssi](http://www.sik.fi/index.php/fi/palvelut/sinssi)
+- [Sinssi](https://www.sik.fi/?page_id=120)
 - [Kampiakseli](http://palkki.oulu.fi/kilta/palvelut/kampiakseli)
-- [Nakertaja](http://www.ymparistorakentajakilta.net/cms/index.php/nakertaja.html)
-- [Alkkari](http://oulunarkkitehtikilta.net/kilta/julkaisut/)
+- [Nakertaja](http://www.ymparistorakentajakilta.net/nakertaja/)
+- [Alkkari](https://oulunarkkitehtikilta.net/kilta/kiltalehti/)
 - [Alkorytmi](http://www.tietokilta.fi/alkorytmi/)
 - [Nibble](http://tite.cs.tut.fi/wiki/nibble)
-- [File](http://www.digit.fi/toiminta.php?s=575)
+- [File](https://digit.fi/toiminta/file)

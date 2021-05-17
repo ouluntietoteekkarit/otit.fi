@@ -20,8 +20,8 @@ Lopuksi lasku on vielä päivättävä ja allekirjoitettava omakätisesti alaosa
 
 Laskulomake on saatavissa seuraavissa tiedostomuodoissa:
 
-- PDF
-- ODS
+- [PDF](otit_laskupohja.pdf)
+- [ODS](otit_laskupohja.ods)
 
 PostScript ja Gnumeric-muotoa lukuun ottamatta kaikki pohjat voi täyttää joko tietokoneen näytöllä ennen tulostusta tai paperille tulostuksen jälkeen. Tietokoneella täytettäessäkin lasku on kuitenkin allekirjoitettava käsin. Gnumeric-muotoisen laskupohjan voi täyttää ainoastaan näytöllä ja PostScript-muotoisen laskupohjan ainoastaan paperilla tulostuksen jälkeen.
 
