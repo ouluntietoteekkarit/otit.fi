@@ -51,8 +51,8 @@
 
 # Recent Posts widget
 - id: recent_title
-#  translation: "Recent Posts"
-  translation: "Uutiset"
+  translation: "Recent Posts"
+#  translation: "Uutiset"
 
 # Social widget
 - id: social_title
