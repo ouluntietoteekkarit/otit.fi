@@ -8,7 +8,7 @@ Found at https://otit.fi
 
 ### TODO:
 
-Automate deployment to server...
+Automate deployment to server
 
 ## Usage
 
