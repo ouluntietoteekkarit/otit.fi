@@ -11,5 +11,3 @@ menu:
 Oulun Tietoteekkarit ry on vuonna 1988 perustettu Oulun yliopistossa tietotekniikkaa ja informaatioverkostoja opiskelevien ainejärjestö.
 
 Kilta yhdistää Tietoteekkarit ja fuksit samanhenkiseksi poppooksi, joka touhuaa keskenään ja muiden Teekkarikiltojen kanssa monenlaista kivaa.
-testtestasdads
-kljdgkljdfsölgjöaldjfglöksjdfglöjsfölgkjsdlkgjsldkjfglökjlödjkfglökjöldkjsglökjfgölkj
