@@ -426,7 +426,7 @@ weight = 2
     identifier = "fingersoft-logo"
     name = ""
     url = "https://fingersoft.com/"
-    pre = "<a href='https://fingersoft.com/'><img src='/img/fingersoft_logo_450x378.jpg' style='padding: 20px; max-height: 180px; max-width: 240px;'></a>"
+    pre = "<a href='https://fingersoft.com/'><img src='/img/fingersoft_logo_450x378.png' style='padding: 20px; max-height: 180px; max-width: 240px;'></a>"
     weight = 1
 
 ########################################
