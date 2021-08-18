@@ -15,11 +15,11 @@ class MyHandler(BaseHTTPRequestHandler):
             if orig_signature == signature:
                 print("signature ok")
                 os.chdir("/var/www/otit.fi")
+                os.system("git stash")
+                os.chdir("/var/www/otit.fi")
                 os.system("git pull")
                 os.chdir("/var/www/otit.fi")
                 os.system("hugo")
-                os.chdir("/var/www/otit.fi")
-                os.system("mv public public_local")
             else:
                 print("signatures do not match")
             print(json_body)
