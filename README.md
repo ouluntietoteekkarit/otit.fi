@@ -6,6 +6,10 @@ Made with the [Hugo static site generator](https://gohugo.io/) and a slightly mo
 
 Found at https://otit.fi
 
+### TODO:
+
+Automate deployment to server. Possibly with https://github.com/peaceiris/actions-hugo
+
 ## Usage
 
 - [Install Hugo](https://gohugo.io/getting-started/installing/)
