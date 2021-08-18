@@ -8,7 +8,7 @@ Found at https://otit.fi
 
 ### TODO:
 
-Automate deployment to server. Possibly with https://github.com/peaceiris/actions-hugo
+Automate deployment to server...
 
 ## Usage
 
