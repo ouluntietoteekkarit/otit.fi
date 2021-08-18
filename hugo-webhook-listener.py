@@ -14,7 +14,7 @@ class MyHandler(BaseHTTPRequestHandler):
             signature = "sha256=" + signature
             if orig_signature == signature:
                 print("signature ok")
-                os.system()
+                os.system("git pull && hugo && mv public public_local")
             else:
                 print("signatures do not match")
             print(json_body)
