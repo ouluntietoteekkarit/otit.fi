@@ -1,0 +1,16 @@
+# copy into /etc/systemd/system/
+
+[Unit]
+Description=Webhook listeners for otit.fi
+After=network.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python3 /var/www/otit.fi/hugo-webhook-listener.py
+WorkingDirectory=/var/www/otit.fi
+Restart=always
+User=www-data
+Group=www-data
+
+[Install]
+WantedBy=multi-user.target
