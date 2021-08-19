@@ -1,24 +1,28 @@
 ---
-title: Vuoden 2020 pienryhmäohjaajat
-date: 2021-15-5
+title: Vuoden 2021 pienryhmäohjaajat
+date: 2021-19-8
 authorbox: false
 sidebar: true
 menu:
 ---
 
-Severi Pitkänen
+Ville Kylmämaa
 
-Aleksi Tuovinen
+Lotta Rantala
 
-Eemeli Häyrynen
+Petra Heikkinen
 
-Martti Mourujärvi
+Lasse Rapo
 
-Akseli Uunila
+Juho Bruun
 
-Santeri Hyvärinen
+Saku Salo
 
-varapro Juho Bruun
+Jere Koivisto
+
+
+Fuksivastaava: Santeri Hyvärinen
+Fuksiapuri: Mariel Kurki
 
 ---
 
