@@ -22,6 +22,7 @@ Jere Koivisto
 
 
 Fuksivastaava: Santeri Hyvärinen
+
 Fuksiapuri: Mariel Kurki
 
 ---
