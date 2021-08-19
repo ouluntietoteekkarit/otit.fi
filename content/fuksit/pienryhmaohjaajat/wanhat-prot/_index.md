@@ -6,6 +6,15 @@ sidebar: true
 menu:
 ---
 
+## 2020
+- Severi Pitkänen
+- Aleksi Tuovinen
+- Eemeli Häyrynen
+- Martti Mourujärvi
+- Akseli Uunila
+- Santeri Hyvärinen
+- varapro Juho Bruun
+
 ## 2018
 - Riina Annunen
 - Janne Eskola
