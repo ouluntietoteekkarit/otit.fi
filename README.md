@@ -6,9 +6,6 @@ Made with the [Hugo static site generator](https://gohugo.io/) and a slightly mo
 
 Found at https://otit.fi
 
-### TODO:
-
-Automate deployment to server...
 
 ## Usage
 
