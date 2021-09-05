@@ -223,6 +223,12 @@ weight = 2
       url = "/kilta/saannot"
       parent = "kilta"
       weight = 5
+    [[menu.main]]
+      identifier = "palaute"
+      name = "Palaute"
+      url = "/kilta/palaute"
+      parent = "kilta"
+      weight = 6
 
 
   [[menu.main]]
@@ -342,12 +348,11 @@ weight = 2
       parent = "tietopankki"
       weight = 8
 
-
-#  [[menu.main]]
-#    identifier = "galleria"
-#    name = "Galleria"
-#    url = "/galleria/"
-#    weight = 7
+  [[menu.main]]
+    identifier = "galleria"
+    name = "Galleria"
+    url = "https://galleria.otit.fi"
+    weight = 7
 
 #  [[menu.main]]
 #    identifier = "palaute"
