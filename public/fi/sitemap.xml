@@ -284,6 +284,10 @@
   </url>
   
   <url>
+    <loc>https://otit.fi/toiminta/haalarimerkit/</loc>
+  </url>
+  
+  <url>
     <loc>https://otit.fi/kilta/hallitus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -383,6 +387,10 @@
   
   <url>
     <loc>https://otit.fi/tietopankki/laskutuspohja/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/kilta/palaute/</loc>
   </url>
   
   <url>
