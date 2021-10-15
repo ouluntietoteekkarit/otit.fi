@@ -445,6 +445,12 @@ weight = 2
     url = "https://bit.ly/3ApqbpQ"
     pre = "<a href='https://bit.ly/3ApqbpQ'><img src='/img/sogeti.jpg' style='padding: 20px; max-height: 180px; max-width: 240px;'></a>"
     weight = 1
+  [[menu.footer]]
+    identifier = "qt-logo"
+    name = ""
+    url = "http://www.qt.io"
+    pre = "<a href='http://www.qt.io'><img src='/img/qt_logo_green_rgb.png' style='padding: 20px; max-height: 180px; max-width: 240px;'></a>"
+    weight = 1
 
 ########################################
 ####                   #################
