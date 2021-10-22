@@ -443,7 +443,7 @@ weight = 2
     identifier = "sogeti-logo"
     name = ""
     url = "https://bit.ly/3ApqbpQ"
-    pre = "<a href='https://bit.ly/3ApqbpQ'><img src='/img/sogeti.jpg' style='padding: 20px; max-height: 180px; max-width: 240px;'></a>"
+    pre = "<a href='https://bit.ly/3ApqbpQ'><img src='/img/Sogeti_Logo_WHITE_RGB.png style='padding: 20px; max-height: 180px; max-width: 240px;'></a>"
     weight = 1
   [[menu.footer]]
     identifier = "qt-logo"
