@@ -9,5 +9,5 @@ menu:
 ###### Tietohallinto - Ohjelmistot omaan käyttöön
 [https://www.oulu.fi/th/ohjelmistot](https://www.oulu.fi/th/ohjelmistot)
 
-###### Githubin student developer pack
+###### Githubin "student developer pack"
 [https://education.github.com/pack](https://education.github.com/pack)
