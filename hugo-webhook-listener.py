@@ -14,8 +14,9 @@ class MyHandler(BaseHTTPRequestHandler):
             signature = "sha256=" + signature
             if orig_signature == signature:
                 print("signature ok")
+
                 os.chdir("/var/www/otit.fi")
-                os.system("git stash")
+                os.system("git stash -u")
                 os.chdir("/var/www/otit.fi")
                 os.system("git pull")
                 os.chdir("/var/www/otit.fi")
