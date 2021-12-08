@@ -134,6 +134,12 @@ weight = 2
     url = "https://huld.io/"
     pre = "<a href='https://huld.io/'><img src='/img/huld_logo_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
+  [[languages.en.menu.footer]]
+    identifier = "iloq-logo"
+    name = ""
+    url = "https://www.iloq.com/en/"
+    pre = "<a href='https://www.iloq.com/en/'><img src='/img/Iloq_logo_slogan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
 
 ########################################
 ####                    ################
@@ -480,6 +486,12 @@ weight = 2
     name = ""
     url = "https://huld.io/"
     pre = "<a href='https://huld.io/'><img src='/img/huld_logo_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "iloq-logo"
+    name = ""
+    url = "https://www.iloq.com/en/"
+    pre = "<a href='https://www.iloq.com/en/'><img src='/img/Iloq_logo_slogan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
 
 ########################################
