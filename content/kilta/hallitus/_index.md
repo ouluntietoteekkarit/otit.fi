@@ -1,64 +1,64 @@
 ---
-title: Hallitus 2021
-date: 2021-15-5
+title: Hallitus 2022
+date: 2022-01-10
 authorbox: false
 sidebar: true
 menu:
 ---
 
 #### Puheenjohtaja
-- Riina Annunen
-- IRCnet: pirtuloe
+- Rainer Laaksonen
+- IRCnet: Kal3vi
 - puheenjohtaja(at)otit.fi
 
 #### Sihteeri
-- Lasse Rapo
-- IRCnet: betoni
+- Alina Piikivi
+- IRCnet: gerhard
 - sihteeri(at)otit.fi
 
-#### Propagandaministeri
-- Verneri Pudas
-- IRCnet: napalmi
-- propagandaministeri(at)otit.fi
+#### Tiedotusministeri
+- Niko Mätäsaho
+- IRCnet: esari
+- tiedotusministeri(at)otit.fi
 
 #### Kulttuuriministeri
-- Rainer Laaksonen
-- IRCnet: kal3vi
+- Mariel Kurki
+- IRCnet: kokkeli
 - kulttuuriministeri(at)otit.fi
 
 #### Työvoimaministeri
-- Santeri Hyvärinen
-- IRCnet: syomasa
+- Petra Heikkinen
+- IRCnet: liianiso
 - tyovoimaministeri(at)otit.fi
 
 #### Rahastonhoitaja
-- Mariel Kurki
-- IRCnet: kokkeli
+- Eira Paakkunainen
+- IRCnet: mentula
 - rahastonhoitaja(at)otit.fi
 
 #### Perhe- ja peruspalveluministeri
-- Janette Schönberg
-- IRCnet: onassis
+- Riina Annunen
+- IRCnet: pirtuloe
 - pepeministeri(at)otit.fi
 
 #### Ulkoministeri
-- Sara Jokitalo
-- IRCnet: munalla
+- Lauri Ala-Mursula
+- IRCnet: limeboi
 - ulkoministeri(at)otit.fi
 
 #### Sisäministeri
-- Juho Bruun
-- IRCnet: joensuu
+- Antti Koponen
+- IRCnet: taru
 - sisaministeri(at)otit.fi
 
 #### Opetusministeri
-- Aleksi Tuovinen
-- IRCnet: pintti
+- Santeri Hyvärinen
+- IRCnet: syomasa
 - opetusministeri(at)otit.fi
 
 #### Sosiaali- ja terveysministeri
-- Ella Marjamaa
-- IRCnet: isolla
+- Juho Bruun
+- IRCnet: joensuu
 - soteministeri(at)otit.fi
 
 ---
