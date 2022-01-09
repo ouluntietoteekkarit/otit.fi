@@ -1,32 +1,41 @@
 ---
-title: Toimihenkilöt 2021
-date: 2021-15-5
+title: Toimihenkilöt 2022
+date: 2022-01-10
 authorbox: false
 sidebar: true
 menu:
 ---
 
 #### Matriisi- ja viinivastaava
-- Vappu Schroderus
-- IRCnet: elobubu
+- Ville Hokkinen
+- IRCnet: myanee
 
 #### Matriisi- ja viinivastaava
-- Iina Lehtihalmes
-- IRCnet: ippelixd
+- Tuomas Peltonen
 
 #### Tietoliikenneministeriön toiminnanjohtaja
+- Santeri Hyvärinen
+- IRCnet: syomasa
+- adm(at)otit.fi
+
+#### Operaattori
+- Alina Piikivi
+- IRCnet: gerhard
+- adm(at)otit.fi
+
+#### Operaattori
 - Lari Kuistio
 - IRCnet: vivian
 - adm(at)otit.fi
 
 #### Operaattori
-- Jere Koivisto
-- IRCnet: javisst
+- Antti Koponen
+- IRCnet: taru
 - adm(at)otit.fi
 
 #### Operaattori
-- Santeri Hyvärinen
-- IRCnet: syomasa
+- Saku Salo
+- IRCnet: sandalf
 - adm(at)otit.fi
 
 #### Operaattori
@@ -35,155 +44,177 @@ menu:
 - adm(at)otit.fi
 
 #### Operaattori
-- Petra Heikkinen
-- IRCnet: liianiso
+- Aleksanteri Seppä
+- IRCnet: dolmio
 - adm(at)otit.fi
 
 #### Operaattori
-- Kari-Pekka Ahola
-- IRCnet: vellu
+- Oskari Partala
+- IRCnet: fiba
 - adm(at)otit.fi
 
-#### Operaattori
+#### Pelihenkilö suluissa gamer
+- Taru Järvelä
+- IRCnet: koops
+
+#### Pelihenkilö suluissa gamer (1.1.2022 - 30.6.2022)
+- Aleksanteri Seppä
+- IRCnet: dolmio
+
+#### Pelihenkilö suluissa gamer (1.7.2022 - 31.12.2022)
 - Aleksi Tuovinen
 - IRCnet: pintti
-- adm(at)otit.fi
 
-#### Operaattori
-- Aleksanteri Seppä
-- IRCnet: dolmio
-- adm(at)otit.fi
-
-#### PC-vastaava
-- Joonas Soudunsaari
-- IRCnet: kannadan
-
-#### PC-vastaava
-- Aleksanteri Seppä
-- IRCnet: dolmio
-
-#### Graafikko
-- Vappu Schroderus
-- IRCnet: elobubu
-
-#### Graafikko
-- Lauri Suutari
+#### Iso-T
+- Jiska Parrila
 
 #### Graafikko
 - Petra Heikkinen
 - IRCnet: liianiso
+
+#### Graafikko
+- Toivo Xiong
 
 #### Graafikko
 - Juho Bruun
 - IRCnet: joensuu
 
-#### Urheiluvastaava
-- Mikko Kaasila
-- urheiluvastaava(at)otit.fi
+#### WWW-vastaava
+- Antti koponen
+- IRCnet: taru
 
-#### Urheiluvastaava
-- Anssi Uistola
-- urheiluvastaava(at)otit.fi
+#### WWW-vastaava
+- Jiska Parrila
+
+#### WWW-vastaava
+- Niko Mätäsaho
+- IRCnet: esari
 
 #### Pelimanni
-- Uula Ranta
-- IRCnet: Runtu
+- Verneri Pudas
+- IRCnet: napalmi
 
-#### Puuha-Pete
-- Juho Bruun
-- IRCnet: joensuu
-
-#### Puuha-Pete
-- Markus Oja
-
-#### Puuha-Pete
-- Rainer Laaksonen
-- IRCnet: kal3vi
-
-#### Puuha-Pete
-- Saku Salo
-- IRCnet: sandalf
+#### Kulttuurisihteeri
+- Verneri Pudas
+- IRCnet: napalmi
 
 #### Common-Pepe
-- Santeri Hyvärinen
-- IRCnet: syomasa
+- Atte Kankkunen
 
 #### Common-Pepe
 - Mariel Kurki
 - IRCnet: kokkeli
 
-#### Kuvaaja
-- Juho Bruun
-- IRCnet: joensuu
+#### Sisäsihteeri
+- Lari Kuistio
+- IRCnet: vivian
 
-#### Kuvaaja
-- Venla Katainen
+#### Työsihteeri
+- Verneri Pudas
+- IRCnet: napalmi
 
-#### ""Toimittaja"""
-- Saku Salo
-- IRCnet: sandalf
+#### Opesihteeri
+- Inka Lohiniva
 
-#### ""Toimittaja"""
-- Aleksi Tuovinen
-- IRCnet: pintti
+#### Suhteeri
+- Tatu Lehtola
 
-#### ""Toimittaja"""
-- Lasse Rapo
-- IRCnet: betoni
+#### KansainVälinen vastaava
+- Ville Hokkinen
+- IRCnet: myanee
 
-#### ""Toimittaja"""
-- Juho Bruun
-- IRCnet: joensuu
+#### Toimittaja
+- Aleksanteri Seppä
+- IRCnet: dolmio
 
-#### ""Toimittaja"""
-- Mariel Kurki
-- IRCnet: kokkeli
+#### Toimittaja
+- Petra Heikkinen
+- IRCnet: liianiso
 
-#### ""Toimittaja"""
+#### Toimittaja
+- Verneri Pudas
+- IRCnet: napalmi
+
+#### Toimittaja
 - Bekim Abazi
 - IRCnet: matti_
 
-#### ""Toimittaja"""
+#### Toimittaja
+- Tommi Jokinen
+
+#### Toimittaja
+- Juho Bruun
+- IRCnet: joensuu
+
+#### Toimittaja
+- Saku Salo
+- IRCnet: sandalf
+
+#### Toimittaja
+- Toivo Xiong
+
+#### Toimittaja
+- Eira Paakkunainen
+- IRCnet: mentula
+
+#### Toimittaja
 - Santeri Hyvärinen
 - IRCnet: syomasa
 
-#### ""Toimittaja"""
-- Lari Kuistio
-- IRCnet: vivian
+#### Toimittaja
+- Ville Palatsi
+- IRCnet: kangstus
 
-#### ""Toimittaja"""
- - Markus Oja
+#### Toimittaja
+- Aleksi Tuovinen
+- IRCnet: pintti
 
-#### Kummisetä
-- Jenna Onnela
-- IRCnet: kurantti
+#### Toimittaja
+- Taru Järvelä
+- IRCnet: koops
 
-#### Tiskijukka
-- Mikko Kaasila
-- IRCnet: istedee
-
-#### Sijoitusvastaava
-- Uula Ranta
-- IRCnet: Runtu
-
-#### WWW-87astaa87a
-- Lari Kuistio
-- IRCnet: vivian
-
-#### Isoveli
-- Niko Mätäsaho
-- IRCnet: esari
-
-#### Sisäministeriön valmisteleva virkamies
-- Aku Haataja
-
-#### Työvoimaministeriön valmisteleva virkamies
+#### Toimittaja
 - Mariel Kurki
 - IRCnet: kokkeli
 
-#### Suurlähettiläs
-- Aleksi Tuovinen
-- IRCnet: pintti
+#### Alumnivastaava
+- Taru Järvelä
+- IRCnet: koops
+
+#### Kuvaaja
+- Ella Marjamaa
+- IRCnet: isolla
+
+#### Kuvaaja
+- Venla Katainen
+- IRCnet: spagetto
+
+#### Kuvaaja
+- Lotta Rantala
+
+#### Kuvaaja
+- Lasse Rapo
+- IRCnet: betoni
+
+#### Kummitus
+- Saku Salo
+- IRCnet: sandalf
+
+#### Tiskijukka
+- Mariel Kurki
+- IRCnet: kokkeli
+
+#### Sijoitusvastaava
+- Lauri Ala-Mursula
+- IRCnet: limeboi
+
+#### Laulukalu-Vastaava
+- Uula Ranta
+- IRCnet: Runtu
+
+#### Laulukalu-Vastaava
+- Taru Järvelä
+- IRCnet: koops
 
 ---
 
