@@ -1,6 +1,6 @@
 ---
 title: Board 2022
-date: 2022-01-10
+date: 2022-01-09
 authorbox: false
 sidebar: true
 menu:
