@@ -15,7 +15,7 @@ Terminaalin verkkoversioita voit lukea [täältä](verkkoversiot).
 Terminaalin joidenkin numeroiden verkkoversioissa saattaa olla pieniä eroja painettuihin versioihin verrattuna. Syitä voimme vain arvailla.
 
 ## Toimituksen yhteystiedot
-Sähköpostiosoite: propagandaministeri(at)otit.fi
+Sähköpostiosoite: tiedotusministeri(at)otit.fi
 
 Oulun Tietoteekkarit ry
 
@@ -29,20 +29,27 @@ PL 4500
 
 Päätoimittaja:
 
-Verneri Pudas – propagandaministeri(at)otit.fi
+Niko Mätäsaho - tiedotusministeri(at)otit.fi
 
-”Toimittajat”
-Saku Salo
-Bekim Abazi
-Aleksi Tuovinen
-Mariel Kurki
-Lari Kuistio
-Santeri Hyvärinen
-Markus Oja
-Lasse Rapo
-Juho Bruun
+Toimittajat:
+
+- Aleksanteri Seppä
+- Petra Heikkinen
+- Verneri Pudas
+- Bekim Abazi
+- Tommi Jokinen
+- Juho Bruun
+- Saku Salo
+- Toivo Xiong
+- Eira Paakkunainen
+- Santeri Hyvärinen
+- Ville Palatsi
+- Aleksi Tuovinen
+- Taru Järvelä
+- Mariel Kurki
 
 Entiset päätoimittajat
+- 2021 - Verneri Pudas
 - 2020 - Santeri Hyvärinen
 - 2019 – Lari Kuistio
 - 2018 – Bekim Abazi
