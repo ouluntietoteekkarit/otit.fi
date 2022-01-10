@@ -21,7 +21,7 @@ Salasana on vaihdettava välittömästi sen jälkeen, kun tunnus on saatu. Ongel
 
 ###### Mitä tunnuksilla voi tehdä
 
-– Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet [täältä](../../tietopankki/irc-opas/_index.md).
+– Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet [täältä](../../tietopankki/irc-opas/).
 – Saa pääsyn killan minecraft serverille tunneloimalla. Lisäinfoa minecraft.otit.fi
 – Voit ylläpitää omia sivuja public_html kansion kautta. Sivut löytyvät sitten osoitteesta otit.fi/~tunnus
 – Shell palvelimen ominaisuuksiin kuuluu myös tiedostojen säilyttäminen palvelimella. Vähän kuin pilvipalvelu mutta ei välttämättä ytä luotettava ;D.
