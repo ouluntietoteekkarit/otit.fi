@@ -11,7 +11,8 @@ menu:
 - IRCnet: myanee
 
 #### Matriisi- ja viinivastaava
-- Tuomas Peltonen
+- Tuomas Pelkonen
+- IRCnet: kuolijo
 
 #### Tietoliikenneministeriön toiminnanjohtaja
 - Santeri Hyvärinen
@@ -100,6 +101,7 @@ menu:
 
 #### Common-Pepe
 - Atte Kankkunen
+- IRCnet: hailait
 
 #### Common-Pepe
 - Mariel Kurki
@@ -215,6 +217,19 @@ menu:
 #### Laulukalu-Vastaava
 - Taru Järvelä
 - IRCnet: koops
+
+#### Urheiluvastaava
+- Juuso Särkelä
+- IRCnet: uimasa
+- urheiluvastaava(at)otit.fi
+
+#### Urheiluvastaava
+- Venla Timisjärvi
+- urheiluvastaava(at)otit.fi
+
+#### Will Smith
+- Anssi Uistola
+- IRCnet: cokaks
 
 ---
 
