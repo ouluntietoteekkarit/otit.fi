@@ -26,7 +26,7 @@ tags:
 
 #### Toimihenkilöt
 - **Matriisi- ja viinivastaava:**   Ville Hokkinen
-- **Matriisi- ja viinivastaava:**   Tuomas Peltonen
+- **Matriisi- ja viinivastaava:**   Tuomas Pelkonen
 - **Tietoliikenneministeriön toiminnanjohtaja:** Santeri Hyvärinen
 - **Operaattori:**	Alina Piikivi
 - **Operaattori:**	Lari Kuistio
@@ -78,6 +78,8 @@ tags:
 - **Sijoitusvastaava:** Lauri Ala-Mursula
 - **Laulukalu-vastaava:**   Uula Ranta
 - **Laulukalu-vastaava:**   Taru Järvelä
-- **Urheiluvastaava:** Ensi vuoden hallitus valitsee
-- **Will Smith:** Ensi vuoden hallitus valitsee
+- **Urheiluvastaava:** Juuso Särkelä
+- **Urheiluvastaava:** Venla Timisjärvi
+- **Will Smith:** Anssi Uistola
 
+*Päivitetty 10.1.2022: Lisätty urheiluvastaavat, Will Smith ja korjattiin sukunimen oikeinkirjoitus.*
