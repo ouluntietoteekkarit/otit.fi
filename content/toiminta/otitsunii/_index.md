@@ -15,17 +15,17 @@ Otitsunii (ja vanha otitsun) on Oulun Tietoteekkarit ry:n oma Linux-palvelin. Pa
 Käyttäjätunnusta haetaan täyttämällä hakemuslomake, joka on löydettävissä sivujen tietopankki-osiosta. Lomakkeen voi pyytää myös paperimuodossa hallituksen jäseneltä, tai tulostaa itse em. tiedostosta.
 Hakemuslomake on täytettävä selvällä käsialalla ja kuulakärkikynällä (ei lyijykynällä). PDF-muodossa olevan hakemuksen voi täyttää myös tietokoneella ennen tulostusta. Hakemus on päivättävä ja allekirjoitettava. Hakemus palautetaan killan postilaatikkoon tai suoraan jollekin hallituksen jäsenelle. Hakemus menee ensin hallituksen ja sitten killan operaattorin käsittelyyn. Tunnuksen myöntämisestä tiedotetaan sähköpostitse. Tunnus ja salasana annetaan kuitenkin ainoastaan henkilökohtaisesti.
 
-Käyttäjätunnusta hakiessaan hakija sitoutuu noudattamaan Oulun yliopiston tietokonejärjestelmien ja tietoliikenneverkon käytön sääntöjä, FUNET-verkon käytön eettisiä ohjeita sekä Oulun Tietoteekkarit ry:n hallituksen ja järjestelmän ylläpidon antamia ohjeita palvelimen käytöstä.
+Käyttäjätunnusta hakiessaan hakija sitoutuu noudattamaan [Oulun yliopiston tietokonejärjestelmien ja tietoliikenneverkon käytön sääntöjä](https://www.oulu.fi/th/node/30542), FUNET-verkon käytön eettisiä ohjeita sekä Oulun Tietoteekkarit ry:n hallituksen ja järjestelmän ylläpidon antamia ohjeita palvelimen käytöstä.
 
 Salasana on vaihdettava välittömästi sen jälkeen, kun tunnus on saatu. Ongelmatilanteissa ylläpidon tavoittaa osoitteesta adm(at)otit.fi.
 
 ###### Mitä tunnuksilla voi tehdä
 
-– Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet täältä.
+– Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet [täältä](../../tietopankki/irc-opas/_index.md).
 – Saa pääsyn killan minecraft serverille tunneloimalla. Lisäinfoa minecraft.otit.fi
 – Voit ylläpitää omia sivuja public_html kansion kautta. Sivut löytyvät sitten osoitteesta otit.fi/~tunnus
 – Shell palvelimen ominaisuuksiin kuuluu myös tiedostojen säilyttäminen palvelimella. Vähän kuin pilvipalvelu mutta ei välttämättä ytä luotettava ;D.
-– Oikeuden pyytää sähköpostitunnuksen muotoon tunnus@otit.fi. Sähköpostilaatikko luodaan GSuite palveluun. Tunnusta voi pyytää operaattoreilta tai hallitukselta.
+– Oikeuden pyytää sähköpostitunnuksen muotoon `tunnus@otit.fi`. Sähköpostilaatikko luodaan GSuite palveluun. Tunnusta voi pyytää operaattoreilta tai hallitukselta.
 
 ###### Kuka ylläpitää palvelimia?
 
