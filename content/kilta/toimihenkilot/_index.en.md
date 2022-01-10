@@ -12,6 +12,7 @@ menu:
 
 #### Matriisi- ja viinivastaava
 - Tuomas Pelkonen
+- IRCnet: kuolijo
 
 #### Tietoliikenneministeriön toiminnanjohtaja
 - Santeri Hyvärinen
@@ -224,7 +225,6 @@ menu:
 
 #### Urheiluvastaava
 - Venla Timisjärvi
-- IRCnet: TBD
 - urheiluvastaava(at)otit.fi
 
 #### Will Smith
