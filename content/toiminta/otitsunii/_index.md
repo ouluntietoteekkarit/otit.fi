@@ -25,7 +25,7 @@ Salasana on vaihdettava välittömästi sen jälkeen, kun tunnus on saatu. Ongel
 – Saa pääsyn killan minecraft serverille tunneloimalla. Lisäinfoa minecraft.otit.fi
 – Voit ylläpitää omia sivuja public_html kansion kautta. Sivut löytyvät sitten osoitteesta otit.fi/~tunnus
 – Shell palvelimen ominaisuuksiin kuuluu myös tiedostojen säilyttäminen palvelimella. Vähän kuin pilvipalvelu mutta ei välttämättä ytä luotettava ;D.
-– Oikeuden pyytää sähköpostitunnuksen muotoon `tunnus@otit.fi`. Sähköpostilaatikko luodaan GSuite palveluun. Tunnusta voi pyytää operaattoreilta tai hallitukselta.
+– Oikeuden pyytää sähköpostitunnuksen muotoon `tunnus@otit.fi`. Sähköpostilaatikko luodaan Google Workspace (ent. GSuite) palveluun. Tunnusta voi pyytää operaattoreilta tai hallitukselta.
 
 ###### Kuka ylläpitää palvelimia?
 

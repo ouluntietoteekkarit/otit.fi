@@ -6,6 +6,4 @@ sidebar: true
 menu:
 ---
 
-~~Kiltalaisten ylläpitämä tenttiarkisto löytyy osoitteesta [https://otit.fi/~tenttiarkisto](https://otit.fi/~tenttiarkisto). Tunnuksen ja salasanan saa Opetusministeriltä tai kiltahuoneelta. Tenttiarkiston tentit ovat kiltalaisten itse keräämiä, joten jos sinulla on tenttejä tallessa voit lähettää ne opetusministerille tai tuoda kiltahuoneella olevaan laatikkoon. Myös ratkaisuja tentteihin voi tuoda.~~
-
-Tenttiarkisto ei ole tällä hetkellä käytettävissä. Pyrimme korjaamaan asian mahdollisimman pian.
+Kiltalaisten ylläpitämä tenttiarkisto löytyy osoitteesta [https://otit.fi/~tenttiarkisto](https://otit.fi/~tenttiarkisto). Tunnuksen ja salasanan saa Opetusministeriltä tai kiltahuoneelta. Tenttiarkiston tentit ovat kiltalaisten itse keräämiä, joten jos sinulla on tenttejä tallessa voit lähettää ne opetusministerille tai tuoda kiltahuoneella olevaan laatikkoon. Myös ratkaisuja tentteihin voi tuoda.
