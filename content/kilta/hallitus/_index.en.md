@@ -56,7 +56,7 @@ menu:
 - IRCnet: syomasa
 - opetusministeri(at)otit.fi
 
-#### Minister of Social Affairs and Health
+#### Minister of Social Affairs and Health (VC)
 - Juho Bruun
 - IRCnet: joensuu
 - soteministeri(at)otit.fi

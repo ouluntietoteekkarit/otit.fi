@@ -56,7 +56,7 @@ menu:
 - IRCnet: syomasa
 - opetusministeri(at)otit.fi
 
-#### Sosiaali- ja terveysministeri
+#### Sosiaali- ja terveysministeri (vpj)
 - Juho Bruun
 - IRCnet: joensuu
 - soteministeri(at)otit.fi
