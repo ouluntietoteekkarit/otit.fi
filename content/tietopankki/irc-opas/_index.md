@@ -52,11 +52,11 @@ Palvelimen sisältöjä voit tutkia tavallisilla unix-komennoilla.
 
 Ensimmäinen avauskerta:
 
-Ruudulla pitäisi nyt olla joitain palvelimen viestejä. Eka kerta on aina jotain uutta ja poikkeavaa, niin on irssinkin käytön tapauksessa. Komento `**screen irssi**` avaa Irssin screenin sisään. Tämä sinun tarvitsee tehdä **vain tämän ekan kerran**. Oikeasti, jos kirjoitat tämän komennon kaksi kertaa ilman että tiedät syyn miksi, olet todennäköisesti tehnyt virheen. Kun olet kerran avannut irssin screenin sisään se pysyy siellä turvassa tallentaen viestejä vaikka katkaisisit oman yhteytesi tai sammuttaisit tietokoneesi välillä. Kun seuraavan kerran otat yhteyden palvelimeen esimerkiksi Puttylla, ja epähuomiossa kirjoitat ”screen irssi”, sinä aukaisetkin uuden irssin screenin sisään, ja huomaat että se ei ole sama asia (katso alta kohta ”Jos käy vahinko”). Lue alempi huolella niin näin ei pääse käymään.
+Ruudulla pitäisi nyt olla joitain palvelimen viestejä. Eka kerta on aina jotain uutta ja poikkeavaa, niin on irssinkin käytön tapauksessa. Komento **`screen irssi`** avaa Irssin screenin sisään. Tämä sinun tarvitsee tehdä **vain tämän ekan kerran**. Oikeasti, jos kirjoitat tämän komennon kaksi kertaa ilman että tiedät syyn miksi, olet todennäköisesti tehnyt virheen. Kun olet kerran avannut irssin screenin sisään se pysyy siellä turvassa tallentaen viestejä vaikka katkaisisit oman yhteytesi tai sammuttaisit tietokoneesi välillä. Kun seuraavan kerran otat yhteyden palvelimeen esimerkiksi Puttylla, ja epähuomiossa kirjoitat ”screen irssi”, sinä aukaisetkin uuden irssin screenin sisään, ja huomaat että se ei ole sama asia (katso alta kohta ”Jos käy vahinko”). Lue alempi huolella niin näin ei pääse käymään.
 
 Seuraavat kerrat eli aina jatkossa:
 
-Komento `**screen -dr**` sulkee (-d, _detach_) mahdollisesti muualla auki olevan yhteyden screeniin, ja avaa (-r, _reattach_) sen uudestaan koneelle jolla syötit komennon. Jos et tee palvelimella muuta kuin irkkaat, tämän pitäisi olla ainut komento mitä ikinä tulet käyttämään.
+Komento **`screen -dr`** sulkee (-d, _detach_) mahdollisesti muualla auki olevan yhteyden screeniin, ja avaa (-r, _reattach_) sen uudestaan koneelle jolla syötit komennon. Jos et tee palvelimella muuta kuin irkkaat, tämän pitäisi olla ainut komento mitä ikinä tulet käyttämään.
 
 #### Jos (tai no, kun) käy vahinko:
 
@@ -68,13 +68,13 @@ Kun haluat poistua auki olevasta screenistä (Irssistä) palvelimen komentorivil
 
 #### 3\. Irssin käyttöönotto
 
-Avatessasi Irssin ensimmäistä kertaa, se ei tee vielä mitään. Irssiin voi syöttää sanallisia komentoja, joita aina edeltää kirjain `**/**`. Apua komennoista saat kirjoittamalla **`/help`**.
+Avatessasi Irssin ensimmäistä kertaa, se ei tee vielä mitään. Irssiin voi syöttää sanallisia komentoja, joita aina edeltää merkki **`/`**. Apua komennoista saat kirjoittamalla **`/help`**.
 
 Ensimmäisenä haluamme yhdistää IRC-verkkoon, jotta voisimme liittyä eri kanaville. Yleisimmin käytetty verkko, jolta löytyy mm. killan ja kurssien kanavat, on **IRCnet**. IRCnet koostuu monesta palvelimesta, joista meille kätevin on paikallinen **irc.oulu.fi**. Asetetaan se vakioverkoksi komennolla: **(komento saattaa viedä minuutin, älä hätäänny jos serveri ei sekunnissa yhdistä)**
 
-`**/server add -auto -network IRCnet irc.oulu.fi 6667**`
+**`/server add -auto -network IRCnet irc.oulu.fi 6667`**
 
-`**/connect irc.oulu.fi**`
+**`/connect irc.oulu.fi`**
 
 _HUOM! Jos yhdistät palvelimelta joka ei ole yliopiston verkossa, joudut selvittämään itse mikä IRCnetin palvelin on paras._
 
@@ -88,23 +88,23 @@ Nyt voimme jo huutaa maailmalle ”hei” niin että joku kuulee.
 
 #### Nikki
 
-Jos ei halua niin ei ole pakko käyttää hallituksen kovalla vaivalla juuri sinulle miettimää otitsunii-tunnusta muille näkyvänä nikkinä. Sen voi vaihtaa ihan vain komennolla `**/nick uusinikki**`
+Jos ei halua niin ei ole pakko käyttää hallituksen kovalla vaivalla juuri sinulle miettimää otitsunii-tunnusta muille näkyvänä nikkinä. Sen voi vaihtaa ihan vain komennolla **`/nick uusinikki`**.
 
 #### Kanavat
 
-Voit liittyä uusille kanaville komennolla `**/join #kanavan-nimi**`. Kun liityt uudelle kanavalle jolle aiot jäädä pitemmäksi aikaa, kannattaa syöttää komento `**/channel add -auto #kanavan-nimi IRCnet**`. Näin sinun ei tarvitse liittyä manuaalisesti uudestaan joka kanavalle jos palvelin sattuu kaatumaan tai vahingossa suljet Irssin.
+Voit liittyä uusille kanaville komennolla **`/join #kanavan-nimi`**. Kun liityt uudelle kanavalle jolle aiot jäädä pitemmäksi aikaa, kannattaa syöttää komento **`/channel add -auto #kanavan-nimi IRCnet`**. Näin sinun ei tarvitse liittyä manuaalisesti uudestaan joka kanavalle jos palvelin sattuu kaatumaan tai vahingossa suljet Irssin.
 
 Tärkeitä kanavia lisätä ovat:
 
-**#otit.2019**, vuosikurssin kanava, fukseille hyvä paikka olla fukseja, keskustella keskenään vaikka videopeleistä ja kysyä asioita. Paikalla on myös hallituslaisia, PROita ja muita aktiiveja jotka vastaavat kysymyksiin salamannopeasti
+**#otit.n**, missä `n` on oma vuosikurssisi (esim. `#otit.2019`). Tämä on vuosikurssin n kanava, joka on fukseille hyvä paikka olla fukseja, keskustella keskenään vaikka videopeleistä ja kysyä asioita. Paikalla on myös hallituslaisia, PROita ja muita aktiiveja jotka vastaavat kysymyksiin salamannopeasti.
 
-**#otit,** Oulun Tietoteekkareiden pääkanava, iso osa irkin kautta tapahtuvasta tiedotuksesta tapahtuu täällä. Paljon vanhoja naamoja
+**#otit,** Oulun Tietoteekkareiden pääkanava, iso osa irkin kautta tapahtuvasta tiedotuksesta tapahtuu täällä. Paljon vanhoja naamoja.
 
 **#oty,** kaikkien Oulun irkkaavien Teekkareiden kattokanava. Aktiiviset keskustelijat saattavat olla jostain syystä aika pitkälti myös Tietoteekkareita.
 
-**#oman-pienryhmäsi-kanava** jonka nimen PROsi sinulle kertoo
+**#oman-pienryhmäsi-kanava** jonka nimen PROsi sinulle kertoo.
 
-On hyvin todennäköistä että löydät liityttäviä kanavia paljon lisääkin. Eri hyvillä hommilla on omansa, monilla kursseilla on omansa ja lisäksi monilla harrastuksilla, joukkueilla ja puheenaiheilla on omansa.
+On hyvin todennäköistä, että löydät liityttäviä kanavia paljon lisääkin. Eri hyvillä hommilla on omansa, monilla kursseilla on omansa ja lisäksi monilla harrastuksilla, joukkueilla ja puheenaiheilla on omansa.
 
 Lähettääksesi salaisia kuumia yksityisviestejä toiselle nickille voit käyttää komentoa **`/q nick`** (_q_ niinkuin _query_). Tämä avaa uuden ikkunan, kuten kanavalle liittyminen.
 

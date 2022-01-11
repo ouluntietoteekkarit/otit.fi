@@ -20,7 +20,7 @@ Kiltalaiset ovat aktiivisia biljardin pelaajia. Pöytä onkin lähes koko ajan k
 ~~Jos omistat Stekt-tunnukset, niin sinulla on pääsy kiltahuoneen kahdelle päätteelle.~~
 
 ## Media-PC
-Etuhuoneesta löytyy Media-PC, josta saa vapaasti valita mieleistään musiikkia, vaikkapa bilismatseja siivittämään. Koneeseen on asennettu Spotify ja killalla on Spotify Unlimited -tunnukset sen käyttöä varten.
+Etuhuoneesta löytyy Media-PC, josta saa vapaasti valita mieleistään musiikkia, vaikkapa bilismatseja siivittämään. Koneeseen on asennettu Spotify ja killalla on Spotify-tunnukset sen käyttöä varten.
 
 ## Elintarvikkeet
 Kiltahuoneelta löytyy kahvinkeitin ja ohjeet sen käyttöön. Jääkaappiinkin voi jättää eväät omalla vastuulla.
@@ -29,4 +29,4 @@ Kiltahuoneelta löytyy kahvinkeitin ja ohjeet sen käyttöön. Jääkaappiinkin 
 Kiltahuoneelta löydät vain hyvää seuraa. Ei siellä mörköjä ole. Voit hakea apua opiskeluongelmiin tai vaikka vain viettää aikaa kavereiden kanssa. Ja kiltahuoneella uusiin kavereihin pääsee tutustumaan.
 
 ## Kulkulupa
-Jos haluat laajentaa 24/7 korttisi kulkuoikeutta niin, että se käy myös kiltahuoneen oveen, voit täyttää hakemuksen täällä.
+Jos haluat laajentaa 24/7 korttisi kulkuoikeutta niin, että se käy myös kiltahuoneen oveen, voit täyttää hakemuksen [täällä](https://otit.fi/247).
