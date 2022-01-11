@@ -225,6 +225,7 @@ menu:
 
 #### Urheiluvastaava
 - Venla Timisjärvi
+- IRCnet: minigain
 - urheiluvastaava(at)otit.fi
 
 #### Will Smith
