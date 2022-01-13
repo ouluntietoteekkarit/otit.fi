@@ -6,7 +6,7 @@ sidebar: true
 menu:
 ---
 
-Jäsenrekisterin tietosuojaseloste: [PDF](Jasenrekisteri_tietosuojaseloste_uusi.pdf)
+Jäsenrekisterin tietosuojaseloste: [PDF](Jasenrekisteri_tietosuojaseloste.pdf)
 
 Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistat_tietosuojaseloste.pdf)
 
