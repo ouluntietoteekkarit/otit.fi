@@ -68,6 +68,7 @@ menu:
 
 #### Iso-T
 - Jiska Parrila
+- IRCnet: grilli
 
 #### Graafikko
 - Petra Heikkinen
@@ -75,6 +76,7 @@ menu:
 
 #### Graafikko
 - Toivo Xiong
+- IRCnet: rausku
 
 #### Graafikko
 - Juho Bruun
@@ -117,9 +119,11 @@ menu:
 
 #### Opesihteeri
 - Inka Lohiniva
+- IRCnet: haimasa
 
 #### Suhteeri
 - Tatu Lehtola
+- IRCnet: tappivanukas2
 
 #### KansainVälinen vastaava
 - Ville Hokkinen
@@ -143,6 +147,7 @@ menu:
 
 #### Toimittaja
 - Tommi Jokinen
+- IRCnet: ringo
 
 #### Toimittaja
 - Juho Bruun
@@ -154,6 +159,7 @@ menu:
 
 #### Toimittaja
 - Toivo Xiong
+- IRCnet: rausku
 
 #### Toimittaja
 - Eira Paakkunainen
@@ -193,6 +199,7 @@ menu:
 
 #### Kuvaaja
 - Lotta Rantala
+- IRCnet: sivu6
 
 #### Kuvaaja
 - Lasse Rapo
