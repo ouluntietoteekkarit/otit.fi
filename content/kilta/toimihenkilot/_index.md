@@ -88,6 +88,7 @@ menu:
 
 #### WWW-vastaava
 - Jiska Parrila
+- IRCnet: grilli
 
 #### WWW-vastaava
 - Niko Mätäsaho
