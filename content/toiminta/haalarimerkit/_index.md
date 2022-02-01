@@ -8,34 +8,34 @@ menu:
 
 Tällä sivulla on näkyvissä Oulun Tietoteekkarit ry:n myymät haalarimerkit
 
-![](1up.jpg)
+[![](1up_thumbnail.jpg)](1up.jpg)
 
-![](asd.jpg)
+[![](asd_thumbnail.jpg)](asd.jpg)
 
-![](bigdick.jpg)
+[![](bigdick_thumbnail.jpg)](bigdick.jpg)
 
-![](heijastinhaamu.jpg)
+[![](heijastinhaamu_thumbnail.jpg)](heijastinhaamu.jpg)
 
-![](hilarius.jpg)
+[![](hilarius_thumbnail.jpg)](hilarius.jpg)
 
-![](longcat.jpg)
+[![](longcat_thumbnail.jpg)](longcat.jpg)
 
-![](megaman.jpg)
+[![](megaman_thumbnail.jpg)](megaman.jpg)
 
-![](niilo22.jpg)
+[![](niilo22_thumbnail.jpg)](niilo22.jpg)
 
-![](otit.jpg)
+[![](otit_thumbnail.jpg)](otit.jpg)
 
-![](otitvaakuna.jpg)
+[![](otitvaakuna_thumbnail.jpg)](otitvaakuna.jpg)
 
-![](pacman.jpg)
+[![](pacman_thumbnail.jpg)](pacman.jpg)
 
-![](pacmanpoika.jpg)
+[![](pacmanpoika_thumbnail.jpg)](pacmanpoika.jpg)
 
-![](pacmantytto.jpg)
+[![](pacmantytto_thumbnail.jpg)](pacmantytto.jpg)
 
-![](poysti.jpg)
+[![](poysti_thumbnail.jpg)](poysti.jpg)
 
-![](sieni.jpg)
+[![](sieni_thumbnail.jpg)](sieni.jpg)
 
-![](vauhtijuoksu.jpg)
+[![](vauhtijuoksu_thumbnail.jpg)](vauhtijuoksu.jpg)
