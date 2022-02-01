@@ -383,6 +383,12 @@ weight = 2
       url = "/tietopankki/otitsunii-tunnushakemus"
       parent = "tietopankki"
       weight = 8
+    [[menu.main]]
+      identifier = "irc-weechat"
+      name = "Vaihtoehtoinen IRC-OPAS"
+      url = "/tietopankki/irc-weechat"
+      parent = "tietopankki"
+      weight = 9
 
   [[menu.main]]
     identifier = "galleria"
