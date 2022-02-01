@@ -40,9 +40,9 @@ screen -S weechat weechat
     ```
     /set relay.network.password <joku vahva salasana tähän>
     /set relay.network.bind_address "::1"
-    /relay add ipv6.ssl.weechat <portti>
+    /relay add ipv6.weechat <portti>
     ```
-    - **\<portti\> kohdalle tulee lukuarvo joka on 2*userid + 10000 (tämän takia userid selvitettiin aiemmin)**
+    - **\<portti\> kohdalle tulee lukuarvo joka on 2*userid + 10000 % 65536 (tämän takia userid selvitettiin aiemmin)**
 
 
 #### 4. Yhdistä relayhyn
