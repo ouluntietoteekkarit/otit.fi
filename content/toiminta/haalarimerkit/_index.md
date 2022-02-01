@@ -3,7 +3,6 @@ title: Haalarimerkit
 date: 2021-14-10
 authorbox: false
 sidebar: true
-layout: photography
 ---
 
 Tällä sivulla on näkyvissä Oulun Tietoteekkarit ry:n myymät haalarimerkit
