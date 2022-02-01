@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hallitus 2021 on Oulun Tietoteekkarit ry</title>
+    <title>Hallitus 2022 on Oulun Tietoteekkarit ry</title>
     <link>https://otit.fi/kilta/hallitus/</link>
-    <description>Recent content in Hallitus 2021 on Oulun Tietoteekkarit ry</description>
+    <description>Recent content in Hallitus 2022 on Oulun Tietoteekkarit ry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language><atom:link href="https://otit.fi/kilta/hallitus/index.xml" rel="self" type="application/rss+xml" />
+    <language>fi</language>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otit.fi/kilta/hallitus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

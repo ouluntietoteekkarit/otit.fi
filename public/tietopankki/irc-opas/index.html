@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title> - Oulun Tietoteekkarit ry</title>
+	<title>IRC opas - Oulun Tietoteekkarit ry</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -279,6 +279,14 @@
 					</a>
 					</li>
 				
+					<li class="menu__item">
+					<a class="menu__link" href="/tietopankki/irc-weechat">
+						
+						<span class="menu__text">Vaihtoehtoinen IRC-OPAS</span>
+						
+					</a>
+					</li>
+				
 			</ul>
 		</li>
 		<li class="menu__item">
@@ -300,6 +308,9 @@
 			<div class="primary">
 			
 <main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">IRC opas</h1>
+	</header>
 	<div class="content main__content clearfix">
 		<h3 id="irc-opas">IRC-OPAS</h3>
 <h4 id="mikä-irc-miksi-irc"><strong>Mikä IRC, miksi IRC?</strong></h4>
@@ -333,33 +344,33 @@
 <h4 id="2-screenin-käyttö">2. Screenin käyttö</h4>
 <p><strong>Screen</strong> on ohjelma, jonka sisälle voi jättää muita ohjelmia ajamaan taustalle, silloinkin kun et ole yhteydessä palvelimeen. Irkkaamisessa screenistä on se hyöty, että voit jättää Irssisession taustalle, ja avata sen myöhemmin uudestaan missä tahansa, ilman että yhtään keskustelua menee sivu suun. Screenin käytön oppii äkkiä, vaikkapa näitä ohjeita seuraamalla.</p>
 <p>Ensimmäinen avauskerta:</p>
-<p>Ruudulla pitäisi nyt olla joitain palvelimen viestejä. Eka kerta on aina jotain uutta ja poikkeavaa, niin on irssinkin käytön tapauksessa. Komento <code>**screen irssi**</code> avaa Irssin screenin sisään. Tämä sinun tarvitsee tehdä <strong>vain tämän ekan kerran</strong>. Oikeasti, jos kirjoitat tämän komennon kaksi kertaa ilman että tiedät syyn miksi, olet todennäköisesti tehnyt virheen. Kun olet kerran avannut irssin screenin sisään se pysyy siellä turvassa tallentaen viestejä vaikka katkaisisit oman yhteytesi tai sammuttaisit tietokoneesi välillä. Kun seuraavan kerran otat yhteyden palvelimeen esimerkiksi Puttylla, ja epähuomiossa kirjoitat ”screen irssi”, sinä aukaisetkin uuden irssin screenin sisään, ja huomaat että se ei ole sama asia (katso alta kohta ”Jos käy vahinko”). Lue alempi huolella niin näin ei pääse käymään.</p>
+<p>Ruudulla pitäisi nyt olla joitain palvelimen viestejä. Eka kerta on aina jotain uutta ja poikkeavaa, niin on irssinkin käytön tapauksessa. Komento <strong><code>screen irssi</code></strong> avaa Irssin screenin sisään. Tämä sinun tarvitsee tehdä <strong>vain tämän ekan kerran</strong>. Oikeasti, jos kirjoitat tämän komennon kaksi kertaa ilman että tiedät syyn miksi, olet todennäköisesti tehnyt virheen. Kun olet kerran avannut irssin screenin sisään se pysyy siellä turvassa tallentaen viestejä vaikka katkaisisit oman yhteytesi tai sammuttaisit tietokoneesi välillä. Kun seuraavan kerran otat yhteyden palvelimeen esimerkiksi Puttylla, ja epähuomiossa kirjoitat ”screen irssi”, sinä aukaisetkin uuden irssin screenin sisään, ja huomaat että se ei ole sama asia (katso alta kohta ”Jos käy vahinko”). Lue alempi huolella niin näin ei pääse käymään.</p>
 <p>Seuraavat kerrat eli aina jatkossa:</p>
-<p>Komento <code>**screen -dr**</code> sulkee (-d, <em>detach</em>) mahdollisesti muualla auki olevan yhteyden screeniin, ja avaa (-r, <em>reattach</em>) sen uudestaan koneelle jolla syötit komennon. Jos et tee palvelimella muuta kuin irkkaat, tämän pitäisi olla ainut komento mitä ikinä tulet käyttämään.</p>
+<p>Komento <strong><code>screen -dr</code></strong> sulkee (-d, <em>detach</em>) mahdollisesti muualla auki olevan yhteyden screeniin, ja avaa (-r, <em>reattach</em>) sen uudestaan koneelle jolla syötit komennon. Jos et tee palvelimella muuta kuin irkkaat, tämän pitäisi olla ainut komento mitä ikinä tulet käyttämään.</p>
 <h4 id="jos-tai-no-kun-käy-vahinko">Jos (tai no, kun) käy vahinko:</h4>
 <p>Jos kaikesta huolimatta onnistut avaamaan usean session kirjoittamalla screen irssin useammin kuin kerran (eli näet kanavalla oman nikkisi useampaan kertaan listattuna) ja <code>screen -dr</code> ei tahdo toimia, saat listattua auki olevat screenit komennolla <strong><code>screen -ls</code></strong>. Katso listauksesta mikä screeni on ylimääräinen (yleensä viimeisimpänä luotu), ja sulje se komennolla <strong><code>kill [viisinumeroinen prosessi-ID]</code></strong>, viisinumeroisen prosessi-ID:n saat listauksesta. Kun saat ylimääräiset screenit suljettua, voit taas yhdistää alkuperäiseen normaalisti screen -dr:llä.</p>
 <p>Screenistä poistuminen turvallisesti:</p>
 <p>Kun haluat poistua auki olevasta screenistä (Irssistä) palvelimen komentoriville, jättäen sessien taustalle, käytä näppäinyhdistelmää <code>**Ctrl-A, D**</code>. Eli ensin Ctrl-A, jota seuraa kirjain D. Ikkunan sulkeminen on myös turvallista jos laiskottaa.</p>
 <h4 id="3-irssin-käyttöönotto">3. Irssin käyttöönotto</h4>
-<p>Avatessasi Irssin ensimmäistä kertaa, se ei tee vielä mitään. Irssiin voi syöttää sanallisia komentoja, joita aina edeltää kirjain <code>**/**</code>. Apua komennoista saat kirjoittamalla <strong><code>/help</code></strong>.</p>
+<p>Avatessasi Irssin ensimmäistä kertaa, se ei tee vielä mitään. Irssiin voi syöttää sanallisia komentoja, joita aina edeltää merkki <strong><code>/</code></strong>. Apua komennoista saat kirjoittamalla <strong><code>/help</code></strong>.</p>
 <p>Ensimmäisenä haluamme yhdistää IRC-verkkoon, jotta voisimme liittyä eri kanaville. Yleisimmin käytetty verkko, jolta löytyy mm. killan ja kurssien kanavat, on <strong>IRCnet</strong>. IRCnet koostuu monesta palvelimesta, joista meille kätevin on paikallinen <strong>irc.oulu.fi</strong>. Asetetaan se vakioverkoksi komennolla: <strong>(komento saattaa viedä minuutin, älä hätäänny jos serveri ei sekunnissa yhdistä)</strong></p>
-<p><code>**/server add -auto -network IRCnet irc.oulu.fi 6667**</code></p>
-<p><code>**/connect irc.oulu.fi**</code></p>
+<p><strong><code>/server add -auto -network IRCnet irc.oulu.fi 6667</code></strong></p>
+<p><strong><code>/connect irc.oulu.fi</code></strong></p>
 <p><em>HUOM! Jos yhdistät palvelimelta joka ei ole yliopiston verkossa, joudut selvittämään itse mikä IRCnetin palvelin on paras.</em></p>
 <p>Vieläkään emme ole yhdelläkään kanavalla, joten liitytäänpä vuosikurssin kanavalle #otit.2019:</p>
 <p><strong><code>/join #otit.2019</code></strong></p>
 <p>Nyt voimme jo huutaa maailmalle ”hei” niin että joku kuulee.</p>
 <h4 id="mitä-sisällä-tehdään"><strong>Mitä sisällä tehdään?</strong></h4>
 <h4 id="nikki">Nikki</h4>
-<p>Jos ei halua niin ei ole pakko käyttää hallituksen kovalla vaivalla juuri sinulle miettimää otitsunii-tunnusta muille näkyvänä nikkinä. Sen voi vaihtaa ihan vain komennolla <code>**/nick uusinikki**</code></p>
+<p>Jos ei halua niin ei ole pakko käyttää hallituksen kovalla vaivalla juuri sinulle miettimää otitsunii-tunnusta muille näkyvänä nikkinä. Sen voi vaihtaa ihan vain komennolla <strong><code>/nick uusinikki</code></strong>.</p>
 <h4 id="kanavat">Kanavat</h4>
-<p>Voit liittyä uusille kanaville komennolla <code>**/join #kanavan-nimi**</code>. Kun liityt uudelle kanavalle jolle aiot jäädä pitemmäksi aikaa, kannattaa syöttää komento <code>**/channel add -auto #kanavan-nimi IRCnet**</code>. Näin sinun ei tarvitse liittyä manuaalisesti uudestaan joka kanavalle jos palvelin sattuu kaatumaan tai vahingossa suljet Irssin.</p>
+<p>Voit liittyä uusille kanaville komennolla <strong><code>/join #kanavan-nimi</code></strong>. Kun liityt uudelle kanavalle jolle aiot jäädä pitemmäksi aikaa, kannattaa syöttää komento <strong><code>/channel add -auto #kanavan-nimi IRCnet</code></strong>. Näin sinun ei tarvitse liittyä manuaalisesti uudestaan joka kanavalle jos palvelin sattuu kaatumaan tai vahingossa suljet Irssin.</p>
 <p>Tärkeitä kanavia lisätä ovat:</p>
-<p><strong>#otit.2019</strong>, vuosikurssin kanava, fukseille hyvä paikka olla fukseja, keskustella keskenään vaikka videopeleistä ja kysyä asioita. Paikalla on myös hallituslaisia, PROita ja muita aktiiveja jotka vastaavat kysymyksiin salamannopeasti</p>
-<p><strong>#otit,</strong> Oulun Tietoteekkareiden pääkanava, iso osa irkin kautta tapahtuvasta tiedotuksesta tapahtuu täällä. Paljon vanhoja naamoja</p>
+<p><strong>#otit.n</strong>, missä <code>n</code> on oma vuosikurssisi (esim. <code>#otit.2019</code>). Tämä on vuosikurssin n kanava, joka on fukseille hyvä paikka olla fukseja, keskustella keskenään vaikka videopeleistä ja kysyä asioita. Paikalla on myös hallituslaisia, PROita ja muita aktiiveja jotka vastaavat kysymyksiin salamannopeasti.</p>
+<p><strong>#otit,</strong> Oulun Tietoteekkareiden pääkanava, iso osa irkin kautta tapahtuvasta tiedotuksesta tapahtuu täällä. Paljon vanhoja naamoja.</p>
 <p><strong>#oty,</strong> kaikkien Oulun irkkaavien Teekkareiden kattokanava. Aktiiviset keskustelijat saattavat olla jostain syystä aika pitkälti myös Tietoteekkareita.</p>
-<p><strong>#oman-pienryhmäsi-kanava</strong> jonka nimen PROsi sinulle kertoo</p>
-<p>On hyvin todennäköistä että löydät liityttäviä kanavia paljon lisääkin. Eri hyvillä hommilla on omansa, monilla kursseilla on omansa ja lisäksi monilla harrastuksilla, joukkueilla ja puheenaiheilla on omansa.</p>
+<p><strong>#oman-pienryhmäsi-kanava</strong> jonka nimen PROsi sinulle kertoo.</p>
+<p>On hyvin todennäköistä, että löydät liityttäviä kanavia paljon lisääkin. Eri hyvillä hommilla on omansa, monilla kursseilla on omansa ja lisäksi monilla harrastuksilla, joukkueilla ja puheenaiheilla on omansa.</p>
 <p>Lähettääksesi salaisia kuumia yksityisviestejä toiselle nickille voit käyttää komentoa <strong><code>/q nick</code></strong> (<em>q</em> niinkuin <em>query</em>). Tämä avaa uuden ikkunan, kuten kanavalle liittyminen.</p>
 <h4 id="liikkuminen">Liikkuminen</h4>
 <p>Irssin ikkunoita voi selata näppäimillä: <strong>Alt+[numero 0-9 tai kirjain q-u]</strong> tai <strong>Esc, [numero 0-9 tai kirjain q-u]</strong>. <strong>Alt+[vasen nuolinäppäin tai oikea nuolinäppäin]</strong> siirtää viereiselle kanavalle. <strong>Alt+a</strong> siirtää kanavalle jossa on tapahtunut jotain. Myös komento <strong><code>/window goto _numero_</code></strong> ja <strong><code>/window goto _nimi_</code></strong> toimivat tarvittaessa. Ikkuna numero 1 on status-ruutu, jossa näkyy serveriin liittyvät viestit, sekä useimpien komentojen tulosteita. Muut ikkunat ovat kanavia joille olet liittynyt, tai yksityiskeskusteluita muiden ihmisten kanssa.</p>
@@ -464,6 +475,7 @@
 	<h4 class="widget__title">Uutiset</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/uutiset/hallitus_ja_toimarit_2022/">Hallitus ja toimihenkilöt 2022</a></li>
 			<li class="widget__item"><a class="widget__link" href="/uutiset/kauden_paattajaiset/">Kauden päättäjäiset</a></li>
 			<li class="widget__item"><a class="widget__link" href="/uutiset/uudet_sivut/">Uudet sivut</a></li>
 		</ul>
@@ -511,6 +523,9 @@
 		<a href='https://huld.io/'><img src='/img/huld_logo_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>
 		<a class="footer__link" href="https://huld.io/"></a>
 		
+		<a href='https://www.iloq.com/en/'><img src='/img/Iloq_logo_slogan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>
+		<a class="footer__link" href="https://www.iloq.com/en/"></a>
+		
 		<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>
 		<a class="footer__link" href="https://www.mediatek.com/"></a>
 		
@@ -536,7 +551,7 @@
 		<a class="footer__link" href="https://www.visidon.fi/"></a>
 </div>
 		<div class="footer__copyright">
-			&copy; 2021 Oulun Tietoteekkarit ry.
+			&copy; 2022 Oulun Tietoteekkarit ry.
 			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
 		</div>
 	</div>

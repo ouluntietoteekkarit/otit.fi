@@ -3,8 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://otit.fi/kilta/hallitus/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://otit.fi/en/kilta/hallitus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://otit.fi/kilta/hallitus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/kilta/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://otit.fi/en/kilta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://otit.fi/kilta/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://otit.fi/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://otit.fi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/kilta/toimihenkilot/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://otit.fi/en/kilta/toimihenkilot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://otit.fi/kilta/toimihenkilot/"
+                />
+  </url>
+  
+  <url>
     <loc>https://otit.fi/categories/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,23 +78,43 @@
   </url>
   
   <url>
-    <loc>https://otit.fi/uutiset/kauden_paattajaiset/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <loc>https://otit.fi/uutiset/hallitus_ja_toimarit_2022/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://otit.fi/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <loc>https://otit.fi/categories/uutiset/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://otit.fi/en/"
+                href="https://otit.fi/en/categories/uutiset/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://otit.fi/"
+                href="https://otit.fi/categories/uutiset/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/uutiset/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://otit.fi/en/uutiset/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://otit.fi/uutiset/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/uutiset/kauden_paattajaiset/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,62 +133,27 @@
   </url>
   
   <url>
-    <loc>https://otit.fi/categories/uutiset/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://otit.fi/en/categories/uutiset/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://otit.fi/categories/uutiset/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://otit.fi/uutiset/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://otit.fi/en/uutiset/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://otit.fi/uutiset/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://otit.fi/kilta/wanhat-toimijat/2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://otit.fi/kilta/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://otit.fi/en/kilta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://otit.fi/kilta/"
-                />
+    <loc>https://otit.fi/kilta/wanhat-toimijat/2021/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://otit.fi/kilta/wanhat-toimijat/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://otit.fi/categories/wanhat-toimijat/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/yritykset/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://otit.fi/kilta/wanhat-toimijat/2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,10 +313,6 @@
   </url>
   
   <url>
-    <loc>https://otit.fi/tietopankki/irc-opas/</loc>
-  </url>
-  
-  <url>
     <loc>https://otit.fi/tietopankki/astiasto/</loc>
   </url>
   
@@ -288,21 +329,11 @@
   </url>
   
   <url>
-    <loc>https://otit.fi/kilta/hallitus/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://otit.fi/en/kilta/hallitus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://otit.fi/kilta/hallitus/"
-                />
+    <loc>https://otit.fi/tietopankki/hyodyllisia-ohjelmia-opiskelijoille/</loc>
   </url>
   
   <url>
-    <loc>https://otit.fi/tietopankki/hyodyllisia-ohjelmia-opiskelijoille/</loc>
+    <loc>https://otit.fi/tietopankki/irc-opas/</loc>
   </url>
   
   <url>
@@ -374,6 +405,10 @@
   </url>
   
   <url>
+    <loc>https://otit.fi/toiminta/laulut/laulumaraton2021/</loc>
+  </url>
+  
+  <url>
     <loc>https://otit.fi/toiminta/laulut/</loc>
   </url>
   
@@ -432,21 +467,11 @@
   </url>
   
   <url>
-    <loc>https://otit.fi/kilta/toimihenkilot/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://otit.fi/en/kilta/toimihenkilot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://otit.fi/kilta/toimihenkilot/"
-                />
+    <loc>https://otit.fi/fuksit/ukk/</loc>
   </url>
   
   <url>
-    <loc>https://otit.fi/fuksit/ukk/</loc>
+    <loc>https://otit.fi/tietopankki/irc-weechat/</loc>
   </url>
   
   <url>
@@ -465,10 +490,6 @@
                 hreflang="fi"
                 href="https://otit.fi/kilta/yhteystiedot/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://otit.fi/yritykset/</loc>
   </url>
   
 </urlset>
