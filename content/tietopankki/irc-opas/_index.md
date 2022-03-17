@@ -1,12 +1,10 @@
 ---
-title: IRC opas
-date: 2021-15-5
+title: IRC-opas
+date: 2022-03-17
 authorbox: false
 sidebar: true
 menu:
 ---
-
-### IRC-OPAS
 
 #### **Mikä IRC, miksi IRC?**
 
