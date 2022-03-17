@@ -1,12 +1,12 @@
 ---
 title: otitsunii
-date: 2021-15-5
+date: 2022-03-17
 authorbox: false
 sidebar: true
 menu:
 ---
 
-~~PDF-muotoinen hakemuslomake~~
+Voit hakea otitsunii-tunnusta [täältä](../../tietopankki/otitsunii-tunnushakemus/)
 
 Operaattorit ovat tehneet kovasti hommia kesällä 2018 ja uusille hakijoille luodaan otitsunii-tunnukset otitsun-tunnusten sijaan! Otitsun-tunnusten käyttäjät voivat siirtyä käyttämään myös otitsunii:ta mielellään 2019 vuoden aikana. (yhdistät otitsunii.oulu.fi:hin otitsun.oulu.fi:n sijaan!).
 
@@ -21,11 +21,11 @@ Salasana on vaihdettava välittömästi sen jälkeen, kun tunnus on saatu. Ongel
 
 ###### Mitä tunnuksilla voi tehdä
 
-– Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet [täältä](../../tietopankki/irc-opas/).
-– Saa pääsyn killan minecraft serverille tunneloimalla. Lisäinfoa minecraft.otit.fi
-– Voit ylläpitää omia sivuja public_html kansion kautta. Sivut löytyvät sitten osoitteesta otit.fi/~tunnus
-– Shell palvelimen ominaisuuksiin kuuluu myös tiedostojen säilyttäminen palvelimella. Vähän kuin pilvipalvelu mutta ei välttämättä ytä luotettava ;D.
-– Oikeuden pyytää sähköpostitunnuksen muotoon `tunnus@otit.fi`. Sähköpostilaatikko luodaan Google Workspace (ent. GSuite) palveluun. Tunnusta voi pyytää operaattoreilta tai hallitukselta.
+- Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet [täältä](../../tietopankki/irc-opas/).
+- Saa pääsyn killan minecraft serverille tunneloimalla. Lisäinfoa minecraft.otit.fi
+- Voit ylläpitää omia sivuja public_html kansion kautta. Sivut löytyvät sitten osoitteesta otit.fi/~tunnus
+- Shell palvelimen ominaisuuksiin kuuluu myös tiedostojen säilyttäminen palvelimella. Vähän kuin pilvipalvelu mutta ei välttämättä ytä luotettava ;D.
+- Oikeuden pyytää sähköpostitunnuksen muotoon `tunnus@otit.fi`. Sähköpostilaatikko luodaan Google Workspace (ent. GSuite) palveluun. Tunnusta voi pyytää operaattoreilta tai hallitukselta.
 
 ###### Kuka ylläpitää palvelimia?
 
