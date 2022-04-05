@@ -1,6 +1,6 @@
 ---
 title: Killan säännöt
-date: 2022-03-17
+date: 2022-04-05
 authorbox: false
 sidebar: true
 menu:
@@ -106,7 +106,7 @@ Henkilövaalin voittaa se ehdokas, joka saa yli puolet annetuista äänistä. Mi
 
 17 § Hallitus
 
-Killan asioita hoitaa vaalikokouksessa toimikaudeksi kerrallaan valittava hallitus, johon kuuluu puheenjohtaja, rahastonhoitaja, sihteeri sekä vähintään kaksi ja enintään seitsemän muuta jäsentä.
+Killan asioita hoitaa vaalikokouksessa toimikaudeksi kerrallaan valittava hallitus, johon kuuluu puheenjohtaja, rahastonhoitaja, sihteeri sekä vähintään kaksi ja enintään yhdeksän muuta jäsentä.
 
 Hallitus valitsee keskuudestaan varapuheenjohtajan.
 
