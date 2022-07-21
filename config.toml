@@ -3,7 +3,7 @@ languageCode = "fi"
 title = "Oulun Tietoteekkarit ry"
 theme = ["mainroad", "hugo-shortcode-gallery"]
 paginate = "8" # Number of posts per page
-ignorefiles = [ "\/content\/toiminta\/terminaali\/verkkoversiot\/.*$" ]
+ignorefiles = [ "content\/toiminta\/terminaali\/verkkoversiot\/.*$" ]
 
 defaultContentLanguage = "fi"
 
