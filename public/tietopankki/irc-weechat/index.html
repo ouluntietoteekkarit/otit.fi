@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Vaihtoehtoinen IRC opas - Oulun Tietoteekkarit ry</title>
+	<title>Vaihtoehtoinen IRC-opas - Oulun Tietoteekkarit ry</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -309,12 +309,11 @@
 			
 <main class="main list" role="main">
 	<header class="main__header">
-		<h1 class="main__title">Vaihtoehtoinen IRC opas</h1>
+		<h1 class="main__title">Vaihtoehtoinen IRC-opas</h1>
 	</header>
 	<div class="content main__content clearfix">
-		<h3 id="vaihtoehtoinen-irc-opas">Vaihtoehtoinen IRC-OPAS</h3>
-<p>Jos IRC ei ole ennestään tuttu, niin kannattaa katsoa <a href="https://otit.fi/tietopankki/irc-opas/">perinteinen IRC-OPAS</a> ennen tätä.</p>
-<p>Perinteisen <a href="https://otit.fi/tietopankki/irc-opas/">screen + irssi</a> tyylin lisäksi irkkaaminen on nyt mahdollista myös Weechatin ja sen relay pluginin avulla.</p>
+		<p>Jos IRC ei ole ennestään tuttu, niin kannattaa katsoa <a href="../irc-opas/">perinteinen IRC-opas</a> ennen tätä.</p>
+<p>Perinteisen <a href="../irc-opas/">screen + irssi</a> tyylin lisäksi irkkaaminen on nyt mahdollista myös Weechatin ja sen relay pluginin avulla.</p>
 <p>Ideana siis on, että Weechat käynnistetään palvelimelle screeniin (kuten irssi), mutta siihen voi sen jälkeen yhdistää weechatin relay protokollan avulla esimerkiksi <a href="https://play.google.com/store/apps/details?id=com.ubergeek42.WeechatAndroid.dev&amp;hl=en_US&amp;gl=US">Weechat-Androidista</a> tai <a href="https://otitsunii.oulu.fi/glowing-bear/">glowing-bearista</a>. Tämä on ainakin allekirjoittaneen mielestä huomattavasti miellyttävämpi tapa käyttää irkkiä esimerkiksi mobiililaitteilla, kuin SSH-yhteys ja komentoriviclientti.</p>
 <h4 id="1-kirjaudu-otitsuniille">1. Kirjaudu otitsuniille</h4>
 <ul>
@@ -336,9 +335,9 @@
 <li>Lisää relay
 <pre><code>/set relay.network.password &lt;joku vahva salasana tähän&gt;
 /set relay.network.bind_address &quot;::1&quot;
-/relay add ipv6.ssl.weechat &lt;portti&gt;
+/relay add ipv6.weechat &lt;portti&gt;
 </code></pre><ul>
-<li><strong>&lt;portti&gt; kohdalle tulee lukuarvo joka on 2*userid + 10000 (tämän takia userid selvitettiin aiemmin)</strong></li>
+<li><strong>&lt;portti&gt; kohdalle tulee lukuarvo joka on 2*userid + 10000 % 65536 (tämän takia userid selvitettiin aiemmin)</strong></li>
 </ul>
 </li>
 </ul>
@@ -371,6 +370,8 @@
 	<h4 class="widget__title">Uutiset</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/uutiset/ensimmainen_terminaali_2022/">Terminaalin 01/2022 verkkoversio julkaistu</a></li>
+			<li class="widget__item"><a class="widget__link" href="/uutiset/killan_kyykkaturnaus_2022/">Killan kykkäturnaus 2022</a></li>
 			<li class="widget__item"><a class="widget__link" href="/uutiset/hallitus_ja_toimarit_2022/">Hallitus ja toimihenkilöt 2022</a></li>
 			<li class="widget__item"><a class="widget__link" href="/uutiset/kauden_paattajaiset/">Kauden päättäjäiset</a></li>
 			<li class="widget__item"><a class="widget__link" href="/uutiset/uudet_sivut/">Uudet sivut</a></li>
