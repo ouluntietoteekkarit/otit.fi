@@ -6,6 +6,15 @@ sidebar: true
 menu:
 ---
 
+## 2021
+- Ville Kylmämaa
+- Lotta Rantala
+- Petra Heikkinen
+- Lasse Rapo
+- Juho Bruun
+- Saku Salo
+- Jere Koivisto
+
 ## 2020
 - Severi Pitkänen
 - Aleksi Tuovinen
