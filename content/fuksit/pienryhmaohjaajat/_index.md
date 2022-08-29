@@ -6,24 +6,27 @@ sidebar: true
 menu:
 ---
 
-Ville Kylmämaa
+Toivo Xiong
 
-Lotta Rantala
+Lauri Suutari
 
-Petra Heikkinen
+Jere Jacklin
 
-Lasse Rapo
+Tommi Jokinen
 
-Juho Bruun
+Ida Haataja
+
+Markus Teuhola
+
+Joni Kemppainen
+
+Eira Paakkunainen
 
 Saku Salo
 
-Jere Koivisto
+Fuksivastaava: Petra Heikkinen
 
-
-Fuksivastaava: Santeri Hyvärinen
-
-Fuksiapuri: Mariel Kurki
+Fuksiapuri: Verneri Pudas
 
 ---
 
