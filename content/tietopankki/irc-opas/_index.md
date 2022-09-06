@@ -6,7 +6,7 @@ sidebar: true
 menu:
 ---
 
-Jos etsit vaihtoehtoista IRC-opasta esim. helpompaan mobiilikäyttöön, se löytyy [täältä](../irc-weechat/).
+Jos etsit vaihtoehtoista IRC-opasta esim. helpompaan mobiilikäyttöön (Weechat), se löytyy [täältä](../irc-weechat/).
 
 #### **Mikä IRC, miksi IRC?**
 

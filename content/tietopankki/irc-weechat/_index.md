@@ -1,6 +1,6 @@
 ---
 title: Vaihtoehtoinen IRC-opas
-date: 2022-03-17
+date: 2022-09-06
 authorbox: false
 sidebar: true
 menu:
@@ -10,7 +10,7 @@ Jos IRC ei ole ennestään tuttu, niin kannattaa katsoa [perinteinen IRC-opas](.
 
 Perinteisen [screen + irssi](../irc-opas/) tyylin lisäksi irkkaaminen on nyt mahdollista myös Weechatin ja sen relay pluginin avulla.
 
-Ideana siis on, että Weechat käynnistetään palvelimelle screeniin (kuten irssi), mutta siihen voi sen jälkeen yhdistää weechatin relay protokollan avulla esimerkiksi [Weechat-Androidista](https://play.google.com/store/apps/details?id=com.ubergeek42.WeechatAndroid.dev&hl=en_US&gl=US) tai [glowing-bearista](https://otitsunii.oulu.fi/glowing-bear/). Tämä on ainakin allekirjoittaneen mielestä huomattavasti miellyttävämpi tapa käyttää irkkiä esimerkiksi mobiililaitteilla, kuin SSH-yhteys ja komentoriviclientti.
+Ideana siis on, että Weechat käynnistetään palvelimelle screeniin (kuten irssi), mutta siihen voi sen jälkeen yhdistää weechatin relay protokollan avulla esimerkiksi [Weechat-Androidista](https://play.google.com/store/apps/details?id=com.ubergeek42.WeechatAndroid.dev&hl=en_US&gl=US) tai [Glowing Bearista](https://otitsunii.oulu.fi/glowing-bear/). Tämä on ainakin allekirjoittaneen mielestä huomattavasti miellyttävämpi tapa käyttää irkkiä esimerkiksi mobiililaitteilla, kuin SSH-yhteys ja komentoriviclientti.
 
 
 #### 1. Kirjaudu otitsuniille
