@@ -1,10 +1,12 @@
 ---
 title: IRC-opas
-date: 2022-03-17
+date: 2022-09-06
 authorbox: false
 sidebar: true
 menu:
 ---
+
+Jos etsit vaihtoehtoista IRC-opasta esim. helpompaan mobiilikäyttöön, se löytyy [täältä](../irc-weechat/).
 
 #### **Mikä IRC, miksi IRC?**
 
