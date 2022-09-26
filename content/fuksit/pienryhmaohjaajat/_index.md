@@ -1,5 +1,5 @@
 ---
-title: Vuoden 2021 pienryhmäohjaajat
+title: Vuoden 2022 pienryhmäohjaajat
 date: 2021-19-8
 authorbox: false
 sidebar: true
