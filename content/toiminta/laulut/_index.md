@@ -37,6 +37,7 @@ Halitulijullin julli, tsatsatsaa, pilipalipom tsatsatsaa
 åå… såå… svinger vi på seidelen igen – hej skål!
 
 ## Laulumaratonit
+- [2022](./laulumaraton2022)
 - [2021](./laulumaraton2021)
 - [2020](./laulumaraton2020)
 - [2019](./laulumaraton2019)
