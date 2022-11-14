@@ -1,16 +1,16 @@
 ---
 title: Terminaali
-date: 2021-15-5
+date: 2021-11-14
 authorbox: false
 sidebar: true
 menu:
 ---
 
+#### [Terminaalin verkkoversiot](./verkkoversiot/)
+
 Terminaali on Oulun Tietoteekkarit ry:n virallinen kiltalehti ja pää-äänenkannattaja. Terminaali pyrkii ilmestymään ainakin neljä kertaa vuodessa.
 
 Terminaalin päätoimittajana toimii killan tiedotusministeri. Päätoimittajan tehtäviin kuuluu lähinnä lehden taitto, levitys ja yleisen Teekkarihengen ylläpito Terminaalin ”tasokkaassa” painoksessa. Toimituskunta (ja lehti) elävät kädet ristissä toivoen ja luottaen kiltalaisen aineksen kykyyn tuottaa kirjallisia tahi graafisia dokumentteja elämästään ja kokemastaan.
-
-Terminaalin verkkoversioita voit lukea [täältä](verkkoversiot).
 
 Terminaalin joidenkin numeroiden verkkoversioissa saattaa olla pieniä eroja painettuihin versioihin verrattuna. Syitä voimme vain arvailla.
 
