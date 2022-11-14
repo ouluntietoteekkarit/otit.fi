@@ -273,7 +273,7 @@ Josta ei selviä
 Kun loittonee taas Audin valot  
 Voi pelin muistot lämmittää  
 
-## Teekkarius 150 -sarja (1 laulu)
+## Teekkarius 150 -sarja (1 laulu, 3. sija)
 
 #### Teekkariuteni
 **Sanat: kal3vi**  
