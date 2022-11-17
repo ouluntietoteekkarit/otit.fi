@@ -23,7 +23,7 @@ Perjantai 2.12. klo 16.30 eteenpäin
 
 ###### Lähetä meille ideasi OTiTin kiltatunnuksista
 
-Vaalikokouksessa käsitellään myös tulevia killan kiltanauhaa sekä ansio- ja kunniamerkkejä. Mikäli siis taiteilijahammasta kolottaa tai mielenpäältä löytyy hyviä ideoita, voit lähettää ideasi tai grafiikoita edellä mainituista kiltatunnuksista puheenjohtajallemme osoitteeseen puheenjohtaja@otit.fi. Omat ehdotukset tulee lähettää ennen keskiviikkoa 24.11.
+Vaalikokouksessa käsitellään myös tulevia killan kiltanauhaa sekä ansio- ja kunniamerkkejä. Mikäli siis taiteilijahammasta kolottaa tai mielenpäältä löytyy hyviä ideoita, voit lähettää ideasi tai grafiikoita edellä mainituista kiltatunnuksista puheenjohtajallemme osoitteeseen puheenjohtaja@otit.fi. Omat ehdotukset tulee lähettää ennen torstaita 24.11.
 
 Mahdollisten kiltatunnusten päällekkäisyyksien ehkäisemiseksi on hyvä tutustua muiden tietoteekkarikiltojen kiltatunnuksiin. Niin OTYn tunnusohjesääntöjä kuin Heraldiikan sääntöjä on myös hyvä pyrkiä seuraamaan kiltanauhaa suunnitellessa.
 
