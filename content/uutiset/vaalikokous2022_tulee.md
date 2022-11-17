@@ -8,8 +8,17 @@ categories:
 tags:
 ---
 
-Vaalikokous 2022 tulee! 
+Vaalikokous 2022 tulee! Tule siis sinäkin vaikuttamaan vähintäänkin OTiTin ensi vuoden toimintaan!
 
-Vaalikokous järjestetään myös tänä vuonna perinteisesti edellisenä päivänä pikkujouluista. Tänä vuonna kyseinen päivä on perjantaina 2.12., klo 14.45 eteenpäin. Tilat kokoukselle eivät ole vielä tiedossa, mutta se päivitetään myöhemmin tähän uutiseen, kalenteriin ja muihin medioihin. Asialistat yms. toimitetaan myöhemmin ennen vaalikokousta, mutta ylimääräisessä kokouksessa käytyihin asioihin liittyviä liitteitä on jo lähetetyn kutsun mukana.
+<!--more-->
 
-Tule siis sinäkin vaikuttamaan vähintäänkin OTiTin ensi vuoden toimintaan!
+Vaalikokous järjestetään myös tänä vuonna perinteisesti edellisenä päivänä pikkujouluista. Tänä vuonna esityslistalla on kuitenkin monen muun kohdan lisäksi myös killan ylimääräisessä kokouksessa esitetyistä killan tunnuksista läpikäytävää, joten vaalikokous on aamutunneille venähtämisen ehkäisemiseksi ja töissä käyvien osallistumisen mahdollistamiseksi päätetty jakaa kahdelle päivälle.
+
+Ensimmäisenä päivänä käydään läpi esityslista läpi kohtaan ennen hallituksen ja toimihenkilöiden valintaa vuodelle 2023, jonka jälkeen siirrytään kokoustauolle. Toisena päivänä esityslista käsitellään loppuun, aloittaen vuoden 2023 puheenjohtajan valinnalla. Asialistat ja muut tarvittavat dokumentit toimitetaan myöhemmin ennen vaalikokousta kutsun mukana, mutta killan omiin tunnuksiin liittyen on jo lähetetty tietoa ja liitteitä save the date -tyylisessä sähköpostiviestissä.
+
+Paikka vaalikokoukselle ei ole vielä tiedossa, mutta se päivitetään myöhemmin tähän uutiseen, kalenteriin ja muihin killan virallisiin tiedotuskanaviin. Vaalikokouspäivämäärät ja ajat ovat seuraavat:
+
+Torstai 1.12. klo 16.30 eteenpäin  
+Perjantai 2.12. klo 16.30 eteenpäin
+
+*Uutista päivitetty 17.11.: Tarkennettu, että vaalikokous järjestetään kahtena päivänä*
