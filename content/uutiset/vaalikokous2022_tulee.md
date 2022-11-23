@@ -16,10 +16,10 @@ Vaalikokous järjestetään myös tänä vuonna perinteisesti edellisenä päiv�
 
 Ensimmäisenä päivänä käydään läpi esityslista läpi kohtaan ennen hallituksen ja toimihenkilöiden valintaa vuodelle 2023, jonka jälkeen siirrytään kokoustauolle. Toisena päivänä esityslista käsitellään loppuun, aloittaen vuoden 2023 puheenjohtajan valinnalla. Asialistat ja muut tarvittavat dokumentit toimitetaan myöhemmin ennen vaalikokousta kutsun mukana, mutta killan omiin tunnuksiin liittyen on jo lähetetty tietoa ja liitteitä save the date -tyylisessä sähköpostiviestissä.
 
-Paikka vaalikokoukselle ei ole vielä tiedossa, mutta se päivitetään myöhemmin tähän uutiseen, kalenteriin ja muihin killan virallisiin tiedotuskanaviin. Vaalikokouspäivämäärät ja ajat ovat seuraavat:
+Paikkana vaalikokoukselle toimii luokka PR105. Vaalikokouspäivämäärät ja ajat ovat seuraavat:
 
-Torstai 1.12. klo 16.30 eteenpäin  
-Perjantai 2.12. klo 16.30 eteenpäin
+Torstai 1.12. klo 16.30 eteenpäin @ PR105 
+Perjantai 2.12. klo 16.30 eteenpäin @ PR105
 
 ###### Lähetä meille ideasi OTiTin kiltatunnuksista
 
@@ -37,3 +37,4 @@ Mahdollisesti hyödyllisiä linkkejä kiltatunnusten suunnitteluun:
 
 *Uutista päivitetty 17.11.: Tarkennettu, että vaalikokous järjestetään kahtena päivänä*  
 *Uutista päivitetty 17.11. 17.24: Lisätty alaotsikko omille ideoille grafiikoista ja ideoista*
+*Uutista päivitetty 23.11. 17.25: Lisätty vaalikokoukselle paikka*
