@@ -54,14 +54,6 @@ weight = 2
       weight = 3
 
 
-
-
-  [[languages.en.menu.footer]]
-    identifier = "startuplifers-logo"
-    name = ""
-    url = "https://startuplifers.org/"
-    pre = "<a href='https://startuplifers.org/'><img src='/img/Startuplifers_Logo_Red_RGB_medium-1.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
   [[languages.en.menu.footer]]
     identifier = "boogie-logo"
     name = ""
@@ -415,12 +407,6 @@ weight = 2
 ####                   #################
 ########################################
 
-  [[menu.footer]]
-    identifier = "startuplifers-logo"
-    name = ""
-    url = "https://startuplifers.org/"
-    pre = "<a href='https://startuplifers.org/'><img src='/img/Startuplifers_Logo_Red_RGB_medium-1.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
   [[menu.footer]]
     identifier = "boogie-logo"
     name = ""
