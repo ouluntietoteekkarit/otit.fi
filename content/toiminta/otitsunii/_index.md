@@ -12,7 +12,7 @@ Otitsunii on Oulun Tietoteekkarit ry:n oma Linux-palvelin. Palvelin on osa killa
 
 Käyttäjätunnusta haetaan täyttämällä hakemuslomake, joka on löydettävissä sivujen tietopankki-osiosta. Lomakkeen voi tulostaa itse em. tiedostosta.
 
-Hakemuslomakkeen voi täyttää joko tietokoneella ennen tulostusta tai selvällä käsialalla **kuulakärkikynällä** (ei siis lyijykynällä). Tulostettu hakemus on päivättävä ja allekirjoitettava, jonka jälkeen sen voi palauttaa killan postilaatikkoon tai suoraan jollekin hallituksen jäsenelle. Tämän jälkeen hakemus menee ensin hallituksen ja sitten killan operaattorin käsittelyyn. Tunnus ja salasana annetaan kuitenkin ainoastaan henkilökohtaisesti. Käyttäjän on vaihdettava salasana ensimmäisellä kirjautumiskerrallaan otitsuniille.
+Hakemuslomakkeen voi täyttää joko tietokoneella ennen tulostusta tai selvällä käsialalla **kuulakärkikynällä** (ei siis lyijykynällä). Tulostettu hakemus on päivättävä ja allekirjoitettava, jonka jälkeen sen voi palauttaa killan postilaatikkoon tai suoraan jollekin hallituksen jäsenelle. Tämän jälkeen hakemus menee ensin hallituksen ja sitten killan operaattorin käsittelyyn. Tunnus ja salasana luovutetaan ainoastaan henkilökohtaisesti. Käyttäjän on vaihdettava salasana ensimmäisellä kirjautumiskerrallaan otitsuniille.
 
 ###### Mitä tunnuksilla voi tehdä
 
