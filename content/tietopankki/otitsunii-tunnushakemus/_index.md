@@ -1,6 +1,6 @@
 ---
 title: otitsunii-tunnushakemus
-date: 2021-12-05
+date: 2022-12-06
 authorbox: false
 sidebar: true
 menu:
@@ -16,6 +16,6 @@ Otitsunii-tunnuksilla voi esimerkiksi irkata. Irkkaamiseen löytyy ohjeet [tää
 
 ###### Käyttöehdot
 
-Käyttäjätunnusta hakiessaan hakija sitoutuu noudattamaan [Oulun yliopiston tietokonejärjestelmien ja tietoliikenneverkon käytön sääntöjä](https://www.oulu.fi/th/node/30542), FUNET-verkon käytön eettisiä ohjeita sekä Oulun Tietoteekkarit ry:n hallituksen ja järjestelmän ylläpidon antamia ohjeita palvelimen käytöstä.
+Käyttäjätunnusta hakiessaan hakija sitoutuu noudattamaan [Oulun yliopiston IT-palvelujen käyttösääntöjä](https://ict.oulu.fi/16762/), FUNET-verkon käytön eettisiä ohjeita sekä Oulun Tietoteekkarit ry:n hallituksen ja järjestelmän ylläpidon antamia ohjeita palvelimen käytöstä.
 
 Salasana on vaihdettava välittömästi sen jälkeen, kun tunnus on saatu. Ongelmatilanteissa ylläpidon tavoittaa osoitteesta adm(at)otit.fi.
