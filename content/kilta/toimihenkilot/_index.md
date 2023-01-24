@@ -1,32 +1,32 @@
 ---
-title: Toimihenkilöt 2022
-date: 2022-01-09
+title: Toimihenkilöt 2023
+date: 2023-01-18
 authorbox: false
 sidebar: true
 menu:
 ---
 
-#### Matriisi- ja viinivastaava
-- Ville Hokkinen
-- IRCnet: myanee
+#### Kilju- ja kiljuntakansleri
+- Verneri Pudas
+- IRCnet: napalmi
 
-#### Matriisi- ja viinivastaava
+#### Kilju- ja kiljuntakansleri
 - Tuomas Pelkonen
 - IRCnet: kuolijo
 
 #### Tietoliikenneministeriön toiminnanjohtaja
-- Santeri Hyvärinen
-- IRCnet: syomasa
+- Aleksanteri Seppä
+- IRCnet: dolmio
 - adm(at)otit.fi
 
 #### Operaattori
-- Alina Piikivi
-- IRCnet: gerhard
+- Juuso Särkelä
+- IRCnet: uimasa
 - adm(at)otit.fi
 
 #### Operaattori
-- Lari Kuistio
-- IRCnet: vivian
+- Henrik Peteri
+- IRCnet: poroboi
 - adm(at)otit.fi
 
 #### Operaattori
@@ -35,40 +35,36 @@ menu:
 - adm(at)otit.fi
 
 #### Operaattori
-- Saku Salo
-- IRCnet: sandalf
-- adm(at)otit.fi
-
-#### Operaattori
 - Niko Mätäsaho
 - IRCnet: esari
 - adm(at)otit.fi
 
 #### Operaattori
-- Aleksanteri Seppä
-- IRCnet: dolmio
+- Kalle Asmundi
+- IRCnet: 
 - adm(at)otit.fi
 
 #### Operaattori
-- Oskari Partala
-- IRCnet: fiba
+- Santeri Hyvärinen
+- IRCnet: syomasa
 - adm(at)otit.fi
 
-#### Pelihenkilö suluissa gamer
-- Taru Järvelä
-- IRCnet: koops
+#### Operaattori
+- Ville Kujala
+- IRCnet: 
+- adm(at)otit.fi
 
-#### Pelihenkilö suluissa gamer (1.1.2022 - 30.6.2022)
-- Aleksanteri Seppä
-- IRCnet: dolmio
+#### Pelivastaava
+- *Jätetty paikan täyttäminen hallitukselle 2023*
+- IRCnet: 
 
-#### Pelihenkilö suluissa gamer (1.7.2022 - 31.12.2022)
-- Aleksi Tuovinen
-- IRCnet: pintti
-
-#### Iso-T
+#### Sopivan kokoinen sisarus
 - Jiska Parrila
 - IRCnet: grilli
+
+#### Graafikko
+- Veka Turunen
+- IRCnet: liianiso
 
 #### Graafikko
 - Petra Heikkinen
@@ -78,167 +74,153 @@ menu:
 - Toivo Xiong
 - IRCnet: rausku
 
-#### Graafikko
-- Juho Bruun
-- IRCnet: joensuu
-
 #### WWW-vastaava
-- Antti koponen
+- Antti Koponen
 - IRCnet: taru
 
 #### WWW-vastaava
-- Jiska Parrila
-- IRCnet: grilli
+- Henrik Peteri
+- IRCnet: poroboi
 
 #### WWW-vastaava
-- Niko Mätäsaho
-- IRCnet: esari
+- Santeri Hyvärinen
+- IRCnet: syomasa
+
+### Urheiluvastaava
+- *Jätetty paikan täyttäminen hallitukselle 2023*
+- IRCnet: 
 
 #### Pelimanni
 - Verneri Pudas
 - IRCnet: napalmi
 
 #### Kulttuurisihteeri
-- Verneri Pudas
-- IRCnet: napalmi
+- Aleksanteri Seppä
+- IRCnet: dolmio
 
-#### Common-Pepe
-- Atte Kankkunen
-- IRCnet: hailait
+#### PepeXXL
+- Tuomas Pelkonen
+- IRCnet: kuolijo
 
-#### Common-Pepe
-- Mariel Kurki
-- IRCnet: kokkeli
+#### PepeXXL
+- Henrik Peteri
+- IRCnet: poroboi
 
 #### Sisäsihteeri
 - Lari Kuistio
 - IRCnet: vivian
 
-#### Työsihteeri
-- Verneri Pudas
-- IRCnet: napalmi
+#### Fuksiasiainsihteeri
+- Henrik Peteri
+- IRCnet: poroboi
 
 #### Opesihteeri
-- Inka Lohiniva
+- Ville-Veikka Kiiskilä
 - IRCnet: haimasa
 
-#### Suhteeri
-- Tatu Lehtola
-- IRCnet: tappivanukas2
+#### RelationshipChickenForestBird
+- Lauri Ala-Mursula
+- IRCnet: limeboi
 
 #### KansainVälinen vastaava
-- Ville Hokkinen
-- IRCnet: myanee
-
-#### Toimittaja
-- Aleksanteri Seppä
-- IRCnet: dolmio
-
-#### Toimittaja
-- Petra Heikkinen
-- IRCnet: liianiso
+- Niklas Raesalmi
+- IRCnet: 
 
 #### Toimittaja
 - Verneri Pudas
 - IRCnet: napalmi
 
 #### Toimittaja
-- Bekim Abazi
-- IRCnet: matti_
+- Topi Bruun
+- IRCnet: metukka
 
 #### Toimittaja
-- Tommi Jokinen
-- IRCnet: ringo
+- Henrik Peteri
+- IRCnet: poroboi
 
 #### Toimittaja
 - Juho Bruun
 - IRCnet: joensuu
 
 #### Toimittaja
+- Juuso Särkelä
+- IRCnet: uimasa
+
+#### Toimittaja
+- Niko Mätäasaho
+- IRCnet: esari
+
+#### Toimittaja
 - Saku Salo
 - IRCnet: sandalf
+
+#### Toimittaja
+- Jukka Vaulanen
+- IRCnet: 
 
 #### Toimittaja
 - Toivo Xiong
 - IRCnet: rausku
 
 #### Toimittaja
-- Eira Paakkunainen
-- IRCnet: mentula
+- Jere Tepsa
+- IRCnet: stetsoni
 
 #### Toimittaja
-- Santeri Hyvärinen
-- IRCnet: syomasa
+- Toivo Xiong
+- IRCnet: rausku
 
-#### Toimittaja
-- Ville Palatsi
-- IRCnet: kangstus
-
-#### Toimittaja
-- Aleksi Tuovinen
-- IRCnet: pintti
-
-#### Toimittaja
-- Taru Järvelä
-- IRCnet: koops
-
-#### Toimittaja
-- Mariel Kurki
-- IRCnet: kokkeli
+#### Seppä
+- Antti Koponen
+- IRCnet: taru
 
 #### Alumnivastaava
 - Taru Järvelä
 - IRCnet: koops
 
-#### Kuvaaja
-- Ella Marjamaa
-- IRCnet: isolla
-
-#### Kuvaaja
+#### Somevastaava
 - Venla Katainen
-- IRCnet: spagetto
+- IRCnet:
 
-#### Kuvaaja
-- Lotta Rantala
-- IRCnet: sivu6
+#### Pääkuvaaja
+- Venla Katainen
+- IRCnet:
 
-#### Kuvaaja
-- Lasse Rapo
-- IRCnet: betoni
+#### AlapääKuvaaja
+- Salla Rissanen
+- IRCnet: patonki
 
-#### Kummitus
-- Saku Salo
-- IRCnet: sandalf
+#### AlapääKuvaaja
+- Lauri Ala-Mursula
+- IRCnet: limeboi
 
-#### Tiskijukka
-- Mariel Kurki
-- IRCnet: kokkeli
+#### AlapääKuvaaja
+- Jere Tepsa
+- IRCnet: stetsoni
+
+#### Cummytus
+- Rainer Laaksonen
+- IRCnet: Kal3vi
+
+#### Janne Nacci
+- Eira Paakkunainen
+- IRCnet: mentula
 
 #### Sijoitusvastaava
 - Lauri Ala-Mursula
 - IRCnet: limeboi
 
 #### Laulukalu-Vastaava
-- Uula Ranta
-- IRCnet: Runtu
-
-#### Laulukalu-Vastaava
 - Taru Järvelä
 - IRCnet: koops
 
-#### Urheiluvastaava
-- Juuso Särkelä
-- IRCnet: uimasa
-- urheiluvastaava(at)otit.fi
-
-#### Urheiluvastaava
-- Venla Timisjärvi
-- IRCnet: minigain
-- urheiluvastaava(at)otit.fi
-
-#### Will Smith
+### Vuosijuhlaneuvos
 - Anssi Uistola
 - IRCnet: cokaks
+
+#### Titeenialokas
+- Rainer Laaksonen
+- IRCnet: Kal3vi
 
 ---
 

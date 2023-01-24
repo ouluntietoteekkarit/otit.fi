@@ -1,49 +1,49 @@
 ---
-title: Hallitus 2022
-date: 2022-01-09
+title: Hallitus 2023
+date: 2023-01-18
 authorbox: false
 sidebar: true
 menu:
 ---
 
 #### Puheenjohtaja
-- Rainer Laaksonen
-- IRCnet: Kal3vi
+- Juho Bruun
+- IRCnet: joensuu
 - puheenjohtaja(at)otit.fi
 
 #### Sihteeri
-- Alina Piikivi
-- IRCnet: gerhard
+- Amanda Korhonen
+- IRCnet: teerex
 - sihteeri(at)otit.fi
 
 #### Tiedotusministeri
-- Niko Mätäsaho
-- IRCnet: esari
+- Joonas Patana
+- IRCnet: sosig
 - tiedotusministeri(at)otit.fi
 
 #### Kulttuuriministeri
-- Mariel Kurki
-- IRCnet: kokkeli
+- Niko Mätäsaho
+- IRCnet: esari
 - kulttuuriministeri(at)otit.fi
 
 #### Työvoimaministeri
-- Petra Heikkinen
-- IRCnet: liianiso
+- Markus Teuhola
+- IRCnet: potero
 - tyovoimaministeri(at)otit.fi
 
 #### Rahastonhoitaja
-- Eira Paakkunainen
-- IRCnet: mentula
+- Salla Rissanen
+- IRCnet: patonki
 - rahastonhoitaja(at)otit.fi
 
 #### Perhe- ja peruspalveluministeri
-- Riina Annunen
-- IRCnet: pirtuloe
+- Jessika Lämsä
+- IRCnet: kospeli
 - pepeministeri(at)otit.fi
 
 #### Ulkoministeri
-- Lauri Ala-Mursula
-- IRCnet: limeboi
+- Teemu Puro
+- IRCnet: topakka
 - ulkoministeri(at)otit.fi
 
 #### Sisäministeri
@@ -51,14 +51,14 @@ menu:
 - IRCnet: taru
 - sisaministeri(at)otit.fi
 
-#### Opetusministeri
-- Santeri Hyvärinen
-- IRCnet: syomasa
+#### Opetusministeri (vpj)
+- Tuomas Pelkonen
+- IRCnet: kuolijo
 - opetusministeri(at)otit.fi
 
-#### Sosiaali- ja terveysministeri (vpj)
-- Juho Bruun
-- IRCnet: joensuu
+#### Sosiaali- ja terveysministeri
+- Topi Bruun
+- IRCnet: metukka
 - soteministeri(at)otit.fi
 
 ---
