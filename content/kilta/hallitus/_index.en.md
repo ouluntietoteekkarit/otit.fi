@@ -21,7 +21,7 @@ menu:
 - IRCnet: sosig
 - tiedotusministeri(at)otit.fi
 
-#### Minister of Culture
+#### Minister of Culture (VC)
 - Niko Mätäsaho
 - IRCnet: esari
 - kulttuuriministeri(at)otit.fi
@@ -51,7 +51,7 @@ menu:
 - IRCnet: taru
 - sisaministeri(at)otit.fi
 
-#### Minister of Education (VC)
+#### Minister of Education
 - Tuomas Pelkonen
 - IRCnet: kuolijo
 - opetusministeri(at)otit.fi

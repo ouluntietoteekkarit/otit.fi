@@ -29,26 +29,29 @@ PL 4500
 
 Päätoimittaja:
 
-Niko Mätäsaho - tiedotusministeri(at)otit.fi
+Joonas Patana - tiedotusministeri(at)otit.fi
 
 Toimittajat:
 
-- Aleksanteri Seppä
-- Petra Heikkinen
 - Verneri Pudas
-- Bekim Abazi
-- Tommi Jokinen
+- Topi Bruun
+- Henrik Peteri
 - Juho Bruun
+- Juuso Särkelä
+- Niko Mätäsaho
 - Saku Salo
+- Jukka Vaulanen
 - Toivo Xiong
-- Eira Paakkunainen
+- Jere Tepsa
+- Teemu Puro
+- Viljami Vuorre
+- Lasse Rapo
+- Aleksanteri Seppä
+- Tomi Ahonen
 - Santeri Hyvärinen
-- Ville Palatsi
-- Aleksi Tuovinen
-- Taru Järvelä
-- Mariel Kurki
 
 Entiset päätoimittajat
+- 2022 - Niko Mätäsaho
 - 2021 - Verneri Pudas
 - 2020 - Santeri Hyvärinen
 - 2019 – Lari Kuistio

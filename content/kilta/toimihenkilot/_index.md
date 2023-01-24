@@ -167,8 +167,28 @@ menu:
 - IRCnet: stetsoni
 
 #### Toimittaja
-- Toivo Xiong
-- IRCnet: rausku
+- Teemu Puro
+- IRCnet: topakka
+
+#### Toimittaja
+- Viljami Vuorre
+- IRCnet: poetkoe
+
+#### Toimittaja
+- Aleksanteri Seppä
+- IRCnet: dolmio
+
+#### Toimittaja
+- Lasse Rapo
+- IRCnet: betoni
+
+#### Toimittaja
+- Tomi Ahonen
+- IRCnet: normioks
+
+#### Toimittaja
+- Santeri Hyvärinen
+- IRCnet: syomasa
 
 #### Seppä
 - Antti Koponen
