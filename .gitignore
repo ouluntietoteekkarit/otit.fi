@@ -2,3 +2,4 @@
 .hugo_build.lock
 resources/_gen/images/
 *secret*
+public/
