@@ -41,7 +41,7 @@ menu:
 
 #### Operaattori
 - Kalle Asmundi
-- IRCnet: 
+- IRCnet: huntilla
 - adm(at)otit.fi
 
 #### Operaattori
@@ -51,12 +51,12 @@ menu:
 
 #### Operaattori
 - Ville Kujala
-- IRCnet: 
+- IRCnet: laiton
 - adm(at)otit.fi
 
 #### Pelivastaava
-- *Jätetty paikan täyttäminen hallitukselle 2023*
-- IRCnet: 
+- Christian Rosberg
+- IRCnet: fontti
 
 #### Sopivan kokoinen sisarus
 - Jiska Parrila
@@ -64,7 +64,7 @@ menu:
 
 #### Graafikko
 - Veka Turunen
-- IRCnet: liianiso
+- IRCnet: ugabuga
 
 #### Graafikko
 - Petra Heikkinen
@@ -116,7 +116,7 @@ menu:
 
 #### Opesihteeri
 - Ville-Veikka Kiiskilä
-- IRCnet: haimasa
+- IRCnet: kaerppae
 
 #### RelationshipChickenForestBird
 - Lauri Ala-Mursula
@@ -156,7 +156,7 @@ menu:
 
 #### Toimittaja
 - Jukka Vaulanen
-- IRCnet: 
+- IRCnet: sexiwau
 
 #### Toimittaja
 - Toivo Xiong
@@ -200,11 +200,11 @@ menu:
 
 #### Somevastaava
 - Venla Katainen
-- IRCnet:
+- IRCnet: spagetto
 
 #### Pääkuvaaja
 - Venla Katainen
-- IRCnet:
+- IRCnet: spagetto
 
 #### AlapääKuvaaja
 - Salla Rissanen

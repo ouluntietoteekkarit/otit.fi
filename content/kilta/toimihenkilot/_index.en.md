@@ -6,95 +6,95 @@ sidebar: true
 menu:
 ---
 
-#### Kilju- ja kiljuntakansleri
+#### Moonshine and Screaming Chancellor
 - Verneri Pudas
 - IRCnet: napalmi
 
-#### Kilju- ja kiljuntakansleri
+#### Moonshine and Screaming Chancellor
 - Tuomas Pelkonen
 - IRCnet: kuolijo
 
-#### Tietoliikenneministeriön toiminnanjohtaja
+#### Director General of the Ministry of Transport and Communications' Telecommunications Division
 - Aleksanteri Seppä
 - IRCnet: dolmio
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Juuso Särkelä
 - IRCnet: uimasa
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Henrik Peteri
 - IRCnet: poroboi
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Antti Koponen
 - IRCnet: taru
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Niko Mätäsaho
 - IRCnet: esari
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Kalle Asmundi
-- IRCnet: 
+- IRCnet: huntilla
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Santeri Hyvärinen
 - IRCnet: syomasa
 - adm(at)otit.fi
 
-#### Operaattori
+#### Operator
 - Ville Kujala
-- IRCnet: 
+- IRCnet: laiton
 - adm(at)otit.fi
 
-#### Pelivastaava
-- *Jätetty paikan täyttäminen hallitukselle 2023*
-- IRCnet: 
+#### Gaming Manager
+- Christian Rosberg
+- IRCnet: fontti
 
-#### Sopivan kokoinen sisarus
+#### The Appropriately Sized Sibling
 - Jiska Parrila
 - IRCnet: grilli
 
-#### Graafikko
+#### Graphic Designer
 - Veka Turunen
-- IRCnet: liianiso
+- IRCnet: ugabuga
 
-#### Graafikko
+#### Graphic Designer
 - Petra Heikkinen
 - IRCnet: liianiso
 
-#### Graafikko
+#### Graphic Designer
 - Toivo Xiong
 - IRCnet: rausku
 
-#### WWW-vastaava
+#### WWW-manager
 - Antti Koponen
 - IRCnet: taru
 
-#### WWW-vastaava
+#### WWW-manager
 - Henrik Peteri
 - IRCnet: poroboi
 
-#### WWW-vastaava
+#### WWW-manager
 - Santeri Hyvärinen
 - IRCnet: syomasa
 
-### Urheiluvastaava
-- *Jätetty paikan täyttäminen hallitukselle 2023*
+### Sport Manager
+- *Decision left for board 2023*
 - IRCnet: 
 
-#### Pelimanni
+#### Fiddler
 - Verneri Pudas
 - IRCnet: napalmi
 
-#### Kulttuurisihteeri
+#### Secretary of Culture
 - Aleksanteri Seppä
 - IRCnet: dolmio
 
@@ -106,119 +106,119 @@ menu:
 - Henrik Peteri
 - IRCnet: poroboi
 
-#### Sisäsihteeri
+#### Secretary of Interior
 - Lari Kuistio
 - IRCnet: vivian
 
-#### Fuksiasiainsihteeri
+#### Secretary of Freshman Affairs
 - Henrik Peteri
 - IRCnet: poroboi
 
-#### Opesihteeri
+#### Education Secretary
 - Ville-Veikka Kiiskilä
-- IRCnet: haimasa
+- IRCnet: kaerppae
 
-#### RelationshipChickenForestBird
+#### SuhdeKanaMetsäLintu
 - Lauri Ala-Mursula
 - IRCnet: limeboi
 
-#### KansainVälinen vastaava
+#### International Manager
 - Niklas Raesalmi
 - IRCnet: 
 
-#### Toimittaja
+#### Reporter
 - Verneri Pudas
 - IRCnet: napalmi
 
-#### Toimittaja
+#### Reporter
 - Topi Bruun
 - IRCnet: metukka
 
-#### Toimittaja
+#### Reporter
 - Henrik Peteri
 - IRCnet: poroboi
 
-#### Toimittaja
+#### Reporter
 - Juho Bruun
 - IRCnet: joensuu
 
-#### Toimittaja
+#### Reporter
 - Juuso Särkelä
 - IRCnet: uimasa
 
-#### Toimittaja
+#### Reporter
 - Niko Mätäasaho
 - IRCnet: esari
 
-#### Toimittaja
+#### Reporter
 - Saku Salo
 - IRCnet: sandalf
 
-#### Toimittaja
+#### Reporter
 - Jukka Vaulanen
-- IRCnet: 
+- IRCnet: sexiwau
 
-#### Toimittaja
+#### Reporter
 - Toivo Xiong
 - IRCnet: rausku
 
-#### Toimittaja
+#### Reporter
 - Jere Tepsa
 - IRCnet: stetsoni
 
-#### Toimittaja
+#### Reporter
 - Teemu Puro
 - IRCnet: topakka
 
-#### Toimittaja
+#### Reporter
 - Viljami Vuorre
 - IRCnet: poetkoe
 
-#### Toimittaja
+#### Reporter
 - Aleksanteri Seppä
 - IRCnet: dolmio
 
-#### Toimittaja
+#### Reporter
 - Lasse Rapo
 - IRCnet: betoni
 
-#### Toimittaja
+#### Reporter
 - Tomi Ahonen
 - IRCnet: normioks
 
-#### Toimittaja
+#### Reporter
 - Santeri Hyvärinen
 - IRCnet: syomasa
 
-#### Seppä
+#### Smith
 - Antti Koponen
 - IRCnet: taru
 
-#### Alumnivastaava
+#### Alumni Manager
 - Taru Järvelä
 - IRCnet: koops
 
-#### Somevastaava
+#### Social Media Manager
 - Venla Katainen
-- IRCnet:
+- IRCnet: spagetto
 
-#### Pääkuvaaja
+#### Head Photographer
 - Venla Katainen
-- IRCnet:
+- IRCnet: spagetto
 
-#### AlapääKuvaaja
+#### UnderHead Photographer
 - Salla Rissanen
 - IRCnet: patonki
 
-#### AlapääKuvaaja
+#### UnderHead Photographer
 - Lauri Ala-Mursula
 - IRCnet: limeboi
 
-#### AlapääKuvaaja
+#### UnderHead Photographer
 - Jere Tepsa
 - IRCnet: stetsoni
 
-#### Cummytus
+#### Mällitus
 - Rainer Laaksonen
 - IRCnet: Kal3vi
 
@@ -226,19 +226,19 @@ menu:
 - Eira Paakkunainen
 - IRCnet: mentula
 
-#### Sijoitusvastaava
+#### Investment Manager
 - Lauri Ala-Mursula
 - IRCnet: limeboi
 
-#### Laulukalu-Vastaava
+#### Singing Equipment Manager
 - Taru Järvelä
 - IRCnet: koops
 
-### Vuosijuhlaneuvos
+### Anniversary advisor
 - Anssi Uistola
 - IRCnet: cokaks
 
-#### Titeenialokas
+#### Titeeni Recruit
 - Rainer Laaksonen
 - IRCnet: Kal3vi
 
