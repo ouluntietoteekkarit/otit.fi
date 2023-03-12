@@ -24,6 +24,14 @@ menu:
 - Santeri Hyvärinen
 - varapro Juho Bruun
 
+## 2019
+- Anssi Uistola
+- Roosa Risto
+- Katri Säily
+- Markus Kyllönen
+- Lassi Perälä
+- Vappu Schroderus
+
 ## 2018
 - Riina Annunen
 - Janne Eskola
