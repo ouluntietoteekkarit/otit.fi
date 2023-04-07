@@ -1,6 +1,6 @@
 ---
 title: Terminaalin verkkoversiot
-date: 2023-03-29
+date: 2023-04-07
 authorbox: false
 sidebar: true
 menu:
