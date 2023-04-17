@@ -8,35 +8,35 @@ menu:
 
 ## Sähköpostiosoitteet
 
-Killan puheenjohtaja: puheenjohtaja(at)otit.fi
+**Killan hallitus:** hallitus(at)otit.fi  
+**Killan puheenjohtaja:** puheenjohtaja(at)otit.fi  
+**Killan jäsenet:** tkilta(at)otit.fi  
+**Killan fuksit:** fuksit(at)otit.fi  
+**Killan pienryhmäohjaajat:** pienryhmaohjaajat(at)otit.fi
 
-Killan hallitus: hallitus(at)otit.fi
+**Huom!** Oulun Tietoteekkarit ry:n sähköpostilistoille postittaminen on sallittu vain Oulun Tietoteekkarit ry:n jäsenille, kannatusjäsenille ja Oulun yliopiston henkilökunnalle. Muiden on lähetettävä työ-/harjoittelupaikkailmoituksensa sekä muut tiedotuksensa ulkoministeri(at)otit.fi kautta.
 
-Killan jäsenet: tkilta(at)otit.fi
+## Posti- ja laskutusosoitteet
 
-Killan fuksit: fuksit(at)otit.fi
+### Posti- ja laskutusosoite Suomesta
 
-Killan pienryhmäohjaajat: pienryhmaohjaajat(at)otit.fi
+Oulun Tietoteekkarit ry  
+PL 4500  
+90014 Oulun yliopisto
 
-Huom! Oulun Tietoteekkarit ry:n sähköpostilistoille postittaminen on sallittu vain Oulun Tietoteekkarit ry:n jäsenille, kannatusjäsenille ja Oulun yliopiston henkilökunnalle. Muiden on lähetettävä työ-/harjoittelupaikkailmoituksensa sekä muut tiedotuksensa ulkoministeri(at)otit.fi kautta.
+### Posti- ja laskutusosoite ulkomailta
 
-## Postiosoite Suomesta
+Oulun Tietoteekkarit ry  
+P.O. Box 4500  
+FI-90014 University of Oulu  
+Finland
 
-Oulun Tietoteekkarit ry
+### Sähköinen laskutus
 
-PL 4500
-
-90014 OULUN YLIOPISTO
-
-## Postiosoite ulkomailta
-
-Oulun Tietoteekkarit ry
-
-P.O. Box 4500
-
-FI-90014 UNIVERSITY OF OULU
-
-FINLAND
+OVT-tunnus (verkkolaskuosoite): 003708686908  
+Verkkolaskuvälittäjä: Maventa  
+Operaattoritunnus: 003721291126  
+Y-tunnus: 0868690-8
 
 ## Muuta
 
