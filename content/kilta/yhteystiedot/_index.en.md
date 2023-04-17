@@ -16,7 +16,7 @@ menu:
 
 **Note!** Sending email to the mailing lists of Oulun Tietoteekkarit ry is only permitted for the members of Oulun Tietoteekkarit ry, sponsors and University of Oulu personnel. Others have to send their emails via the guilds Foreign Minister (ulkoministeri(at)otit.fi).
 
-## Postal and invoicing addresses (for mails from Finland)
+## Postal and invoicing addresses
 
 ### Postal and invoicing address (for mails from Finland)
 Oulun Tietoteekkarit ry  
