@@ -485,6 +485,18 @@ weight = 2
     url = "https://www.iloq.com/en/"
     pre = "<a href='https://www.iloq.com/en/'><img src='/img/Iloq_logo_slogan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
+  [[menu.footer]]
+    identifier = "haltian-logo"
+    name = ""
+    url = "https://haltian.com/"
+    pre = "<a href='https://haltian.com/'><img src='/img/Haltian_Logo_White.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "wapice-logo"
+    name = ""
+    url = "https://www.wapice.com/"
+    pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
 
 ########################################
 ####                   #################
