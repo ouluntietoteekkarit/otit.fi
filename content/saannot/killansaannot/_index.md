@@ -164,11 +164,11 @@ Yhdistyksen tunnukset, tunnusten käyttö ja tunnusten myöntämisen kriteerit m
 
 25 § Ohjesäännöt
 
-Yhdistyksellä voi olla ohjesääntöjä, joilla annetaan näitä sääntöjä täydentäviä määräyksiä. Ohjesäännöillä voidaan määrätä muun muassa 
+Yhdistyksellä voi olla ohjesääntöjä, joilla annetaan näitä sääntöjä täydentäviä määräyksiä. Ohjesäännöillä voidaan määrätä muun muassa:
 
-killan hallinnosta sekä talouden ja omaisuuden hoidosta 
-hallituksen ja muiden toimielimien työjärjestyksestä 
-killan tunnuksista
+- killan hallinnosta sekä talouden ja omaisuuden hoidosta 
+- hallituksen ja muiden toimielimien työjärjestyksestä 
+- killan tunnuksista
 
 Ohjesääntöihin ei saa ottaa näiden sääntöjen tai Suomen lakien tai asetusten kanssa ristiriidassa olevia määräyksiä. Ohjesäännöt ja niihin tehtävät muutokset on hyväksyttävä killan kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä. Päätöstä ohjesäännön tai sen muutoksen hyväksymistä koskevassa asiassa ei saa tehdä, ellei asiaa ole mainittu kokouskutsussa. Ohjesääntö tai sen muutos tulee voimaan, kun se on killan kokouksessa hyväksytty ja pöytäkirjan tarkastajat ovat allekirjoittaneet kokouksen pöytäkirjan.
 
