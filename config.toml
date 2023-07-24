@@ -240,23 +240,11 @@ weight = 2
       parent = "kilta"
       weight = 4
     [[menu.main]]
-      identifier = "saannot"
-      name = "Säännöt"
-      url = "/kilta/saannot"
-      parent = "kilta"
-      weight = 5
-    [[menu.main]]
-      identifier = "tunnusohjesaanto"
-      name = "Tunnusohjesääntö"
-      url = "/kilta/tunnusohjesaanto"
-      parent = "kilta"
-      weight = 6
-    [[menu.main]]
       identifier = "palaute"
       name = "Palaute"
       url = "/kilta/palaute"
       parent = "kilta"
-      weight = 7
+      weight = 5
 
   [[menu.main]]
     identifier = "saannot"
