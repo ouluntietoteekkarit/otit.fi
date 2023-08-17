@@ -1,5 +1,5 @@
 ---
-title: Joulunaali 2022 julkaistu
+title: Eka vuoden 2023 Terminaali julkaistu
 description:
 date: 2023-08-17
 categories:
