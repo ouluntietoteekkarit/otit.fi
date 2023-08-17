@@ -1,10 +1,21 @@
 ---
 title: Edeltävien vuosien pienryhmäohjaajat
-date: 2021-15-5
+date: 2023-08-17
 authorbox: false
 sidebar: true
 menu:
 ---
+
+## 2022
+- Toivo Xiong
+- Lauri Suutari
+- Jere Jacklin
+- Tommi Jokinen
+- Ida Haataja
+- Markus Teuhola
+- Joni Kemppainen
+- Eira Paakkunainen
+- Saku Salo
 
 ## 2021
 - Ville Kylmämaa
