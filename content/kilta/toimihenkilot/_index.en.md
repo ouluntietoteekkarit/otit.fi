@@ -87,8 +87,8 @@ menu:
 - IRCnet: syomasa
 
 ### Sport Manager
-- *Decision left for board 2023*
-- IRCnet: 
+- Jere Ainasoja
+- IRCnet: jukeboxi
 
 #### Fiddler
 - Verneri Pudas

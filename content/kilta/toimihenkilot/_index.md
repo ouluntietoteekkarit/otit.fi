@@ -87,8 +87,8 @@ menu:
 - IRCnet: syomasa
 
 ### Urheiluvastaava
-- *Jätetty paikan täyttäminen hallitukselle 2023*
-- IRCnet: 
+- Jere Ainasoja
+- IRCnet: jukeboxi
 
 #### Pelimanni
 - Verneri Pudas
