@@ -488,7 +488,7 @@ weight = 2
     identifier = "qt-logo"
     name = ""
     url = "http://www.qt.io"
-    pre = "<a href='http://www.qt.io'><img src='/img/qt_logo_green_rgb.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
   [[menu.footer]]
     identifier = "huld-logo"
