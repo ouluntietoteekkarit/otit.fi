@@ -1,6 +1,6 @@
 ---
 title: Yrityksille
-date: 2020-01-11
+date: 2023-08-25
 authorbox: false
 sidebar: true
 menu:
@@ -18,4 +18,4 @@ menu:
 
 **Mustat opiskelijahaalarit** kuuluvat teekkarilakin ohella jokaisen tietoteekkarin perusvarustukseen. Haalareita käytetään ympäri vuoden erilaisissa opiskelijatapahtumissa niin Oulussa kuin myös muualla Suomessa ja jopa ulkomailla. Yhteistyökumppani voi ostaa haalareista mainospaikkoja.
 
-Yhteistyösopimuspakettejamme on mahdollista yhdistellä ja räätälöidä yhteistyökumppanin tarpeiden mukaan. Yhteistyöstä kiinnostuneet saavat lisätietoja ulkoministeriltämme Lauri Ala-Mursulalta (ulkoministeri(at)otit.fi).
+Yhteistyösopimuspakettejamme on mahdollista yhdistellä ja räätälöidä yhteistyökumppanin tarpeiden mukaan. Yhteistyöstä kiinnostuneet saavat lisätietoja ulkoministeriltämme Teemu Purolta (ulkoministeri(at)otit.fi).
