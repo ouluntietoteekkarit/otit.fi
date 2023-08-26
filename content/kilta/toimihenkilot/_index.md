@@ -26,7 +26,7 @@ menu:
 
 #### Operaattori
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 - adm(at)otit.fi
 
 #### Operaattori
@@ -80,7 +80,7 @@ menu:
 
 #### WWW-vastaava
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### WWW-vastaava
 - Santeri Hyvärinen
@@ -104,7 +104,7 @@ menu:
 
 #### PepeXXL
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### Sisäsihteeri
 - Lari Kuistio
@@ -112,7 +112,7 @@ menu:
 
 #### Fuksiasiainsihteeri
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### Opesihteeri
 - Ville-Veikka Kiiskilä
@@ -136,7 +136,7 @@ menu:
 
 #### Toimittaja
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### Toimittaja
 - Juho Bruun
