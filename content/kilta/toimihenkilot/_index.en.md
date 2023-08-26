@@ -26,7 +26,7 @@ menu:
 
 #### Operator
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 - adm(at)otit.fi
 
 #### Operator
@@ -80,7 +80,7 @@ menu:
 
 #### WWW-manager
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### WWW-manager
 - Santeri Hyvärinen
@@ -104,7 +104,7 @@ menu:
 
 #### PepeXXL
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### Secretary of Interior
 - Lari Kuistio
@@ -112,7 +112,7 @@ menu:
 
 #### Secretary of Freshman Affairs
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### Education Secretary
 - Ville-Veikka Kiiskilä
@@ -136,7 +136,7 @@ menu:
 
 #### Reporter
 - Henrik Peteri
-- IRCnet: poroboi
+- IRCnet: psykoosi
 
 #### Reporter
 - Juho Bruun
