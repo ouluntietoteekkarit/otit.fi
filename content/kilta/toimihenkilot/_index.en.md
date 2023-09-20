@@ -147,7 +147,7 @@ menu:
 - IRCnet: uimasa
 
 #### Reporter
-- Niko Mätäasaho
+- Niko Mätäsaho
 - IRCnet: esari
 
 #### Reporter
