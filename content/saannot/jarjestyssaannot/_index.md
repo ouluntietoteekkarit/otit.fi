@@ -1,6 +1,6 @@
 ---
 title: Killan yhteiset järjestyssäännöt
-date: 2023-07-24
+date: 2023-10-22
 authorbox: false
 sidebar: true
 menu:
