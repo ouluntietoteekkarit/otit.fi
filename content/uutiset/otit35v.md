@@ -1,5 +1,5 @@
 ---
-title: Oulun Tietoteekkarit 35v
+title: OTiT 35v vuosijuhlat
 description:
 date: 2023-10-27
 categories:
@@ -13,6 +13,7 @@ Tervehdys!
 Vuosijuhlaviikko on nyt takana, kiitos kaikille juhlijoille osallistumisesta! Tässä hieman koontia;
 
 Vuosijuhlilla palkittiin kiltamme eteen merkittävän panoksen antaneita kiltalaisia niin hopeisin ansiomerkein, kuin kultaisin kunniamerkein.
+
 Ansiomerkillä palkitut ovat:
 - Joonas "kannadan" Soudunsaari
 - Aleksi "glukoosi" Seppänen
