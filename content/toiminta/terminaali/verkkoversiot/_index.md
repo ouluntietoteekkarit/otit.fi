@@ -11,7 +11,8 @@ menu:
 ## 2018 ->
 - ### 2023
   - [1/2023](2018-2027/terminaali2301.pdf) 
-  - [2/2023](2018-2027/terminaali2302.pdf) 
+  - [2/2023](2018-2027/terminaali2302.pdf)
+  - [Juhlapainos 35v](vuosijuhlapainokset/otit_35v.pdf)
 - ### 2022
   - [1/2022](2018-2027/terminaali2201.pdf)
   - [2/2022](2018-2027/terminaali2202.pdf)
