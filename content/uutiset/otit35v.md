@@ -16,7 +16,7 @@ Vuosijuhlilla palkittiin kiltamme eteen merkittävän panoksen antaneita kiltala
 
 Ansiomerkillä palkitut ovat:
 - Joonas "kannadan" Soudunsaari
-- Aleksi "glukoosi" Seppänen
+- Aleksi "Glukoosi" Seppänen
 - Rainer "Kal3vi" Laaksonen
 - Taru "koops" Järvelä
 - Niklas "sebu_" Riikonen
