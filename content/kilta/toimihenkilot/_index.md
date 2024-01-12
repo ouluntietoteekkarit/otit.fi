@@ -216,7 +216,7 @@ Sini Enqvist
 - Telegram: kuopattu
 
 Paavo Nikkari
-- IRCnet: kaeppis
+- IRCnet: kaemppis
 - Telegram: kaemppis
 
 #### Saapuja
