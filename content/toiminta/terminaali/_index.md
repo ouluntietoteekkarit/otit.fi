@@ -1,6 +1,6 @@
 ---
 title: Terminaali
-date: 2021-11-14
+date: 2024-01-11
 authorbox: false
 sidebar: true
 menu:
@@ -29,7 +29,7 @@ PL 4500
 
 Päätoimittaja:
 
-Joonas Patana - tiedotusministeri(at)otit.fi
+Petra Heikkinen - tiedotusministeri(at)otit.fi
 
 Toimittajat:
 
@@ -37,20 +37,14 @@ Toimittajat:
 - Topi Bruun
 - Henrik Peteri
 - Juho Bruun
-- Juuso Särkelä
 - Niko Mätäsaho
 - Saku Salo
-- Jukka Vaulanen
-- Toivo Xiong
-- Jere Tepsa
-- Teemu Puro
-- Viljami Vuorre
 - Lasse Rapo
-- Aleksanteri Seppä
-- Tomi Ahonen
-- Santeri Hyvärinen
+- Aleksi Tuovinen
+- Paavo Nikkari
 
 Entiset päätoimittajat
+- 2023 - Joonas Patana, Bekim Abazi (2/23)
 - 2022 - Niko Mätäsaho
 - 2021 - Verneri Pudas
 - 2020 - Santeri Hyvärinen
