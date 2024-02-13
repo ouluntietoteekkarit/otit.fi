@@ -21,6 +21,7 @@ Killan 27.11.-28.11. järjestetyssä vaalikokouksessa valittiin vuodelle 2024 se
 - **Ulkoministeri:**	Tommi Jokinen
 - **Tiedotusministeri:**  Petra Heikkinen
 - **Opetusministeri:**  Ville Hokkinen
+- **Liikunta-, urheilu- ja nuorisoministeri:** Jere Ainasoja
 
 
 
@@ -74,5 +75,4 @@ Killan 27.11.-28.11. järjestetyssä vaalikokouksessa valittiin vuodelle 2024 se
 - **Saapuja:**  Juho Bruun
 - **Tiskijukka:**  Teemu Puro
 - **Sijoitusvastaava:**  Lauri Ala-Mursula
-- **Laulukaluvastaava:**   Taru Järvelä
 - **Titeenimajuri:**  Rainer Laaksonen
