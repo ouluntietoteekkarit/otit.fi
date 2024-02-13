@@ -16,6 +16,24 @@ menu:
 
 **Note!** Sending email to the mailing lists of Oulun Tietoteekkarit ry is only permitted for the members of Oulun Tietoteekkarit ry, sponsors and University of Oulu personnel. Others have to send their emails via the guilds Foreign Minister (ulkoministeri(at)otit.fi).
 
+## Harassment contact persons
+
+**Salla Rissanen**  
+patonki(at)otit.fi  
+Tg: Smrissa  
+
+**Markus Teuhola**  
+potero(at)otit.fi  
+Tg: p0ter0  
+
+**Jessika Lämsä**  
+kospeli(at)otit.fi  
+Tg: kospeli  
+
+**Amanda Korhonen**  
+teerex(at)otit.fi  
+Tg: Dinonainen  
+
 ## Postal and invoicing addresses
 
 ### Postal and invoicing address (for mails from Finland)

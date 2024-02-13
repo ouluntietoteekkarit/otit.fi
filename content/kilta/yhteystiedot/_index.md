@@ -16,6 +16,24 @@ menu:
 
 **Huom!** Oulun Tietoteekkarit ry:n sähköpostilistoille postittaminen on sallittu vain Oulun Tietoteekkarit ry:n jäsenille, kannatusjäsenille ja Oulun yliopiston henkilökunnalle. Muiden on lähetettävä työ-/harjoittelupaikkailmoituksensa sekä muut tiedotuksensa ulkoministeri(at)otit.fi kautta.
 
+## Häirintäyhdyshenkilöt 
+
+**Salla Rissanen**  
+patonki(at)otit.fi  
+Tg: Smrissa  
+
+**Markus Teuhola**  
+potero(at)otit.fi  
+Tg: p0ter0  
+
+**Jessika Lämsä**  
+kospeli(at)otit.fi  
+Tg: kospeli  
+
+**Amanda Korhonen**  
+teerex(at)otit.fi  
+Tg: Dinonainen  
+
 ## Posti- ja laskutusosoitteet
 
 ### Posti- ja laskutusosoite Suomesta

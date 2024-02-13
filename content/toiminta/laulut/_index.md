@@ -36,7 +36,15 @@ Halitulijullin julli, tsatsatsaa, pilipalipom tsatsatsaa
 
 åå… såå… svinger vi på seidelen igen – hej skål!
 
+## Seitsemän killan laulu OTiTin säkeistö  
+Import OTiT; Import kalja;  
+
+Orjallinen koodikarja  
+
+:;:Vieläkin irkissä räyhää:;:
+
 ## Laulumaratonit
+- [2023](./laulumaraton2023)
 - [2022](./laulumaraton2022)
 - [2021](./laulumaraton2021)
 - [2020](./laulumaraton2020)
