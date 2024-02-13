@@ -1,6 +1,6 @@
 ---
 title: Hallitus 2024
-date: 2024-01-11
+date: 2024-02-13
 authorbox: false
 sidebar: true
 menu:
@@ -43,7 +43,7 @@ Niko Mätäsaho
 - Telegram: esari2
 - kulttuuriministeri(at)otit.fi
 
-#### Fuksiasiainministeri
+#### Fuksiasiainministeri (VPJ)
 *Vastaa fukseista*
 
 Salla Rissanen
@@ -76,7 +76,7 @@ Tommi Jokinen
 - ulkoministeri(at)otit.fi
 
 #### Sisäministeri
-*Vastaa kiltahuoneesta*
+*Vastaa kiltahuoneesta ja välitystoiminnasta*
 
 Jessika Lämsä
 - IRCnet: kospeli

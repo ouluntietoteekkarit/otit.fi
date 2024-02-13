@@ -1,6 +1,6 @@
 ---
 title: Toimihenkilöt 2024
-date: 2024-01-11
+date: 2024-02-13
 authorbox: false
 sidebar: true
 menu:
@@ -70,7 +70,7 @@ Petra Heikkinen
 
 Aati Strömmer
 - IRCnet: antamasa
-- Telegram: 
+- Telegram: antamasa
 
 Toivo Xiong
 - IRCnet: rausku
@@ -89,9 +89,10 @@ Joonas Patana
 Juho Bruun
 - IRCnet: joensuu
 - Telegram: joensuu
+- urheiluvastaava(at)otit.fi
 
 #### Pelimanni
-- Verneri Pudas
+Verneri Pudas
 - IRCnet: napalmi
 - Telegram: napa1mi
 
@@ -200,6 +201,7 @@ Jessika Lämsä
 Niklas Riikonen
 - IRCnet: sebu_
 - Telegram: Sebbuu
+- alumnivastaava(at)otit.fi 
 
 #### Somevastaava
 Rebekka Kellokumpu
