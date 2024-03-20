@@ -8,35 +8,53 @@ menu:
 
 ## Sähköpostiosoitteet
 
-Killan puheenjohtaja: puheenjohtaja(at)otit.fi
+**Killan hallitus:** hallitus(at)otit.fi  
+**Killan puheenjohtaja:** puheenjohtaja(at)otit.fi  
+**Killan jäsenet:** tkilta(at)otit.fi  
+**Killan fuksit:** fuksit(at)otit.fi  
+**Killan pienryhmäohjaajat:** pienryhmaohjaajat(at)otit.fi
 
-Killan hallitus: hallitus(at)otit.fi
+**Huom!** Oulun Tietoteekkarit ry:n sähköpostilistoille postittaminen on sallittu vain Oulun Tietoteekkarit ry:n jäsenille, kannatusjäsenille ja Oulun yliopiston henkilökunnalle. Muiden on lähetettävä työ-/harjoittelupaikkailmoituksensa sekä muut tiedotuksensa ulkoministeri(at)otit.fi kautta.
 
-Killan jäsenet: tkilta(at)otit.fi
+## Häirintäyhdyshenkilöt 
 
-Killan fuksit: fuksit(at)otit.fi
+**Salla Rissanen**  
+patonki(at)otit.fi  
+Tg: Smrissa  
 
-Killan pienryhmäohjaajat: pienryhmaohjaajat(at)otit.fi
+**Markus Teuhola**  
+potero(at)otit.fi  
+Tg: p0ter0  
 
-Huom! Oulun Tietoteekkarit ry:n sähköpostilistoille postittaminen on sallittu vain Oulun Tietoteekkarit ry:n jäsenille, kannatusjäsenille ja Oulun yliopiston henkilökunnalle. Muiden on lähetettävä työ-/harjoittelupaikkailmoituksensa sekä muut tiedotuksensa ulkoministeri(at)otit.fi kautta.
+**Jessika Lämsä**  
+kospeli(at)otit.fi  
+Tg: kospeli  
 
-## Postiosoite Suomesta
+**Amanda Korhonen**  
+teerex(at)otit.fi  
+Tg: Dinonainen  
 
-Oulun Tietoteekkarit ry
+## Posti- ja laskutusosoitteet
 
-PL 4500
+### Posti- ja laskutusosoite Suomesta
 
-90014 OULUN YLIOPISTO
+Oulun Tietoteekkarit ry  
+PL 4500  
+90014 Oulun yliopisto
 
-## Postiosoite ulkomailta
+### Posti- ja laskutusosoite ulkomailta
 
-Oulun Tietoteekkarit ry
+Oulun Tietoteekkarit ry  
+P.O. Box 4500  
+FI-90014 University of Oulu  
+Finland
 
-P.O. Box 4500
+### Sähköinen laskutus
 
-FI-90014 UNIVERSITY OF OULU
-
-FINLAND
+OVT-tunnus (verkkolaskuosoite): 003708686908  
+Verkkolaskuvälittäjä: Maventa  
+Operaattoritunnus: 003721291126  
+Y-tunnus: 0868690-8
 
 ## Muuta
 

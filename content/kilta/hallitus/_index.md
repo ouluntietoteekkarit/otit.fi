@@ -1,65 +1,103 @@
 ---
-title: Hallitus 2023
-date: 2023-01-18
+title: Hallitus 2024
+date: 2024-02-13
 authorbox: false
 sidebar: true
 menu:
 ---
 
 #### Puheenjohtaja
-- Juho Bruun
-- IRCnet: joensuu
+
+Verneri Pudas
+- IRCnet: napalmi
+- Telegram: Napa1mi
 - puheenjohtaja(at)otit.fi
 
 #### Sihteeri
-- Amanda Korhonen
-- IRCnet: teerex
+
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
 - sihteeri(at)otit.fi
 
-#### Tiedotusministeri
-- Joonas Patana
-- IRCnet: sosig
-- tiedotusministeri(at)otit.fi
-
-#### Kulttuuriministeri (VPJ)
-- Niko Mätäsaho
-- IRCnet: esari
-- kulttuuriministeri(at)otit.fi
-
-#### Työvoimaministeri
-- Markus Teuhola
-- IRCnet: potero
-- tyovoimaministeri(at)otit.fi
-
 #### Rahastonhoitaja
-- Salla Rissanen
-- IRCnet: patonki
+
+Rebekka Kellokumpu
+- IRCnet: subuwu
+- Telegram: rebeotti
 - rahastonhoitaja(at)otit.fi
 
+#### Tiedotusministeri
+*Vastaa tiedotuksesta*
+
+Petra Heikkinen
+- IRCnet: liianiso
+- Telegram: liianiso
+- tiedotusministeri(at)otit.fi
+
+#### Kulttuuriministeri
+*Vastaa kulttuuritoiminnasta*
+
+Niko Mätäsaho
+- IRCnet: esari
+- Telegram: esari2
+- kulttuuriministeri(at)otit.fi
+
+#### Fuksiasiainministeri (VPJ)
+*Vastaa fukseista*
+
+Salla Rissanen
+- IRCnet: patonki
+- Telegram: Smrissa
+- fuksiasiainministeri(at)otit.fi
+
 #### Perhe- ja peruspalveluministeri
-- Jessika Lämsä
-- IRCnet: kospeli
+*Vastaa killan tapahtumista*
+
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 - pepeministeri(at)otit.fi
 
+#### Sosiaali- ja terveysministeri
+*Vastaa killan tapahtumista*
+
+Antti Koponen
+- IRCnet: taru
+- Telegram: AKoponen
+- soteministeri(at)otit.fi
+
 #### Ulkoministeri
-- Teemu Puro
-- IRCnet: topakka
+*Vastaa yrityssuhteista*
+
+Tommi Jokinen
+- IRCnet: ringo
+- Telegram: tomjoki
 - ulkoministeri(at)otit.fi
 
 #### Sisäministeri
-- Antti Koponen
-- IRCnet: taru
+*Vastaa kiltahuoneesta ja välitystoiminnasta*
+
+Jessika Lämsä
+- IRCnet: kospeli
+- Telegram: kospeli
 - sisaministeri(at)otit.fi
 
 #### Opetusministeri
-- Tuomas Pelkonen
-- IRCnet: kuolijo
+*Vastaa koulutuspolitiikasta*
+
+Ville Hokkinen
+- IRCnet: myanee
+- Telegram: vilatsut
 - opetusministeri(at)otit.fi
 
-#### Sosiaali- ja terveysministeri
-- Topi Bruun
-- IRCnet: metukka
-- soteministeri(at)otit.fi
+#### Liikunta-, urheilu- ja nuorisoministeri
+*Vastaa killan vapaa-aikatoiminnasta*
+
+Jere Ainasoja
+- IRCnet: jukeboxi
+- Telegram: jukeboxxxi
+- urheiluministeri(at)otit.fi
 
 ---
 

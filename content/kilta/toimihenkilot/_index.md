@@ -1,246 +1,245 @@
 ---
-title: Toimihenkilöt 2023
-date: 2023-01-18
+title: Toimihenkilöt 2024
+date: 2024-02-13
 authorbox: false
 sidebar: true
 menu:
 ---
 
-#### Kilju- ja kiljuntakansleri
-- Verneri Pudas
-- IRCnet: napalmi
+#### Matriisi- ja viinivastaava
 
-#### Kilju- ja kiljuntakansleri
-- Tuomas Pelkonen
-- IRCnet: kuolijo
+Tommi Jokinen
+- IRCnet: ringo
+- Telegram: tomjoki
+
+Johan Porkholm
+- IRCnet: kanapita
+- Telegram: JohanPorkholm
 
 #### Tietoliikenneministeriön toiminnanjohtaja
-- Aleksanteri Seppä
-- IRCnet: dolmio
-- adm(at)otit.fi
-
-#### Operaattori
-- Juuso Särkelä
-- IRCnet: uimasa
-- adm(at)otit.fi
-
-#### Operaattori
-- Henrik Peteri
-- IRCnet: poroboi
-- adm(at)otit.fi
-
-#### Operaattori
-- Antti Koponen
+Antti Koponen
 - IRCnet: taru
+- Telegram: AKoponen
 - adm(at)otit.fi
 
 #### Operaattori
-- Niko Mätäsaho
-- IRCnet: esari
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 - adm(at)otit.fi
 
-#### Operaattori
-- Kalle Asmundi
+Kalle Asmundi
 - IRCnet: huntilla
+- Telegram: huntilla
 - adm(at)otit.fi
 
-#### Operaattori
-- Santeri Hyvärinen
-- IRCnet: syomasa
+Joonas Patana
+- IRCnet: sosig
+- Telegram: jatana
 - adm(at)otit.fi
 
-#### Operaattori
-- Ville Kujala
+Ville Kujala
 - IRCnet: laiton
+- Telegram: laiton_irc
+- adm(at)otit.fi
+
+Niko Mätäsaho
+- IRCnet: esari
+- Telegram: esari2
+- adm(at)otit.fi
+
+Ari-Pekka Ronkainen
+- IRCnet: poramasa
+- Telegram: Poramasa
 - adm(at)otit.fi
 
 #### Pelivastaava
-- Christian Rosberg
-- IRCnet: fontti
+Aleksi Tuovinen
+- IRCnet: pintti
+- Telegram: pintti
 
-#### Sopivan kokoinen sisarus
-- Jiska Parrila
-- IRCnet: grilli
-
-#### Graafikko
-- Veka Turunen
-- IRCnet: ugabuga
+#### Isoveli
+Kalle Asmundi
+- IRCnet: huntilla
+- Telegram: huntilla
 
 #### Graafikko
-- Petra Heikkinen
+Petra Heikkinen
 - IRCnet: liianiso
+- Telegram: liianiso
 
-#### Graafikko
-- Toivo Xiong
+Aati Strömmer
+- IRCnet: antamasa
+- Telegram: antamasa
+
+Toivo Xiong
 - IRCnet: rausku
+- Telegram: rausku666
 
 #### WWW-vastaava
-- Antti Koponen
-- IRCnet: taru
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 
-#### WWW-vastaava
-- Henrik Peteri
-- IRCnet: poroboi
-
-#### WWW-vastaava
-- Santeri Hyvärinen
-- IRCnet: syomasa
+Joonas Patana
+- IRCnet: sosig
+- Telegram: jatana
 
 ### Urheiluvastaava
-- *Jätetty paikan täyttäminen hallitukselle 2023*
-- IRCnet: 
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
+- urheiluvastaava(at)otit.fi
 
 #### Pelimanni
-- Verneri Pudas
+Verneri Pudas
 - IRCnet: napalmi
+- Telegram: napa1mi
 
 #### Kulttuurisihteeri
-- Aleksanteri Seppä
-- IRCnet: dolmio
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
-#### PepeXXL
-- Tuomas Pelkonen
+#### Sote- ja pepeministereiden yleisessä käytössä oleva rahvas rupisammakko
+Amanda Korhonen
+- IRCnet: teerex
+- Telegram: Dinonainen
+
+Santeri Hyvärinen
+- IRCnet: syomasa
+- Telegram: syomasa
+
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
+
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
+
+Markus Salo
+- IRCnet: saku_
+- Telegram: JackMoonShine
+
+Tuomas Pelkonen
 - IRCnet: kuolijo
+- Telegram: kuolijo
 
-#### PepeXXL
-- Henrik Peteri
-- IRCnet: poroboi
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
 #### Sisäsihteeri
-- Lari Kuistio
-- IRCnet: vivian
+Kalle Asmundi
+- IRCnet: huntilla
+- Telegram: huntilla
 
 #### Fuksiasiainsihteeri
-- Henrik Peteri
-- IRCnet: poroboi
+Arttu Lahti
+- IRCnet: monkero
+- Telegram: monkero
+- fuksiasiainsihteeri(at)otit.fi
 
 #### Opesihteeri
-- Ville-Veikka Kiiskilä
-- IRCnet: kaerppae
+Jere Tepsa
+- IRCnet: stetson
+- Telegram: Stetson2
 
-#### RelationshipChickenForestBird
-- Lauri Ala-Mursula
-- IRCnet: limeboi
+#### KansainVälisyys vastaava
+Niklas Raesalmi
+- IRCnet: butpill
+- Telegram: Nraesalmi
 
-#### KansainVälinen vastaava
-- Niklas Raesalmi
-- IRCnet: 
+Niranjan Sreegith
+- IRCnet: sambadi
+- Telegram: niranjansreegith
 
 #### Toimittaja
-- Verneri Pudas
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
+
+Aleksi Tuovinen
+- IRCnet: pintti
+- Telegram: pintti
+
+Verneri Pudas
 - IRCnet: napalmi
+- Telegram: napa1mi
 
-#### Toimittaja
-- Topi Bruun
-- IRCnet: metukka
-
-#### Toimittaja
-- Henrik Peteri
-- IRCnet: poroboi
-
-#### Toimittaja
-- Juho Bruun
-- IRCnet: joensuu
-
-#### Toimittaja
-- Juuso Särkelä
-- IRCnet: uimasa
-
-#### Toimittaja
-- Niko Mätäasaho
-- IRCnet: esari
-
-#### Toimittaja
-- Saku Salo
-- IRCnet: sandalf
-
-#### Toimittaja
-- Jukka Vaulanen
-- IRCnet: sexiwau
-
-#### Toimittaja
-- Toivo Xiong
-- IRCnet: rausku
-
-#### Toimittaja
-- Jere Tepsa
-- IRCnet: stetsoni
-
-#### Toimittaja
-- Teemu Puro
-- IRCnet: topakka
-
-#### Toimittaja
-- Viljami Vuorre
-- IRCnet: poetkoe
-
-#### Toimittaja
-- Aleksanteri Seppä
-- IRCnet: dolmio
-
-#### Toimittaja
-- Lasse Rapo
+Lasse Rapo
 - IRCnet: betoni
+- Telegram: bet0ni
 
-#### Toimittaja
-- Tomi Ahonen
-- IRCnet: normioks
+Saku Salo
+- IRCnet: sandalf
+- Telegram: xsandalf
 
-#### Toimittaja
-- Santeri Hyvärinen
-- IRCnet: syomasa
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
-#### Seppä
-- Antti Koponen
-- IRCnet: taru
+Paavo Nikkari
+- IRCnet: kaemppis
+- Telegram: kaemppis
+
+Niko Mätäsaho
+- IRCnet: esari
+- Telegram: esari2
+
+Topi Bruun
+- IRCnet: metukka
+- Telegram: Jaajo
+
+#### sEPPÄ
+Jessika Lämsä
+- IRCnet: kospeli
+- Telegram: kospeli
 
 #### Alumnivastaava
-- Taru Järvelä
-- IRCnet: koops
+Niklas Riikonen
+- IRCnet: sebu_
+- Telegram: Sebbuu
+- alumnivastaava(at)otit.fi 
 
 #### Somevastaava
-- Venla Katainen
-- IRCnet: spagetto
+Rebekka Kellokumpu
+- IRCnet: subuwu
+- Telegram: rebeotti
 
-#### Pääkuvaaja
-- Venla Katainen
-- IRCnet: spagetto
+#### Kuvaaja
+Joona Syrjäkoski
+- IRCnet: kaiffari
+- Telegram: joona_sk
 
-#### AlapääKuvaaja
-- Salla Rissanen
-- IRCnet: patonki
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
 
-#### AlapääKuvaaja
-- Lauri Ala-Mursula
-- IRCnet: limeboi
+Paavo Nikkari
+- IRCnet: kaemppis
+- Telegram: kaemppis
 
-#### AlapääKuvaaja
-- Jere Tepsa
-- IRCnet: stetsoni
+#### Saapuja
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
-#### Cummytus
-- Rainer Laaksonen
-- IRCnet: Kal3vi
-
-#### Janne Nacci
-- Eira Paakkunainen
-- IRCnet: mentula
+#### Tiskijukka
+Teemu Puro
+- IRCnet: topakka
+- Telegram: topakka
 
 #### Sijoitusvastaava
-- Lauri Ala-Mursula
+Lauri Ala-Mursula
 - IRCnet: limeboi
+- Telegram: Viikset
 
-#### Laulukalu-Vastaava
-- Taru Järvelä
-- IRCnet: koops
-
-### Vuosijuhlaneuvos
-- Anssi Uistola
-- IRCnet: cokaks
-
-#### Titeenialokas
-- Rainer Laaksonen
+#### Titeenimajuri
+Rainer Laaksonen
 - IRCnet: Kal3vi
+- Telegram: Kal3vi
 
 ---
 

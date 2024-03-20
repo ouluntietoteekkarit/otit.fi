@@ -1,246 +1,244 @@
 ---
 title: Officials 2023
-date: 2023-01-18
+date: 2024-02-13
 authorbox: false
 sidebar: true
 menu:
 ---
 
-#### Moonshine and Screaming Chancellor
-- Verneri Pudas
-- IRCnet: napalmi
+#### Matrix and wine manager
+Tommi Jokinen
+- IRCnet: ringo
+- Telegram: tomjoki
 
-#### Moonshine and Screaming Chancellor
-- Tuomas Pelkonen
-- IRCnet: kuolijo
+Johan Porkholm
+- IRCnet: kanapita
+- Telegram: JohanPorkholm
 
 #### Director General of the Ministry of Transport and Communications' Telecommunications Division
-- Aleksanteri Seppä
-- IRCnet: dolmio
-- adm(at)otit.fi
-
-#### Operator
-- Juuso Särkelä
-- IRCnet: uimasa
-- adm(at)otit.fi
-
-#### Operator
-- Henrik Peteri
-- IRCnet: poroboi
-- adm(at)otit.fi
-
-#### Operator
-- Antti Koponen
+Antti Koponen
 - IRCnet: taru
+- Telegram: AKoponen
 - adm(at)otit.fi
 
 #### Operator
-- Niko Mätäsaho
-- IRCnet: esari
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 - adm(at)otit.fi
 
-#### Operator
-- Kalle Asmundi
+Kalle Asmundi
 - IRCnet: huntilla
+- Telegram: huntilla
 - adm(at)otit.fi
 
-#### Operator
-- Santeri Hyvärinen
-- IRCnet: syomasa
+Joonas Patana
+- IRCnet: sosig
+- Telegram: jatana
 - adm(at)otit.fi
 
-#### Operator
-- Ville Kujala
+Ville Kujala
 - IRCnet: laiton
+- Telegram: laiton_irc
+- adm(at)otit.fi
+
+Niko Mätäsaho
+- IRCnet: esari
+- Telegram: esari2
+- adm(at)otit.fi
+
+Ari-Pekka Ronkainen
+- IRCnet: poramasa
+- Telegram: Poramasa
 - adm(at)otit.fi
 
 #### Gaming Manager
-- Christian Rosberg
-- IRCnet: fontti
+Aleksi Tuovinen
+- IRCnet: pintti
+- Telegram: pintti
 
-#### The Appropriately Sized Sibling
-- Jiska Parrila
-- IRCnet: grilli
-
-#### Graphic Designer
-- Veka Turunen
-- IRCnet: ugabuga
+#### Big Brother 
+Kalle Asmundi
+- IRCnet: huntilla
+- Telegram: huntilla
 
 #### Graphic Designer
-- Petra Heikkinen
+Petra Heikkinen
 - IRCnet: liianiso
+- Telegram: liianiso
 
-#### Graphic Designer
-- Toivo Xiong
+Aati Strömmer
+- IRCnet: antamasa
+- Telegram: antamasa
+
+Toivo Xiong
 - IRCnet: rausku
+- Telegram: rausku666
 
 #### WWW-manager
-- Antti Koponen
-- IRCnet: taru
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 
-#### WWW-manager
-- Henrik Peteri
-- IRCnet: poroboi
+Joonas Patana
+- IRCnet: sosig
+- Telegram: jatana
 
-#### WWW-manager
-- Santeri Hyvärinen
-- IRCnet: syomasa
-
-### Sport Manager
-- *Decision left for board 2023*
-- IRCnet: 
+#### Sport Manager
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
+- urheiluvastaava(at)otit.fi 
 
 #### Fiddler
-- Verneri Pudas
+Verneri Pudas
 - IRCnet: napalmi
+- Telegram: napa1mi
 
 #### Secretary of Culture
-- Aleksanteri Seppä
-- IRCnet: dolmio
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
-#### PepeXXL
-- Tuomas Pelkonen
+#### A Common Toad Frog Commonly Used By the Ministers of Sote and Pepe 
+Amanda Korhonen
+- IRCnet: teerex
+- Telegram: Dinonainen
+
+Santeri Hyvärinen
+- IRCnet: syomasa
+- Telegram: syomasa
+
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
+
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
+
+Markus Salo
+- IRCnet: saku_
+- Telegram: JackMoonShine
+
+Tuomas Pelkonen
 - IRCnet: kuolijo
+- Telegram: kuolijo
 
-#### PepeXXL
-- Henrik Peteri
-- IRCnet: poroboi
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
 #### Secretary of Interior
-- Lari Kuistio
-- IRCnet: vivian
+Kalle Asmundi
+- IRCnet: huntilla
+- Telegram: huntilla
 
 #### Secretary of Freshman Affairs
-- Henrik Peteri
-- IRCnet: poroboi
+Arttu Lahti
+- IRCnet: monkero
+- Telegram: monkero
+- fuksiasiainsihteeri(at)otit.fi
 
 #### Education Secretary
-- Ville-Veikka Kiiskilä
-- IRCnet: kaerppae
-
-#### SuhdeKanaMetsäLintu
-- Lauri Ala-Mursula
-- IRCnet: limeboi
+Jere Tepsa
+- IRCnet: stetson
+- Telegram: Stetson2
 
 #### International Manager
-- Niklas Raesalmi
-- IRCnet: 
+Niklas Raesalmi
+- IRCnet: butpill
+- Telegram: Nraesalmi
+
+Niranjan Sreegith
+- IRCnet: sambadi
+- Telegram: niranjansreegith
 
 #### Reporter
-- Verneri Pudas
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
+
+Aleksi Tuovinen
+- IRCnet: pintti
+- Telegram: pintti
+
+Verneri Pudas
 - IRCnet: napalmi
+- Telegram: napa1mi
 
-#### Reporter
-- Topi Bruun
-- IRCnet: metukka
-
-#### Reporter
-- Henrik Peteri
-- IRCnet: poroboi
-
-#### Reporter
-- Juho Bruun
-- IRCnet: joensuu
-
-#### Reporter
-- Juuso Särkelä
-- IRCnet: uimasa
-
-#### Reporter
-- Niko Mätäasaho
-- IRCnet: esari
-
-#### Reporter
-- Saku Salo
-- IRCnet: sandalf
-
-#### Reporter
-- Jukka Vaulanen
-- IRCnet: sexiwau
-
-#### Reporter
-- Toivo Xiong
-- IRCnet: rausku
-
-#### Reporter
-- Jere Tepsa
-- IRCnet: stetsoni
-
-#### Reporter
-- Teemu Puro
-- IRCnet: topakka
-
-#### Reporter
-- Viljami Vuorre
-- IRCnet: poetkoe
-
-#### Reporter
-- Aleksanteri Seppä
-- IRCnet: dolmio
-
-#### Reporter
-- Lasse Rapo
+Lasse Rapo
 - IRCnet: betoni
+- Telegram: bet0ni
 
-#### Reporter
-- Tomi Ahonen
-- IRCnet: normioks
+Saku Salo
+- IRCnet: sandalf
+- Telegram: xsandalf
 
-#### Reporter
-- Santeri Hyvärinen
-- IRCnet: syomasa
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
-#### Smith
-- Antti Koponen
-- IRCnet: taru
+Paavo Nikkari
+- IRCnet: kaemppis
+- Telegram: kaemppis
+
+Niko Mätäsaho
+- IRCnet: esari
+- Telegram: esari2
+
+Topi Bruun
+- IRCnet: metukka
+- Telegram: Jaajo
+
+#### sMITH
+Jessika Lämsä
+- IRCnet: kospeli
+- Telegram: kospeli
 
 #### Alumni Manager
-- Taru Järvelä
-- IRCnet: koops
+Niklas Riikonen
+- IRCnet: sebu_
+- Telegram: Sebbuu
+- alumnivastaava(at)otit.fi
 
 #### Social Media Manager
-- Venla Katainen
-- IRCnet: spagetto
+Rebekka Kellokumpu
+- IRCnet: subuwu
+- Telegram: rebeotti
 
-#### Head Photographer
-- Venla Katainen
-- IRCnet: spagetto
+#### Photographer
+Joona Syrjäkoski
+- IRCnet: kaiffari
+- Telegram: joona_sk
 
-#### UnderHead Photographer
-- Salla Rissanen
-- IRCnet: patonki
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
 
-#### UnderHead Photographer
-- Lauri Ala-Mursula
-- IRCnet: limeboi
+Paavo Nikkari
+- IRCnet: kaemppis
+- Telegram: kaemppis
 
-#### UnderHead Photographer
-- Jere Tepsa
-- IRCnet: stetsoni
+#### Arriver
+Juho Bruun
+- IRCnet: joensuu
+- Telegram: joensuu
 
-#### Mällitus
-- Rainer Laaksonen
-- IRCnet: Kal3vi
-
-#### Janne Nacci
-- Eira Paakkunainen
-- IRCnet: mentula
+#### Disc Jockey
+Teemu Puro
+- IRCnet: topakka
+- Telegram: topakka
 
 #### Investment Manager
-- Lauri Ala-Mursula
+Lauri Ala-Mursula
 - IRCnet: limeboi
+- Telegram: Viikset
 
-#### Singing Equipment Manager
-- Taru Järvelä
-- IRCnet: koops
-
-### Anniversary advisor
-- Anssi Uistola
-- IRCnet: cokaks
-
-#### Titeeni Recruit
-- Rainer Laaksonen
+#### Titeeni Major
+Rainer Laaksonen
 - IRCnet: Kal3vi
+- Telegram: Kal3vi
 
 ---
 

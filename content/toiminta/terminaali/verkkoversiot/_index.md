@@ -1,6 +1,6 @@
 ---
 title: Terminaalin verkkoversiot
-date: 2021-15-5
+date: 2023-10-22
 authorbox: false
 sidebar: true
 menu:
@@ -9,6 +9,13 @@ menu:
 ---
 
 ## 2018 ->
+- ### 2024
+  - [1/2024](2018-2027/terminaali2401.pdf)
+- ### 2023
+  - [1/2023](2018-2027/terminaali2301.pdf) 
+  - [2/2023](2018-2027/terminaali2302.pdf)
+  - [3/2023](2018-2027/terminaali2303.pdf)
+  - [Fuksinaamasto/2023](2018-2027/terminaali2303liite.pdf)
 - ### 2022
   - [1/2022](2018-2027/terminaali2201.pdf)
   - [2/2022](2018-2027/terminaali2202.pdf)
@@ -210,5 +217,6 @@ menu:
  - [OTiT 10v](vuosijuhlapainokset/otit_10v.pdf)
  - [OTiT 15v](vuosijuhlapainokset/otit_15v.pdf)
  - [OTiT 20v](vuosijuhlapainokset/otit_20v.pdf)
+-  [OTiT 35v](vuosijuhlapainokset/otit_35v.pdf)
 
 ---

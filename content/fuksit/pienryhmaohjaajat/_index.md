@@ -1,32 +1,44 @@
 ---
-title: Vuoden 2022 pienryhmäohjaajat
-date: 2021-19-8
+title: Vuoden 2023 tutorit (ent. pienryhmäohjaajat) 
+date: 2023-08-17
 authorbox: false
 sidebar: true
 menu:
 ---
 
-Toivo Xiong
+Arttu Lahti
 
-Lauri Suutari
+Niklas Raesalmi
 
-Jere Jacklin
+Jessika Lämsä
 
-Tommi Jokinen
+Jere Tepsa
 
-Ida Haataja
+Ville-Veikka Kiiskilä
 
-Markus Teuhola
+Kalle Asmundi
 
-Joni Kemppainen
+Aapo Kinnunen
 
-Eira Paakkunainen
+Jimi Gustafsson
 
-Saku Salo
+Ville Kujala
 
-Fuksivastaava: Petra Heikkinen
+Henrik Peteri
 
-Fuksiapuri: Verneri Pudas
+Iina Nikkarikoski
+
+Viljami Vuorre
+
+Juuso Särkelä
+
+Lauri Ulvinen
+
+Viola Pesonen
+
+Fuksivastaava: Markus Teuhola
+
+Fuksiapuri: Henrik Peteri
 
 ---
 

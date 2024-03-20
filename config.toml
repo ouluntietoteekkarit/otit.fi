@@ -240,24 +240,41 @@ weight = 2
       parent = "kilta"
       weight = 4
     [[menu.main]]
-      identifier = "saannot"
-      name = "Säännöt"
-      url = "/kilta/saannot"
-      parent = "kilta"
-      weight = 5
-    [[menu.main]]
       identifier = "palaute"
       name = "Palaute"
       url = "/kilta/palaute"
       parent = "kilta"
-      weight = 6
+      weight = 5
 
+  [[menu.main]]
+    identifier = "saannot"
+    name = "Säännöt"
+    url = "/saannot/killansaannot"
+    weight = 3
+    [[menu.main]]
+      identifier = "killansaannot"
+      name = "Killan säännöt"
+      url = "/saannot/killansaannot"
+      parent = "saannot"
+      weight = 1
+    [[menu.main]]
+      identifier = "tunnusohjesaanto"
+      name = "Tunnusohjesääntö"
+      url = "/saannot/tunnusohjesaanto"
+      parent = "saannot"
+      weight = 2
+    [[menu.main]]
+      identifier = "jarjestyssaannot"
+      name = "Järjestyssäännöt"
+      url = "/saannot/jarjestyssaannot"
+      parent = "saannot"
+      weight = 3
 
   [[menu.main]]
     identifier = "toiminta"
     name = "Toiminta"
     url = "/toiminta/"
-    weight = 3
+    weight = 4
     [[menu.main]]
       identifier = "kiltahuone"
       name = "Kiltahuone"
@@ -294,7 +311,7 @@ weight = 2
     identifier = "fuksit"
     name = "Fuksit"
     url = "/fuksit/"
-    weight = 4
+    weight = 5
     [[menu.main]]
       identifier = "pienryhmaohjaajat"
       name = "Pienryhmäohjaajat"
@@ -319,14 +336,14 @@ weight = 2
     identifier = "yritykset"
     name = "Yritykset"
     url = "/yritykset/"
-    weight = 5
+    weight = 6
 
 
   [[menu.main]]
     identifier = "tietopankki"
     name = "Tietopankki"
     url = "/tietopankki/"
-    weight = 6
+    weight = 7
     [[menu.main]]
       identifier = "irc-opas"
       name = "IRC-opas"
@@ -386,13 +403,13 @@ weight = 2
     identifier = "galleria"
     name = "Galleria"
     url = "https://galleria.otit.fi"
-    weight = 7
+    weight = 8
 
 #  [[menu.main]]
 #    identifier = "palaute"
 #    name = "Palaute"
 #    url = "/palaute/"
-#    weight = 8
+#    weight = 9
 
 ########################################
 ####                    ################
@@ -471,7 +488,7 @@ weight = 2
     identifier = "qt-logo"
     name = ""
     url = "http://www.qt.io"
-    pre = "<a href='http://www.qt.io'><img src='/img/qt_logo_green_rgb.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
   [[menu.footer]]
     identifier = "huld-logo"
@@ -485,6 +502,24 @@ weight = 2
     url = "https://www.iloq.com/en/"
     pre = "<a href='https://www.iloq.com/en/'><img src='/img/Iloq_logo_slogan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
+  [[menu.footer]]
+    identifier = "haltian-logo"
+    name = ""
+    url = "https://haltian.com/"
+    pre = "<a href='https://haltian.com/'><img src='/img/Haltian_Logo_White.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+  [[menu.footer]]
+    identifier = "wapice-logo"
+    name = ""
+    url = "https://www.wapice.com/"
+    pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+  [[menu.footer]]
+      identifier = "op-logo"
+      name = ""
+      url = "https://www.op.fi/op-ryhma"
+      pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+      weight = 1
 
 ########################################
 ####                   #################
