@@ -1,168 +1,186 @@
 ---
-title: Edeltävien vuosien pienryhmäohjaajat
-date: 2023-08-17
+title: Edeltävien vuosien pienryhmäohjaajat / tuutorit
+date: 2023-30-3
 authorbox: false
 sidebar: true
 menu:
 ---
 
+## 2023
+- Aapo Kinnunen
+- Arttu Lahti
+- Henrik Peteri
+- Iina Nikkarikoski
+- Jere Tepsa
+- Jessika Lämsä
+- Jimi Gustafsson
+- Juuso Särkelä
+- Kalle Asmundi
+- Lauri Ulvinen
+- Niklas Raesalmi
+- Viljami Vuorre
+- Ville Kujala
+- Ville-Veikka Kiiskilä
+- Viola Pesonen
+
+
 ## 2022
-- Toivo Xiong
-- Lauri Suutari
-- Jere Jacklin
-- Tommi Jokinen
-- Ida Haataja
-- Markus Teuhola
-- Joni Kemppainen
 - Eira Paakkunainen
+- Ida Haataja
+- Jere Jacklin
+- Joni Kemppainen
+- Lauri Suutari
+- Markus Teuhola
 - Saku Salo
+- Toivo Xiong
+- Tommi Jokinen
 
 ## 2021
-- Ville Kylmämaa
+- Jere Koivisto
+- Juho Bruun
+- Lasse Rapo
 - Lotta Rantala
 - Petra Heikkinen
-- Lasse Rapo
-- Juho Bruun
 - Saku Salo
-- Jere Koivisto
+- Ville Kylmämaa
 
 ## 2020
-- Severi Pitkänen
+- Akseli Uunila
 - Aleksi Tuovinen
 - Eemeli Häyrynen
 - Martti Mourujärvi
-- Akseli Uunila
 - Santeri Hyvärinen
+- Severi Pitkänen
 - varapro Juho Bruun
 
 ## 2019
 - Anssi Uistola
-- Roosa Risto
 - Katri Säily
-- Markus Kyllönen
 - Lassi Perälä
+- Markus Kyllönen
+- Roosa Risto
 - Vappu Schroderus
 
 ## 2018
-- Riina Annunen
 - Janne Eskola
-- Tatu Lehtola
-- Mikael Malmi
 - Jenna Onnela
 - Kalle Suvanto
+- Mikael Malmi
+- Riina Annunen
+- Tatu Lehtola
 
 ## 2017
-- Olli Törrönen
-- Eetu Huusko
 - Arttu Pulkkinen
+- Eetu Huusko
 - Jouni Lammi
-- Topi Kurtelius
+- Olli Törrönen
 - Taru Järvelä
+- Topi Kurtelius
 
 ## 2016
 - Atte Jauhiainen
-- Ville Karsikko
-- Pekka Okkonen
+- Joonas Soudunsaari
 - Juho Sipola
 - Kristian Ängeslevä
-- Joonas Soudunsaari
+- Pekka Okkonen
+- Ville Karsikko
 
 ## 2015
-- Samuli Körkkö
+- Erkka Mäkinen
 - Janne Körkkö
-- Zacharias Hellberg
 - Lauri Haverinen
 - Niklas Riikonen
-- Erkka Mäkinen
+- Samuli Körkkö
+- Zacharias Hellberg
 
 ## 2014
-- Lasse Hyyryläinen
-- Heikki Kaarlela
-- Olli Kauppila
 - Arttu Nivala
-- Uula Ranta
 - Erkka Mäkinen
+- Heikki Kaarlela
+- Lasse Hyyryläinen
+- Olli Kauppila
+- Uula Ranta
 
 ## 2013
 - Antti Möttönen
+- Eero Huhtelin
 - Nemanja Vukota
 - Salla Laivamaa
-- Eero Huhtelin
-- Uula Ranta
 - Teemu Partanen
+- Uula Ranta
 
 ## 2012
-- Esa Jääskelä
-- Miika Keisu
-- Oula Kuuva
+- Aku Visuri
 - Antti Möttönen
+- Esa Jääskelä
 - Joonas Nikula
 - Matti Pulkkinen
-- Visa Seppänen
-- Toni Valtanen
-- Aku Visuri
+- Miika Keisu
 - Nemanja Vukota
 - Olli Vuolteenaho
+- Oula Kuuva
+- Toni Valtanen
+- Visa Seppänen
 
 ## 2011
-- Joonas Partala
-- Tuulikki Lassila
-- Harri Keronen
 - Aapo Lehtosaari
-- Ville Heikkilä
-- Miika Keisu
-- Severi Lampi
+- Harri Keronen
 - Jon Kinnunen
+- Joonas Partala
 - Jukka Lankinen
+- Miika Keisu
 - Olli Vuolteenaho
+- Severi Lampi
+- Tuulikki Lassila
+- Ville Heikkilä
 
 ## 2010
-- Ville Välimaa
-- Tomi Kyöstilä
-- Anne Karppinen
-- Kauri Tervashonka
-- Juho Sassali
 - Aapo Lehtosaari
-- Mikael Heikkinen
+- Anne Karppinen
 - Jenna Oinas
+- Juho Sassali
+- Kauri Tervashonka
+- Mikael Heikkinen
 - Nestori Törmä
+- Tomi Kyöstilä
+- Ville Välimaa
 
 ## 2009
 - Tietotekniikka
+    - Antti Karjalainen
     - Antti Väyrynen
     - Kalle Lyttinen
-    - Tuomas Haanpää
     - Kauri Tervashonka
-    - Antti Karjalainen
     - Mikael Heikkinen
-    - Tung Vu
     - Pekka Mäkinen
+    - Tung Vu
+    - Tuomas Haanpää
 - Informaatioverkostot
     - Jenni Laakso
 
 ## 2008
 - Tietotekniikka
     - Antti Väyrynen
+    - Juhani Puurula
     - Kalle Lyttinen
+    - Mikko Similä
     - Mikko Yliniemi
     - Tiina Maununiemi
-    - Mikko Similä
-    - Juhani Puurula
 - Informaatioverkostot
-    - Salla Särkelä
-    - Lauri Majamaa
     - Katariina Heikkinen
+    - Lauri Majamaa
+    - Salla Särkelä
 
 ## 2007
 - Tietotekniikka
+    - Erno Klementti
     - Helka Kuorilehto
     - Ilkka Mattila
     - Joonas Kortesalmi
-    - Erno Klementti
     - Onni Komulainen
-    - Veli-Pekka Rämäkkö
     - Topi Pohjosaho
     - Tuomas Parttimaa
+    - Veli-Pekka Rämäkkö
 - Informaatioverkostot
     - Milla Tapaninaho
     - Pia Olli
@@ -170,72 +188,72 @@ menu:
 
 ## 2006
 - Tietotekniikka
-    - Juhamatti Niemelä
     - Antti Arffman
-    - Lasse Määttä
     - Esa Törmikoski
-    - Kimmo Ollila
-    - Matti Kaartinen
-    - Tuomas Haanpää
-    - Terhi Talvitie
+    - Juhamatti Niemelä
     - Jussi Kallio
+    - Kimmo Ollila
+    - Lasse Määttä
+    - Matti Kaartinen
     - Onni Komulainen
+    - Terhi Talvitie
+    - Tuomas Haanpää
 - Informaatioverkostot
-    - Laura Neuvonen
     - Anniina Päärni
+    - Laura Neuvonen
     - Taneli Rautio
 
 ## 2005
 - Tietotekniikka
     - Eija Moilanen
-    - Sanna Sivonen
-    - Jussi Kallio
-    - Jukka Määttä
+    - Heikki Laine
     - Janne Kätevä
     - Juhamatti Niemelä
-    - Heikki Laine
-    - Tuomo Mattila
+    - Jukka Määttä
+    - Jussi Kallio
+    - Sanna Sivonen
     - Teemu Salminen
+    - Tuomo Mattila
     - Tuomo Tomperi
     - Ville Tuhkanen
 - Informaatioverkostot
     - Hanna-Riikka Kemppainen
-    - Timo Sarpola
     - Jussi Määttä
+    - Timo Sarpola
 
 ## 2004
 - Tietotekniikka
-    - Katja Ahonen
     - Antti Arffman
-    - Eija Moilanen
-    - Pasi Pyyppönen
     - Antti Rissanen
-    - Juha Tiensyrjä
-    - Teemu Salminen
-    - Sanna Sivonen
-    - Terhi Talvitie
-    - Teemu Tokola
+    - Eija Moilanen
     - Hanna-Liisa Vilppola
+    - Juha Tiensyrjä
+    - Katja Ahonen
+    - Pasi Pyyppönen
+    - Sanna Sivonen
+    - Teemu Salminen
+    - Teemu Tokola
+    - Terhi Talvitie
 - Informaatioverkostot
-    - Liisa Alamaunu
     - Anniina Päärni
+    - Liisa Alamaunu
     - Paula Puolakka
 
 ## 2003
 - Tietotekniikka
-    - Juha Angeria
-    - Simo Hosio
-    - Olli Huoviala
-    - Ville Junttila
-    - Maria Kangas
-    - Matti Mölläri
-    - Mikko Polojärvi
     - Arto Pöppönen
-    - Tuomas Rytky
-    - Teemu Tokola
     - Hanna-Liisa Vilppola
     - Janne Tuovinen
+    - Juha Angeria
+    - Maria Kangas
     - Marjukka Ylitolonen
+    - Matti Mölläri
+    - Mikko Polojärvi
+    - Olli Huoviala
+    - Simo Hosio
+    - Teemu Tokola
+    - Tuomas Rytky
+    - Ville Junttila
 - Informaatioverkostot
     - Laura Neuvonen
     - Laura Oinas
@@ -245,19 +263,19 @@ menu:
 
 ## 2002
 - Tietotekniikka
-    - Kirsi Ervasti
+    - Antti Rissanen
+    - Elina Saari
+    - Hanna-Laura Rissanen
     - Jani Haikala
-    - Tommi Halonen
-    - Olli Huoviala
-    - Mirja Kananen
+    - Jyri Toivonen
+    - Kirsi Ervasti
     - Mika Pohjanen
     - Mikko Polojärvi
-    - Antti Rissanen
-    - Hanna-Laura Rissanen
-    - Tero Rontti
-    - Elina Saari
-    - Jyri Toivonen
+    - Mirja Kananen
+    - Olli Huoviala
     - Sini Välimäki
+    - Tero Rontti
+    - Tommi Halonen
 - Informaatioverkostot
     - Jussi Huotari
     - Pete Pietilä
@@ -266,34 +284,34 @@ menu:
     - Toni Frogell
 
 ## 2001
-- Kirsi Ervasti
-- Hilkka Hietajärvi
-- Kalle Jokiniemi
-- Mirja Kananen
-- Juha Kauvosaari
-- Jouni Knuutinen
-- Lasse Kouva
-- Daniel Lehtonen
-- Teppo Malinen
-- Mika Pohjanen
 - Antti Rissanen
-- Veikko Skurnik
-- Markus Syrjänen
+- Daniel Lehtonen
+- Hilkka Hietajärvi
+- Jouni Knuutinen
+- Juha Kauvosaari
 - Jyri Toivonen
+- Kalle Jokiniemi
+- Kirsi Ervasti
+- Lasse Kouva
+- Markus Syrjänen
+- Mika Pohjanen
+- Mirja Kananen
+- Teppo Malinen
+- Veikko Skurnik
 
 ## 2000
-- Pekka Aho
-- Ville-Veikko Helppi
-- Mikko Hiljanen
-- Risto Huotari
-- Antti Isosalo
 - Aija Lehtonen
+- Antti Isosalo
 - Jaakko Keskikuru
-- Susanna Kivelä
-- Jouni Knuutinen
 - Jari Korhonen
+- Jouni Knuutinen
 - Juho Lahtinen
-- Oula Pulju
 - Juuso Raekallio
-- Tiia Sutinen
+- Mikko Hiljanen
 - Mikko Varpiola
+- Oula Pulju
+- Pekka Aho
+- Risto Huotari
+- Susanna Kivelä
+- Tiia Sutinen
+- Ville-Veikko Helppi

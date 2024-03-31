@@ -313,9 +313,9 @@ weight = 2
     url = "/fuksit/"
     weight = 5
     [[menu.main]]
-      identifier = "pienryhmaohjaajat"
-      name = "Pienryhmäohjaajat"
-      url = "/fuksit/pienryhmaohjaajat"
+      identifier = "tuutorit"
+      name = "Tuutorit"
+      url = "/fuksit/tuutorit"
       parent = "fuksit"
       weight = 1
     [[menu.main]]
