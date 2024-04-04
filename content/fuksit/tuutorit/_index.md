@@ -18,6 +18,7 @@ Joni Pitkänen
 Juho Bruun  
 Juuso Herajärvi  
 Kalle Alasaarela  
+Lauri Gröndahl  
 Paavo Nikkari  
 Ronja Talvensaari  
 Topias Mesilaakso  
