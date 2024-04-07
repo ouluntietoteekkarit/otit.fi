@@ -313,29 +313,35 @@ weight = 2
     url = "/fuksit/"
     weight = 5
     [[menu.main]]
+      identifier = "fuksit_yleista"
+      name = "Yleistä"
+      url = "/fuksit/"
+      parent = "fuksit"
+      weight = 1
+    [[menu.main]]
       identifier = "tuutorit"
       name = "Tuutorit"
       url = "/fuksit/tuutorit"
       parent = "fuksit"
-      weight = 1
+      weight = 2
     [[menu.main]]
       identifier = "tietopaketti"
       name = "Tietopaketti"
       url = "/fuksit/tietopaketti"
       parent = "fuksit"
-      weight = 2
+      weight = 3
     [[menu.main]]
       identifier = "linkit"
       name = "Hyödyllisiä linkkejä"
       url = "/fuksit/linkit"
       parent = "fuksit"
-      weight = 2
+      weight = 4
     [[menu.main]]
       identifier = "ukk"
       name = "UKK"
       url = "/fuksit/ukk"
       parent = "fuksit"
-      weight = 3
+      weight = 5
 
 
   [[menu.main]]
