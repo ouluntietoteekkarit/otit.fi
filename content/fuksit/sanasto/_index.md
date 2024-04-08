@@ -208,6 +208,7 @@ Kursseilla järjestettäviä opetushetkiä, joihin saa mennä laskemaan kotiteht
 **Laulukalu/Kalu**  
 
 Oululaisten Teekkarien oma laulukirja, josta löytyvät sanoitukset kiperimpiinkin elämäntilanteisiin.
+
 **Linnanmaa**  
 
 Oulun yliopiston pääkampus.
@@ -268,7 +269,7 @@ Oulun tuotantotalousteekkarit ry on tuotantotalouden opiskelijoiden kilta. Tutal
 
 Oulun Tietoteekkarit ry. Meidän oma rakas kiltamme. Haalarin väri on musta, kuten lähes kaikilla tietotekniikan opiskelijoilla Suomessa.
 
-**Oranssit naulakot                  **  
+**Oranssit naulakot**  
 
 Kokoontumispaikka Linnanmaan kampuksen pääväylällä isojen luentosalien L1 ja L4 välissä. Tunnistaa oranssin värisistä naulakoista.
 
@@ -469,7 +470,6 @@ Vuoden päätapahtuma, alkaa pari viikkoa etupeltoon ja huipentuu pääpäivää
 Wappuna ja Hurmoksen aikaan liikennöivä bilebussi, josta ei menoa puutu! Tuotto menee lyhentämättömänä hyväntekeväisyyteen. Olennainen osa oululaista Teekkariwappua.
 
 # Y
-
 
 **Ylioppilaskunta**  
 
