@@ -1,6 +1,6 @@
 ---
-title: Board 2023
-date: 2024-02-13
+title: Board 2024
+date: 2024-04-08
 authorbox: false
 sidebar: true
 menu:
