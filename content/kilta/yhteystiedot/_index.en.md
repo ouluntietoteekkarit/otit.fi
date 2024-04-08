@@ -36,22 +36,22 @@ Tg: Dinonainen
 
 ### Postal and invoicing address (for domestic mail)
 
-Oulun Tietoteekkarit ry
-PL 4500
-90014 OULUN YLIOPISTO
+Oulun Tietoteekkarit ry  
+PL 4500  
+90014 OULUN YLIOPISTO  
 
 ## Postal and invoicing address (for international mail)
 
-Oulun Tietoteekkarit ry
-P.O. Box 4500
-FI-90014 UNIVERSITY OF OULU
-FINLAND
-E-invoicing
-EDI ID: 003708686908
+Oulun Tietoteekkarit ry  
+P.O. Box 4500  
+FI-90014 UNIVERSITY OF OULU  
+FINLAND  
+E-invoicing  
+EDI ID: 003708686908  
 
 ### E-invoice operator: Maventa
-Operator ID: 003721291126
-VAT number/business ID: 0868690-8
+Operator ID: 003721291126  
+VAT number/business ID: 0868690-8  
 
 ## Miscellaneous
 
