@@ -26,7 +26,7 @@ PL 4500
 
 90014 UNIVERSITY OF OULU
 
-## Toimitus
+## Editorial Board
 
 Executive editor:
 

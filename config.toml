@@ -85,7 +85,7 @@ weight = 2
     [[languages.en.menu.main]]
       identifier = "terminaali"
       name = "Terminaali"
-      url = "/en/toiminta/teminaali"
+      url = "/en/toiminta/terminaali"
       parent = "toiminta"
       weight = 3
     [[languages.en.menu.main]]
