@@ -9,17 +9,19 @@ menu:
 You can apply for an otitsunii account [here](https://www.otit.fi/tietopankki/otitsunii-tunnushakemus/).
 
 Otitsunii is Oulun Tietoteekkarit ry's own Linux server. The server is part of the guild's cluster of servers. Users are eligible for an account to the server if they are members of Oulun Tietoteekkarit ry.
+
 To apply for an account, you need to fill out an application form found in the information bank section of the website. The form can be printed from the provided file.
+
 You can fill out the application form either on a computer before printing or with clear handwriting using a ballpoint pen (not a pencil). The printed application needs to be dated and signed before being returned to the guild's mailbox or directly to one of the board members. After that, the application will first go through the board's evaluation and then processed by the guild's operators. The username and password will be handed out only in person. Users must change their password during their first login to otitsunii.
 
 ## What can you do with an otitsunii account
 
 After receiving the otitsunii credentials, you can, for example:
-    • Engage in IRC (Internet Relay Chat) conversations. Instructions for IRC can be found in the [IRC guide](https://www.otit.fi/tietopankki/irc-opas/).
-    • Host your own pages through the public_html directory. These pages can be accessed at otit.fi/~tunnus.
-    • Within the terms of use, host and maintain small self-made programs.
-    • Store files on the server. However, it is essential to be cautious with file permissions, and it is not advisable to store highly sensitive data on otitsunii.
-    • Request an email address in the format of username@otit.fi. The email inbox will be created in Google Workspace. You can request the email address from operators or the board.
+    • Engage in IRC (Internet Relay Chat) conversations. Instructions for IRC can be found in the [IRC guide](https://www.otit.fi/tietopankki/irc-opas/).  
+        • Host your own pages through the public_html directory. These pages can be accessed at `otit.fi/~tunnus.`  
+    • Within the terms of use, host and maintain small self-made programs.  
+    • Store files on the server. However, it is essential to be cautious with file permissions, and it is not advisable to store highly sensitive data on otitsunii.  
+    • Request an email address in the format of username@otit.fi. The email inbox will be created in Google Workspace. You can request the email address from operators or the board.  
 
 ## Terms of Use
 
