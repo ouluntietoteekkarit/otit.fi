@@ -40,7 +40,7 @@ Oulun Tietoteekkarit ry
 PL 4500  
 90014 OULUN YLIOPISTO  
 
-## Postal and invoicing address (for international mail)
+### Postal and invoicing address (for international mail)
 
 Oulun Tietoteekkarit ry  
 P.O. Box 4500  
