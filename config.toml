@@ -52,7 +52,54 @@ weight = 2
       url = "/en/kilta/toimihenkilot"
       parent = "kilta"
       weight = 3
+    [[languages.en.menu.main]]
+      identifier = "historia"
+      name = "History"
+      url = "/en/kilta/historia"
+      parent = "kilta"
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = "palaute"
+      name = "Feedback"
+      url = "/en/kilta/palaute"
+      parent = "kilta"
+      weight = 5
 
+  [[languages.en.menu.main]]
+    identifier = "toiminta"
+    name = "Activity"
+    url = "/en/toiminta/"
+    weight = 3
+    [[languages.en.menu.main]]
+      identifier = "kiltahuone"
+      name = "Guild room"
+      url = "/en/toiminta/kiltahuone"
+      parent = "toiminta"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "otitsunii"
+      name = "otitsunii"
+      url = "/en/toiminta/otitsunii"
+      parent = "toiminta"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "terminaali"
+      name = "Terminaali"
+      url = "/en/toiminta/teminaali"
+      parent = "toiminta"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "laulut"
+      name = "Songs"
+      url = "/en/toiminta/laulut"
+      parent = "toiminta"
+      weight = 4
+    [[menu.main]]
+      identifier = "haalarimerkit"
+      name = "Overall patches"
+      url = "/toiminta/haalarimerkit"
+      parent = "toiminta"
+      weight = 5
 
   [[languages.en.menu.footer]]
     identifier = "boogie-logo"
