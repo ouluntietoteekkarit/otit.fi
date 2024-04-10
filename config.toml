@@ -97,7 +97,7 @@ weight = 2
     [[languages.en.menu.main]]
       identifier = "haalarimerkit"
       name = "Overall patches"
-      url = "/toiminta/haalarimerkit"
+      url = "/en/toiminta/haalarimerkit"
       parent = "toiminta"
       weight = 5
 
