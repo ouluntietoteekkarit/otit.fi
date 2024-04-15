@@ -395,6 +395,12 @@ weight = 2
       url = "/fuksit/ukk"
       parent = "fuksit"
       weight = 6
+    [[menu.main]]
+      identifier = "fuksitapahtuma"
+      name = "Tärkeimmät Fuksitapahtumat"
+      url = "/fuksit/tapahtumat"
+      parent = "fuksit"
+      weight = 7
 
 
   [[menu.main]]
