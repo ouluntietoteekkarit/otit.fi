@@ -33,7 +33,7 @@ Linkki oman tiedekunnan sivuille. Täältä löydät uutisia ja hyödyllistä ti
 ### [Tietotekniikan tutkinto-ohjelma](https://www.oulu.fi/fi/hae/kandidaattiohjelmat/tietotekniikka)
 Oulun yliopiston sivut meidän omasta alastamme.
 
-### [Peppi](https://www.oulu.fi/fi/opiskelijalle/peppi)
+### [Peppi](https://www.oulu.fi/fi/peppi)
 Peppi on sovellus, jossa ilmoittaudut kursseille ja tentteihin sekä teet henkilökohtaisen opintosuunnitelman. Sieltä voi myös seurata omien opintojen etenemistä sekä antaa kursseista palautetta.
 
 ### [Opinto-opas](https://opas.peppi.oulu.fi/fi/ohjelma/40142?period=2024-2025)
