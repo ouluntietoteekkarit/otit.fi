@@ -11,6 +11,7 @@ menu:
 
 Aapo Koivumäki  
 Aleksanteri Seppä  
+Amanda Korhonen  
 Anni Laitinen  
 Hanna Jussila  
 Henrik Peteri  
