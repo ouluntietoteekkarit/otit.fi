@@ -11,7 +11,7 @@ menu:
 **Chairman:** puheenjohtaja(at)otit.fi  
 **Members:** tkilta(at)otit.fi  
 **Freshmen:** fuksit(at)otit.fi  
-**Student tutors:** pienryhmaohjaajat(at)otit.fi  
+**Student tutors:** tuutorit(at)otit.fi  
 **Note!** Sending an email to the mailing lists of Oulun Tietoteekkarit ry is only permitted for those who are members of Oulun Tietoteekkarit ry, our sponsors and the personnel at University of Oulu. Others are advised to send their emails via the guilds Foreign Minister (ulkoministeri(at)otit.fi).  
 
 ## Harassment contact persons
