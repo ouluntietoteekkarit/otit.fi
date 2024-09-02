@@ -1,9 +1,8 @@
 ---
-title:
+title: "Fuksien tietopaketti"
 date: 2024-04-07
 authorbox: false
 sidebar: true
-menu:
 ---
 
 # Fuksien tietopaketti
