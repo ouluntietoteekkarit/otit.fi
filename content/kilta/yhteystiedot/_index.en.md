@@ -17,22 +17,22 @@ menu:
 ## Harassment contact persons
 
 **Salla Rissanen**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/patonki.png" alt="Salla Rissanen" width="300" >}}
+{{<figure src="/img/hairintayhdyshenkilot/2024/patonki.jpg" alt="Salla Rissanen" width="300" >}}
 patonki(at)otit.fi  
 Tg: Smrissa  
 
 **Markus Teuhola**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/potero.png" alt="Markus Teuhola" width="300" >}}
+{{<figure src="/img/hairintayhdyshenkilot/2024/potero.jpg" alt="Markus Teuhola" width="300" >}}
 potero(at)otit.fi  
 Tg: p0ter0  
 
 **Jessika Lämsä**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/kospeli.png" alt="Jessika Lämsä" width="300" >}}
+{{<figure src="/img/hairintayhdyshenkilot/2024/kospeli.jpg" alt="Jessika Lämsä" width="300" >}}
 kospeli(at)otit.fi  
 Tg: kospeli  
 
 **Amanda Korhonen**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/teerex.png" alt="Amanda Korhonen" width="300" >}}
+{{<figure src="/img/hairintayhdyshenkilot/2024/teerex.jpg" alt="Amanda Korhonen" width="300" >}}
 teerex(at)otit.fi  
 Tg: Dinonainen  
 
