@@ -172,15 +172,16 @@ esimerkiksi Mallaskellarista, St. Michaelsista, Leskisestä ja monista muista pa
 tarkemmin joltakulta, joka tietää mieltymyksesi.
 
 ### 19. Koska syödään? Ja missä?
-Syöt silloin kuin nappaa, arkisin on aina joku ravintola auki yliopistolla 10-19 välillä. Juvenes tarjoaa
-ylioppilaskunnan jäsenille (eli juuri sinulle, arvon ylioppilaskunnan jäsenmaksun maksanut
-opiskelija) alehintaista ruokaa ravintoloissa, joita on sijoitettu ympäri yliopistoa. Annoksen hinta
-vaihtelee 2.90 eurosta (perusateria) aina 12 euroon saakka (erikoisateriat ja rasvamätöt).
-Opiskelijakortiksi yliopiston ravintoloissa käy sekä fyysinen kortti että Tuudon tai Pivon sähköinen
-opiskelijakortti.
-Ruokalistat löydät helpoiten Juveneksen tai Unirestan sivuilta, tai Tuudosta. Osassa Juveneksen
-ravintoloista on käytössä itsepalvelukassa, jota varten tarvitset Tuudo- tai Pivo-sovelluksen ja siinä
-olevan sähköisen opiskelijakortin.
+
+Yliopiston ravintolat ovat jakautuneet Juveneksen ja Unirestan ravintoloihin. Syöt silloin kuin nappaa, arkisin on aina joku ravintola auki yliopistolla 10-14 välillä. Ravintolat tarjoavat ylioppilaskunnan jäsenille (eli juuri sinulle, arvon ylioppilaskunnan jäsenmaksun maksanut opiskelija) alehintaista ruokaa ravintoloissa, joita on sijoitettu ympäri yliopistoa. Annoksen hinta vaihtelee 2.95 eurosta (perusateria) aina 5.60 euroon saakka (erikoisateriat ja rasvamätöt). Opiskelijakortiksi yliopiston ravintoloissa käy sekä fyysinen kortti että Tuudon tai Pivon sähköinen opiskelijakortti.  
+Ruokalistat löydät helpoiten Juveneksen tai Unirestan sivuilta, tai Tuudosta. Kesän 2024 aikana ravintoloiden nimet uudistuivat ja joissain paikoissa saattaa lukea vielä ravintolan vanha nimi uuden sijaan. Osassa ravintoloista on käytössä itsepalvelukassa, jota varten tarvitset Tuudo- tai Pivo-sovelluksen ja siinä olevan sähköisen opiskelijakortin.
+Ravintolat linnanmaan kampuksella:  
+• Foobar (lounas: 10-11 & 12:15-17:00)  
+• Lipasto + grillipiste (lounas: 10:30-14; vanha Napa)  
+• Kerttu (lounas: 10:30-14; vanha Kastari)  
+• Voltti (lounas: 10:30-14; vanha Kylymä)  
+• Mara (lounas: 10-14:30; OAMK:in puolella)  
+• Julinia + Julinia Garden (lounas: 10:30-13:30; OAMK:in puolella; vanha Foodoo)  
 
 ### 20. Mitkä ovat vuoden suurimmat ja parhaimmat fuksitapahtumat?
 Suurimpia fuksitapahtumia ovat fuksisuunnistus, fuksisitsit, fuksilakitus sekä Wapputapahtumiin
