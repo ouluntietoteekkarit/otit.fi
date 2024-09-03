@@ -174,7 +174,9 @@ tarkemmin joltakulta, joka tietää mieltymyksesi.
 ### 19. Koska syödään? Ja missä?
 
 Yliopiston ravintolat ovat jakautuneet Juveneksen ja Unirestan ravintoloihin. Syöt silloin kuin nappaa, arkisin on aina joku ravintola auki yliopistolla 10-14 välillä. Ravintolat tarjoavat ylioppilaskunnan jäsenille (eli juuri sinulle, arvon ylioppilaskunnan jäsenmaksun maksanut opiskelija) alehintaista ruokaa ravintoloissa, joita on sijoitettu ympäri yliopistoa. Annoksen hinta vaihtelee 2.95 eurosta (perusateria) aina 5.60 euroon saakka (erikoisateriat ja rasvamätöt). Opiskelijakortiksi yliopiston ravintoloissa käy sekä fyysinen kortti että Tuudon tai Pivon sähköinen opiskelijakortti.  
-Ruokalistat löydät helpoiten Juveneksen tai Unirestan sivuilta, tai Tuudosta. Kesän 2024 aikana ravintoloiden nimet uudistuivat ja joissain paikoissa saattaa lukea vielä ravintolan vanha nimi uuden sijaan. Osassa ravintoloista on käytössä itsepalvelukassa, jota varten tarvitset Tuudo- tai Pivo-sovelluksen ja siinä olevan sähköisen opiskelijakortin.
+  
+Ruokalistat löydät helpoiten Juveneksen tai Unirestan sivuilta, tai Tuudosta. Kesän 2024 aikana ravintoloiden nimet uudistuivat ja joissain paikoissa saattaa lukea vielä ravintolan vanha nimi uuden sijaan. Osassa ravintoloista on käytössä itsepalvelukassa, jota varten tarvitset Tuudo- tai Pivo-sovelluksen ja siinä olevan sähköisen opiskelijakortin.  
+  
 Ravintolat linnanmaan kampuksella:  
 • Foobar (lounas: 10-11 & 12:15-17:00)  
 • Lipasto + grillipiste (lounas: 10:30-14; vanha Napa)  
