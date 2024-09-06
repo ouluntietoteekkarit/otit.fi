@@ -222,6 +222,12 @@ weight = 2
       pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
       weight = 1
 
+  [[language.en.menu.main]]
+    identifier = "galleria"
+    name = "Gallery"
+    url = "https://galleria.otit.fi"
+    weight = 8
+
 ########################################
 ####                    ################
 ####    END LANG EN     ################
