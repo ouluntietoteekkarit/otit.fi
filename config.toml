@@ -167,11 +167,11 @@ weight = 2
       parent = "tietopankki"
       weight = 1
 
-  [[language.en.menu.main]]
+  [[languages.en.menu.main]]
     identifier = "galleria"
     name = "Gallery"
     url = "https://galleria.otit.fi"
-    weight = 5  
+    weight = 5
 
   [[languages.en.menu.footer]]
     identifier = "codemate-logo"
