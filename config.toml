@@ -167,6 +167,12 @@ weight = 2
       parent = "tietopankki"
       weight = 1
 
+  [[language.en.menu.main]]
+    identifier = "galleria"
+    name = "Gallery"
+    url = "https://galleria.otit.fi"
+    weight = 8
+
   [[languages.en.menu.footer]]
     identifier = "codemate-logo"
     name = ""
@@ -221,12 +227,6 @@ weight = 2
       url = "https://www.op.fi/op-ryhma"
       pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
       weight = 1
-
-  [[language.en.menu.main]]
-    identifier = "galleria"
-    name = "Gallery"
-    url = "https://galleria.otit.fi"
-    weight = 8
 
 ########################################
 ####                    ################
