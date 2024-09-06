@@ -1,11 +1,9 @@
 ---
-title: "Fuksi Info Package"
+title: "Information package for Freshmen"
 date: 2024-04-07
 authorbox: false
 sidebar: true
 ---
-
-## Information package for Freshmen
 
 This page contains information for freshmen about various events, the freshmen pass, what happens during Wappu, and how to have the best possible freshman year and be reborn as a Teekkari in the spring!
 
