@@ -138,7 +138,7 @@ weight = 2
       weight = 3
     [[languages.en.menu.main]]
       identifier = "linkit"
-      name = "Usefull Links"
+      name = "Useful Links"
       url = "/en/fuksit/linkit"
       parent = "fuksit"
       weight = 5
