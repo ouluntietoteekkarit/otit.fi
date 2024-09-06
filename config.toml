@@ -81,7 +81,7 @@ weight = 2
     identifier = "toiminta"
     name = "Activity"
     url = "/en/toiminta/"
-    weight = 3
+    weight = 4
     [[languages.en.menu.main]]
       identifier = "kiltahuone"
       name = "Guild room"
