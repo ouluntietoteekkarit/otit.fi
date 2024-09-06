@@ -139,7 +139,7 @@ weight = 2
     [[languages.en.menu.main]]
       identifier = "linkit"
       name = "Usefull Links"
-      url = "en//fuksit/linkit"
+      url = "/en/fuksit/linkit"
       parent = "fuksit"
       weight = 5
     [[languages.en.menu.main]]
@@ -151,7 +151,7 @@ weight = 2
     [[languages.en.menu.main]]
       identifier = "fuksitapahtuma"
       name = "Most Important Fuksi Events"
-      url = "en//fuksit/tapahtumat"
+      url = "/en/fuksit/tapahtumat"
       parent = "fuksit"
       weight = 7
 
@@ -171,7 +171,7 @@ weight = 2
     identifier = "galleria"
     name = "Gallery"
     url = "https://galleria.otit.fi"
-    weight = 8
+    weight = 5  
 
   [[languages.en.menu.footer]]
     identifier = "codemate-logo"
