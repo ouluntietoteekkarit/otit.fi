@@ -10,7 +10,7 @@ menu:
 
 OTY järjestää fukseille tapahtumia laidasta laitaan ympäri vuoden, joista esimerkkejä tällä sivulla. Myös killat ja muut tahot järjestävät paljon fuksiaktiviteetteja, joista lisätietoja voit kysyä omalta pienryhmäohjaajaltasi tai kiltamme fuksivastaavalta.
 
-**PROlogi**
+**TUTORiaali**
 
 Meidän killan oma tapahtuma, joka järjestetään perinteisesti opintoja alkavaa maanantaita edeltävänä lauantaina. Tapahtumassa pääsee tutustumaan rennoissa merkeissä ennen opintojen alkua muihin fukseihin, tuutoreihin ja hallituslaisiin sekä mahdollisesti vanhempiin opiskelijoihin.
 
