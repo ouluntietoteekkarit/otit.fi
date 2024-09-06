@@ -8,5 +8,5 @@ menu:
 
 ###### All kind of usefull links
 
-- [Member Application](/tietopankki/jasenhakemus)
+- [Member Application](/en/tietopankki/jasenhakemus)
 
