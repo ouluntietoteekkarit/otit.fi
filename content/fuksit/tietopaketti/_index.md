@@ -5,8 +5,6 @@ authorbox: false
 sidebar: true
 ---
 
-# Fuksien tietopaketti
-
 Tälle sivulle on koottu fukseja koskevaa infoa mm. erilaisista tapahtumista, fuksipassista, mitä Wappuna oikein tapahtuu ja miten onnistutte viettämään parhaan mahdollisen fuksivuoden ja uudestisyntymään keväällä Teekkareina!
 
 ## Ennen opintoja
