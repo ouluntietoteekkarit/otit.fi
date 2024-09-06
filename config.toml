@@ -131,8 +131,8 @@ weight = 2
       parent = "fuksit"
       weight = 2
     [[languages.en.menu.main]]
-      identifier = "Info Package"
-      name = "Tietopaketti"
+      identifier = "tietopaketti"
+      name = "Info Package"
       url = "/en/fuksit/tietopaketti"
       parent = "fuksit"
       weight = 3
