@@ -24,13 +24,14 @@
 ##   3.7. tietopankki
 ##   3.8. galleria
 ## 4.0: ENGLISH [ENG]
-##   4.1. etusivu
-##   4.2. kilta
-##   4.3. saannot
-##   4.4. toiminta
-##   4.5. fuksit
-##   4.6. tietopankki
-##   4.7. galleria
+##   4.1. params
+##   4.2. etusivu
+##   4.3. kilta
+##   4.4. saannot
+##   4.5. toiminta
+##   4.6. fuksit
+##   4.7. tietopankki
+##   4.8. galleria
 ################################################################################
 
 ################################################################################
@@ -110,6 +111,10 @@ defaultContentLanguage = "fi"
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
+########################################
+## Start of footer [sponsors]
+########################################
+
 [menu]
 
 [[menu.footer]]
@@ -167,11 +172,11 @@ defaultContentLanguage = "fi"
       pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
       weight = 1
 
+########################################
+## End of footer [sponsors]
+########################################
 
 [languages]
-
-[languages.fi]
-weight = 1
 
 ################################################################################
 ##
@@ -185,6 +190,9 @@ weight = 1
 ## ░░░░░       ░░░░░ ░░░░░    ░░░░░ ░░░░░    ░░░░░ ░░░░░  ░░░░░░░░░  ░░░░░   ░░░░░
 ##
 ################################################################################
+
+[languages.fi]
+weight = 1
 
 [menu]
 
@@ -468,9 +476,6 @@ weight = 1
 ## End of menu [galleria][FIN]
 ########################################
 
-[languages.en]
-weight = 2
-
 ################################################################################
 ##
 ##   ██████████ ██████   █████   █████████  █████       █████  █████████  █████   █████
@@ -483,6 +488,12 @@ weight = 2
 ##  ░░░░░░░░░░ ░░░░░    ░░░░░   ░░░░░░░░░  ░░░░░░░░░░░ ░░░░░  ░░░░░░░░░  ░░░░░   ░░░░░
 ##
 ################################################################################
+
+[languages.en]
+weight = 2
+
+[languages.en.Params]
+    footer_heading = "Supporting Members"
 
 [languages.en.menu]
 
