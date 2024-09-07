@@ -78,7 +78,6 @@ defaultContentLanguage = "fi"
     pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
     authorbox = false
     post_meta = ["date", "categories"] # Order of post meta information
-    footer_heading = "Kannatusjäsenet"
     mainSections = ["uutiset"]
 
 [Params.style.vars]
@@ -192,7 +191,10 @@ defaultContentLanguage = "fi"
 ################################################################################
 
 [languages.fi]
-weight = 1
+    weight = 1
+
+[Params]
+    footer_heading = "Kannatusjäsenet"
 
 [menu]
 
@@ -490,7 +492,7 @@ weight = 1
 ################################################################################
 
 [languages.en]
-weight = 2
+    weight = 2
 
 [languages.en.Params]
     footer_heading = "Supporting Members"
