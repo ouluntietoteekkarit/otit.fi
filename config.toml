@@ -1,6 +1,5 @@
 ################################################################################
 ##
-##
 ##  ███████████    ███████      █████████
 ## ░█░░░███░░░█  ███░░░░░███   ███░░░░░███
 ## ░   ░███  ░  ███     ░░███ ███     ░░░
@@ -14,15 +13,16 @@
 ## 1.0: Config
 ## 2.0: GLOBAL
 ##   2.1. footer / sponsors
-## 3.0: FINNISH [FIN]
-##   3.1. etusivu
-##   3.2. kilta
-##   3.3. saannot
-##   3.4. toiminta
-##   3.5. fuksit
-##   3.6. yritykset
-##   3.7. tietopankki
-##   3.8. galleria
+## 3.0 FINNISH [FIN]
+##   3.1. params
+##   3.2. etusivu
+##   3.3. kilta
+##   3.4. saannot
+##   3.5. toiminta
+##   3.6. fuksit
+##   3.7. yritykset
+##   3.8. tietopankki
+##   3.9. galleria
 ## 4.0: ENGLISH [ENG]
 ##   4.1. params
 ##   4.2. etusivu
@@ -87,7 +87,6 @@ defaultContentLanguage = "fi"
     fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
     #highlightColor = "#e22d30" # Override highlight color
     highlightColor = "#3e00c8" # Override highlight color
-
 
 [params.logo]
     image = "img/logoo.png" # Logo image. Path relative to "static"
@@ -195,8 +194,6 @@ defaultContentLanguage = "fi"
 
 [languages.fi.params]
     footer_heading = "Kannatusjäsenet"
-
-[menu]
 
 ########################################
 ## Start of menu [etusivu][FIN]
