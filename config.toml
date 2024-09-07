@@ -72,7 +72,7 @@ defaultContentLanguage = "fi"
 [Author] # Used in authorbox
     name = "Oulun Tietoteekkarit ry"
 
-[Params]
+[params]
     copyright = "Oulun Tietoteekkarit ry" # Footer copyright holder, otherwise will use site title
     toc = true # Enable Table of Contents
     pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
@@ -80,7 +80,7 @@ defaultContentLanguage = "fi"
     post_meta = ["date", "categories"] # Order of post meta information
     mainSections = ["uutiset"]
 
-[Params.style.vars]
+[params.style.vars]
     # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
     # Take care of different quotes OR escaping symbols in these params if necessary
     fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
@@ -89,13 +89,13 @@ defaultContentLanguage = "fi"
     highlightColor = "#3e00c8" # Override highlight color
 
 
-[Params.logo]
+[params.logo]
     image = "img/logoo.png" # Logo image. Path relative to "static"
     backgroundimage = "/img/IMG_3562.jpeg"
     title = "Oulun Tietoteekkarit ry" # Logo title, otherwise will use site title
     subtitle = "" # Logo subtitle
 
-[Params.sidebar]
+[params.sidebar]
     home = "right" # Configure layout for home page
     list = "right"  # Configure layout for list pages
     single = "right" # Configure layout for single pages
@@ -105,7 +105,7 @@ defaultContentLanguage = "fi"
     # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
     widgets = ["search", "languages", "sidemenu", "recent", "calendar"]
 
-[Params.widgets]
+[params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
@@ -193,7 +193,7 @@ defaultContentLanguage = "fi"
 [languages.fi]
     weight = 1
 
-[Params]
+[params]
     footer_heading = "Kannatusjäsenet"
 
 [menu]
@@ -494,7 +494,7 @@ defaultContentLanguage = "fi"
 [languages.en]
     weight = 2
 
-[languages.en.Params]
+[languages.en.params]
     footer_heading = "Supporting Members"
 
 [languages.en.menu]
