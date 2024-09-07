@@ -111,7 +111,7 @@ defaultContentLanguage = "fi"
     tags_counter = false # Enable counter for each tag in "Tags" widget
     [params.widgets.social]
         instagram = "ouluntietoteekkarit"
-        linkedin = "https://www.linkedin.com/company/otit/posts/?feedView=all"
+        linkedin = "company/otit"
         github = "ouluntietoteekkarit"
 
 ########################################
