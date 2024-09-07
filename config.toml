@@ -193,7 +193,7 @@ defaultContentLanguage = "fi"
 [languages.fi]
     weight = 1
 
-[params]
+[languages.fi.params]
     footer_heading = "Kannatusjäsenet"
 
 [menu]
