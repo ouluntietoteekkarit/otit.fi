@@ -12,7 +12,6 @@
 ################################################################################
 ## 1.0: Config
 ## 2.0: GLOBAL
-##   2.1. footer / sponsors
 ## 3.0 FINNISH [FIN]
 ##   3.1. params
 ##   3.2. etusivu
@@ -23,6 +22,7 @@
 ##   3.7. yritykset
 ##   3.8. tietopankki
 ##   3.9. galleria
+##   4.10. sponsors
 ## 4.0: ENGLISH [ENG]
 ##   4.1. params
 ##   4.2. etusivu
@@ -32,6 +32,7 @@
 ##   4.6. fuksit
 ##   4.7. tietopankki
 ##   4.8. galleria
+##   4.9. sponsors
 ################################################################################
 
 ################################################################################
@@ -113,62 +114,6 @@ defaultContentLanguage = "fi"
 ## Start of footer [sponsors]
 ########################################
 
-[menu]
-
-[[menu.footer]]
-    identifier = "codemate-logo"
-    name = ""
-    url = "https://www.codemate.com/"
-    pre = "<a href='https://www.codemate.com/'><img src='/img/codemate-Logo-tagline-white-nobg.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "mediatek-logo"
-    name = ""
-    url = "https://www.mediatek.com/"
-    pre = "<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "siili-logo"
-    name = ""
-    url = "https://www.siili.com/"
-    pre = "<a href='https://www.siili.com/'><img src='/img/Siili_logo_text_8_spikes_Black_RGB_28042020.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "synopsys-logo"
-    name = ""
-    url = "https://www.synopsys.com/"
-    pre = "<a href='https://www.synopsys.com/'><img src='/img/snps-logo-sts-purple-grey-e1581696903879.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "verkotan-logo"
-    name = ""
-    url = "https://verkotan.com/"
-    pre = "<a href='https://verkotan.com/'><img src='/img/verkotan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "visidon-logo"
-    name = ""
-    url = "https://www.visidon.fi/"
-    pre = "<a href='https://www.visidon.fi/'><img src='/img/Visidon_logo_RGB_1200dpi_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "qt-logo"
-    name = ""
-    url = "http://www.qt.io"
-    pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-    identifier = "wapice-logo"
-    name = ""
-    url = "https://www.wapice.com/"
-    pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-    weight = 1
-[[menu.footer]]
-      identifier = "op-logo"
-      name = ""
-      url = "https://www.op.fi/op-ryhma"
-      pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
-      weight = 1
 
 ########################################
 ## End of footer [sponsors]
@@ -475,6 +420,61 @@ defaultContentLanguage = "fi"
 ## End of menu [galleria][FIN]
 ########################################
 
+[[menu.footer]]
+    identifier = "codemate-logo"
+    name = ""
+    url = "https://www.codemate.com/"
+    pre = "<a href='https://www.codemate.com/'><img src='/img/codemate-Logo-tagline-white-nobg.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "mediatek-logo"
+    name = ""
+    url = "https://www.mediatek.com/"
+    pre = "<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "siili-logo"
+    name = ""
+    url = "https://www.siili.com/"
+    pre = "<a href='https://www.siili.com/'><img src='/img/Siili_logo_text_8_spikes_Black_RGB_28042020.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "synopsys-logo"
+    name = ""
+    url = "https://www.synopsys.com/"
+    pre = "<a href='https://www.synopsys.com/'><img src='/img/snps-logo-sts-purple-grey-e1581696903879.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "verkotan-logo"
+    name = ""
+    url = "https://verkotan.com/"
+    pre = "<a href='https://verkotan.com/'><img src='/img/verkotan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "visidon-logo"
+    name = ""
+    url = "https://www.visidon.fi/"
+    pre = "<a href='https://www.visidon.fi/'><img src='/img/Visidon_logo_RGB_1200dpi_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "qt-logo"
+    name = ""
+    url = "http://www.qt.io"
+    pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+    identifier = "wapice-logo"
+    name = ""
+    url = "https://www.wapice.com/"
+    pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
+      identifier = "op-logo"
+      name = ""
+      url = "https://www.op.fi/op-ryhma"
+      pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+      weight = 1
+
 ################################################################################
 ##
 ##   ██████████ ██████   █████   █████████  █████       █████  █████████  █████   █████
@@ -706,4 +706,67 @@ defaultContentLanguage = "fi"
 
 ########################################
 ## End of menu [galleria][ENG]
+########################################
+
+########################################
+## Start of sponsors
+########################################
+
+[[languages.en.menu.footer]]
+    identifier = "codemate-logo"
+    name = ""
+    url = "https://www.codemate.com/"
+    pre = "<a href='https://www.codemate.com/'><img src='/img/codemate-Logo-tagline-white-nobg.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "mediatek-logo"
+    name = ""
+    url = "https://www.mediatek.com/"
+    pre = "<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "siili-logo"
+    name = ""
+    url = "https://www.siili.com/"
+    pre = "<a href='https://www.siili.com/'><img src='/img/Siili_logo_text_8_spikes_Black_RGB_28042020.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "synopsys-logo"
+    name = ""
+    url = "https://www.synopsys.com/"
+    pre = "<a href='https://www.synopsys.com/'><img src='/img/snps-logo-sts-purple-grey-e1581696903879.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "verkotan-logo"
+    name = ""
+    url = "https://verkotan.com/"
+    pre = "<a href='https://verkotan.com/'><img src='/img/verkotan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "visidon-logo"
+    name = ""
+    url = "https://www.visidon.fi/"
+    pre = "<a href='https://www.visidon.fi/'><img src='/img/Visidon_logo_RGB_1200dpi_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "qt-logo"
+    name = ""
+    url = "http://www.qt.io"
+    pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+    identifier = "wapice-logo"
+    name = ""
+    url = "https://www.wapice.com/"
+    pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[languages.en.menu.footer]]
+      identifier = "op-logo"
+      name = ""
+      url = "https://www.op.fi/op-ryhma"
+      pre = "<a href='https://www.op.fi/op-ryhma'><img src='/img/OP_Ryhma_liikemerkki.webp' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+      weight = 1
+
+########################################
+## End of sponsors
 ########################################
