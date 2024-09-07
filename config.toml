@@ -217,6 +217,12 @@ weight = 2
         url = "/en/tietopankki/jasenhakemus"
         parent = "tietopankki"
         weight = 1
+    [[languages.en.menu.main]]
+        identifier = "tietosuojaselosteet"
+        name = "Privacy Notices"
+        url = "/en/tietopankki/tietosuojaselosteet"
+        parent = "tietopankki"
+        weight = 2
 
 ########################################
 ## End of menu [tietopankki][ENG]
