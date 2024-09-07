@@ -1,12 +1,12 @@
 ---
 title: Terminaali
-date: 2024-04-08
+date: 2024-06-09
 authorbox: false
 sidebar: true
 menu:
 ---
 
-#### [Online versions of Terminaali](./verkkoversiot/)
+#### [Online versions of Terminaali](/toiminta/terminaali/verkkoversiot/)
 
 Terminaali is the official guild magazine published by Oulun Tietoteekkarit ry and is the main mouthpiece of the guild. The guild aims to publish the magazine at least four times a year.
 

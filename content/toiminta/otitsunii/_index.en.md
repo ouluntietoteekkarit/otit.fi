@@ -6,7 +6,7 @@ sidebar: true
 menu:
 ---
 
-You can apply for an otitsunii account [here](https://www.otit.fi/tietopankki/otitsunii-tunnushakemus/).
+You can apply for an otitsunii account [here](https://www.otit.fi/tietopankki/otitsunii-tunnushakemus/otitsunii_user_id_application.pdf).
 
 Otitsunii is Oulun Tietoteekkarit ry's own Linux server. The server is part of the guild's cluster of servers. Users are eligible for an account to the server if they are members of Oulun Tietoteekkarit ry.
 
