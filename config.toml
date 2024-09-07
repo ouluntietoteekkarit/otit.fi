@@ -1,4 +1,4 @@
-baseURL = "https://otit.fi/"
+            baseURL = "https://otit.fi/"
 languageCode = "fi"
 title = "Oulun Tietoteekkarit ry"
 theme = ["mainroad", "hugo-shortcode-gallery"]
@@ -12,16 +12,27 @@ defaultContentLanguage = "fi"
 [languages.fi]
 weight = 1
 
-########################################
-####                ####################
-####    LANG EN     ####################
-####                ####################
-########################################
-
 [languages.en]
 weight = 2
 
+################################################################################
+##
+##   ██████████ ██████   █████   █████████  █████       █████  █████████  █████   █████
+##  ░░███░░░░░█░░██████ ░░███   ███░░░░░███░░███       ░░███  ███░░░░░███░░███   ░░███
+##   ░███  █ ░  ░███░███ ░███  ███     ░░░  ░███        ░███ ░███    ░░░  ░███    ░███
+##   ░██████    ░███░░███░███ ░███          ░███        ░███ ░░█████████  ░███████████
+##   ░███░░█    ░███ ░░██████ ░███    █████ ░███        ░███  ░░░░░░░░███ ░███░░░░░███
+##   ░███ ░   █ ░███  ░░█████ ░░███  ░░███  ░███      █ ░███  ███    ░███ ░███    ░███
+##   ██████████ █████  ░░█████ ░░█████████  ███████████ █████░░█████████  █████   █████
+##  ░░░░░░░░░░ ░░░░░    ░░░░░   ░░░░░░░░░  ░░░░░░░░░░░ ░░░░░  ░░░░░░░░░  ░░░░░   ░░░░░
+##
+################################################################################
+
 [languages.en.menu]
+
+########################################
+## Start of menu [etusivu][ENG]
+########################################
 
 [[languages.en.menu.main]]
     identifier = "etusivu"
@@ -29,199 +40,255 @@ weight = 2
     url = "/en/"
     weight = 1
 
-  [[languages.en.menu.main]]
+########################################
+## End of menu [etusivu][ENG]
+########################################
+
+########################################
+## Start of menu [kilta][ENG]
+########################################
+
+[[languages.en.menu.main]]
     identifier = "kilta"
     name = "Guild"
     url = "/en/kilta/"
     weight = 2
     [[languages.en.menu.main]]
-      identifier = "yhteystiedot"
-      name = "Contact"
-      url = "/en/kilta/yhteystiedot"
-      parent = "kilta"
-      weight = 1
+        identifier = "yhteystiedot"
+        name = "Contact"
+        url = "/en/kilta/yhteystiedot"
+        parent = "kilta"
+        weight = 1
     [[languages.en.menu.main]]
-      identifier = "hallitus"
-      name = "Board"
-      url = "/en/kilta/hallitus"
-      parent = "kilta"
-      weight = 2
+        identifier = "hallitus"
+        name = "Board"
+        url = "/en/kilta/hallitus"
+        parent = "kilta"
+        weight = 2
     [[languages.en.menu.main]]
-      identifier = "toimihenkilot"
-      name = "Officials"
-      url = "/en/kilta/toimihenkilot"
-      parent = "kilta"
-      weight = 3
+        identifier = "toimihenkilot"
+        name = "Officials"
+        url = "/en/kilta/toimihenkilot"
+        parent = "kilta"
+        weight = 3
     [[languages.en.menu.main]]
-      identifier = "historia"
-      name = "History"
-      url = "/en/kilta/historia"
-      parent = "kilta"
-      weight = 4
+        identifier = "historia"
+        name = "History"
+        url = "/en/kilta/historia"
+        parent = "kilta"
+        weight = 4
     [[languages.en.menu.main]]
-      identifier = "palaute"
-      name = "Feedback"
-      url = "/en/kilta/palaute"
-      parent = "kilta"
-      weight = 5
+        identifier = "palaute"
+        name = "Feedback"
+        url = "/en/kilta/palaute"
+        parent = "kilta"
+        weight = 5
 
-  [[languages.en.menu.main]]
+########################################
+## End of menu [kilta][ENG]
+########################################
+
+########################################
+## Start of menu [saannot][ENG]
+########################################
+
+[[languages.en.menu.main]]
     identifier = "saannot"
     name = "Rules"
     url = "/en/saannot/killansaannot"
     weight = 3
-    [[menu.main]]
-      identifier = "killansaannot"
-      name = "Rules of the Guild"
-      url = "/en/saannot/killansaannot"
-      parent = "saannot"
-      weight = 1
+    [[languages.en.menu.main]]
+        identifier = "killansaannot"
+        name = "Rules of the Guild"
+        url = "/en/saannot/killansaannot"
+        parent = "saannot"
+        weight = 1
 
-  [[languages.en.menu.main]]
+########################################
+## End of menu [saannot][ENG]
+########################################
+
+########################################
+## Start of menu [toiminta][ENG]
+########################################
+
+[[languages.en.menu.main]]
     identifier = "toiminta"
     name = "Activity"
     url = "/en/toiminta/"
     weight = 4
     [[languages.en.menu.main]]
-      identifier = "kiltahuone"
-      name = "Guild room"
-      url = "/en/toiminta/kiltahuone"
-      parent = "toiminta"
-      weight = 1
+        identifier = "kiltahuone"
+        name = "Guild room"
+        url = "/en/toiminta/kiltahuone"
+        parent = "toiminta"
+        weight = 1
     [[languages.en.menu.main]]
-      identifier = "otitsunii"
-      name = "otitsunii"
-      url = "/en/toiminta/otitsunii"
-      parent = "toiminta"
-      weight = 2
+        identifier = "otitsunii"
+        name = "otitsunii"
+        url = "/en/toiminta/otitsunii"
+        parent = "toiminta"
+        weight = 2
     [[languages.en.menu.main]]
-      identifier = "terminaali"
-      name = "Terminaali"
-      url = "/en/toiminta/terminaali"
-      parent = "toiminta"
-      weight = 3
+        identifier = "terminaali"
+        name = "Terminaali"
+        url = "/en/toiminta/terminaali"
+        parent = "toiminta"
+        weight = 3
     [[languages.en.menu.main]]
-      identifier = "laulut"
-      name = "Songs"
-      url = "/en/toiminta/laulut"
-      parent = "toiminta"
-      weight = 4
+        identifier = "laulut"
+        name = "Songs"
+        url = "/en/toiminta/laulut"
+        parent = "toiminta"
+        weight = 4
     [[languages.en.menu.main]]
-      identifier = "haalarimerkit"
-      name = "Overall patches"
-      url = "/en/toiminta/haalarimerkit"
-      parent = "toiminta"
-      weight = 5
+        identifier = "haalarimerkit"
+        name = "Overall patches"
+        url = "/en/toiminta/haalarimerkit"
+        parent = "toiminta"
+        weight = 5
 
-  [[languages.en.menu.main]]
+########################################
+## End of menu [toiminta][ENG]
+########################################
+
+########################################
+## Start of menu [toiminta][ENG]
+########################################
+
+[[languages.en.menu.main]]
     identifier = "fuksit"
     name = "Fuksis"
     url = "/en/fuksit/"
     weight = 5
     [[languages.en.menu.main]]
-      identifier = "fuksit_yleista"
-      name = "Common"
-      url = "/en/fuksit/"
-      parent = "fuksit"
-      weight = 1
+        identifier = "fuksit_yleista"
+        name = "Common"
+        url = "/en/fuksit/"
+        parent = "fuksit"
+        weight = 1
     [[languages.en.menu.main]]
-      identifier = "tuutorit"
-      name = "Tutors"
-      url = "/en/fuksit/tuutorit"
-      parent = "fuksit"
-      weight = 2
+        identifier = "tuutorit"
+        name = "Tutors"
+        url = "/en/fuksit/tuutorit"
+        parent = "fuksit"
+        weight = 2
     [[languages.en.menu.main]]
-      identifier = "tietopaketti"
-      name = "Info Package"
-      url = "/en/fuksit/tietopaketti"
-      parent = "fuksit"
-      weight = 3
+        identifier = "tietopaketti"
+        name = "Info Package"
+        url = "/en/fuksit/tietopaketti"
+        parent = "fuksit"
+        weight = 3
     [[languages.en.menu.main]]
-      identifier = "linkit"
-      name = "Useful Links"
-      url = "/en/fuksit/linkit"
-      parent = "fuksit"
-      weight = 5
+        identifier = "linkit"
+        name = "Useful Links"
+        url = "/en/fuksit/linkit"
+        parent = "fuksit"
+        weight = 5
     [[languages.en.menu.main]]
-      identifier = "ukk"
-      name = "FAQ"
-      url = "/en/fuksit/ukk"
-      parent = "fuksit"
-      weight = 6
+        identifier = "ukk"
+        name = "FAQ"
+        url = "/en/fuksit/ukk"
+        parent = "fuksit"
+        weight = 6
     [[languages.en.menu.main]]
-      identifier = "fuksitapahtuma"
-      name = "Most Important Fuksi Events"
-      url = "/en/fuksit/tapahtumat"
-      parent = "fuksit"
-      weight = 7
+        identifier = "fuksitapahtuma"
+        name = "Most Important Fuksi Events"
+        url = "/en/fuksit/tapahtumat"
+        parent = "fuksit"
+        weight = 7
 
-    [[languages.en.menu.main]]
+########################################
+## End of menu [toiminta][ENG]
+########################################
+
+########################################
+## Start of menu [tietopankki][ENG]
+########################################
+
+[[languages.en.menu.main]]
     identifier = "tietopankki"
     name = "Info Package"
     url = "/en/tietopankki/"
     weight = 4
     [[languages.en.menu.main]]
-      identifier = "jasenhakemus"
-      name = "Membership application"
-      url = "/en/tietopankki/jasenhakemus"
-      parent = "tietopankki"
-      weight = 1
+        identifier = "jasenhakemus"
+        name = "Membership application"
+        url = "/en/tietopankki/jasenhakemus"
+        parent = "tietopankki"
+        weight = 1
 
-  [[languages.en.menu.main]]
+########################################
+## End of menu [tietopankki][ENG]
+########################################
+
+########################################
+## Start of menu [galleria][ENG]
+########################################
+
+[[languages.en.menu.main]]
     identifier = "galleria"
     name = "Gallery"
     url = "https://galleria.otit.fi"
     weight = 5
 
-  [[languages.en.menu.footer]]
+########################################
+## End of menu [galleria][ENG]
+########################################
+
+########################################
+## Start of footer [ENG]
+########################################
+
+[[languages.en.menu.footer]]
     identifier = "codemate-logo"
     name = ""
     url = "https://www.codemate.com/"
     pre = "<a href='https://www.codemate.com/'><img src='/img/codemate-Logo-tagline-white-nobg.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "mediatek-logo"
     name = ""
     url = "https://www.mediatek.com/"
     pre = "<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "siili-logo"
     name = ""
     url = "https://www.siili.com/"
     pre = "<a href='https://www.siili.com/'><img src='/img/Siili_logo_text_8_spikes_Black_RGB_28042020.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "synopsys-logo"
     name = ""
     url = "https://www.synopsys.com/"
     pre = "<a href='https://www.synopsys.com/'><img src='/img/snps-logo-sts-purple-grey-e1581696903879.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "verkotan-logo"
     name = ""
     url = "https://verkotan.com/"
     pre = "<a href='https://verkotan.com/'><img src='/img/verkotan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "visidon-logo"
     name = ""
     url = "https://www.visidon.fi/"
     pre = "<a href='https://www.visidon.fi/'><img src='/img/Visidon_logo_RGB_1200dpi_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "qt-logo"
     name = ""
     url = "http://www.qt.io"
     pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
     identifier = "wapice-logo"
     name = ""
     url = "https://www.wapice.com/"
     pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[languages.en.menu.footer]]
+[[languages.en.menu.footer]]
       identifier = "op-logo"
       name = ""
       url = "https://www.op.fi/op-ryhma"
@@ -229,13 +296,21 @@ weight = 2
       weight = 1
 
 ########################################
-####                    ################
-####    END LANG EN     ################
-####                    ################
+## End of footer [ENG]
 ########################################
 
-
-
+################################################################################
+##
+##  ███████████ █████ ██████   █████ ██████   █████ █████  █████████  █████   █████
+## ░░███░░░░░░█░░███ ░░██████ ░░███ ░░██████ ░░███ ░░███  ███░░░░░███░░███   ░░███
+##  ░███   █ ░  ░███  ░███░███ ░███  ░███░███ ░███  ░███ ░███    ░░░  ░███    ░███
+##  ░███████    ░███  ░███░░███░███  ░███░░███░███  ░███ ░░█████████  ░███████████
+##  ░███░░░█    ░███  ░███ ░░██████  ░███ ░░██████  ░███  ░░░░░░░░███ ░███░░░░░███
+##  ░███  ░     ░███  ░███  ░░█████  ░███  ░░█████  ░███  ███    ░███ ░███    ░███
+##  █████       █████ █████  ░░█████ █████  ░░█████ █████░░█████████  █████   █████
+## ░░░░░       ░░░░░ ░░░░░    ░░░░░ ░░░░░    ░░░░░ ░░░░░  ░░░░░░░░░  ░░░░░   ░░░░░
+##
+################################################################################
 
 [Author] # Used in authorbox
     name = "Oulun Tietoteekkarit ry"
@@ -279,313 +354,341 @@ weight = 2
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
-
-
-
-
-
-########################################
-####                ####################
-####    MENU        ####################
-####                ####################
-########################################
-
 [menu]
 
 ########################################
-####                ####################
-####    MAIN MENU   ####################
-####                ####################
+## Start of menu [etusivu][FIN]
 ########################################
 
-  [[menu.main]]
+[[menu.main]]
     identifier = "etusivu"
     name = "Etusivu"
     url = "/"
     weight = 1
 
+########################################
+## End of menu [etusivu][FIN]
+########################################
 
-  [[menu.main]]
+########################################
+## Start of menu [kilta][FIN]
+########################################
+
+[[menu.main]]
     identifier = "kilta"
     name = "Kilta"
     url = "/kilta/"
     weight = 2
     [[menu.main]]
-      identifier = "yhteystiedot"
-      name = "Yhteystiedot"
-      url = "/kilta/yhteystiedot"
-      parent = "kilta"
-      weight = 1
+        identifier = "yhteystiedot"
+        name = "Yhteystiedot"
+        url = "/kilta/yhteystiedot"
+        parent = "kilta"
+        weight = 1
     [[menu.main]]
-      identifier = "hallitus"
-      name = "Hallitus"
-      url = "/kilta/hallitus"
-      parent = "kilta"
-      weight = 2
+        identifier = "hallitus"
+        name = "Hallitus"
+        url = "/kilta/hallitus"
+        parent = "kilta"
+        weight = 2
     [[menu.main]]
-      identifier = "toimihenkilot"
-      name = "Toimihenkilöt"
-      url = "/kilta/toimihenkilot"
-      parent = "kilta"
-      weight = 3
+        identifier = "toimihenkilot"
+        name = "Toimihenkilöt"
+        url = "/kilta/toimihenkilot"
+        parent = "kilta"
+        weight = 3
     [[menu.main]]
-      identifier = "historia"
-      name = "Historia"
-      url = "/kilta/historia"
-      parent = "kilta"
-      weight = 4
+        identifier = "historia"
+        name = "Historia"
+        url = "/kilta/historia"
+        parent = "kilta"
+        weight = 4
     [[menu.main]]
-      identifier = "palaute"
-      name = "Palaute"
-      url = "/kilta/palaute"
-      parent = "kilta"
-      weight = 5
+        identifier = "palaute"
+        name = "Palaute"
+        url = "/kilta/palaute"
+        parent = "kilta"
+        weight = 5
 
-  [[menu.main]]
+########################################
+## End of menu [kilta][FIN]
+########################################
+
+########################################
+## Start of menu [saannot][FIN]
+########################################
+
+[[menu.main]]
     identifier = "saannot"
     name = "Säännöt"
     url = "/saannot/killansaannot"
     weight = 3
     [[menu.main]]
-      identifier = "killansaannot"
-      name = "Killan säännöt"
-      url = "/saannot/killansaannot"
-      parent = "saannot"
-      weight = 1
+        identifier = "killansaannot"
+        name = "Killan säännöt"
+        url = "/saannot/killansaannot"
+        parent = "saannot"
+        weight = 1
     [[menu.main]]
-      identifier = "tunnusohjesaanto"
-      name = "Tunnusohjesääntö"
-      url = "/saannot/tunnusohjesaanto"
-      parent = "saannot"
-      weight = 2
+        identifier = "tunnusohjesaanto"
+        name = "Tunnusohjesääntö"
+        url = "/saannot/tunnusohjesaanto"
+        parent = "saannot"
+        weight = 2
     [[menu.main]]
-      identifier = "jarjestyssaannot"
-      name = "Järjestyssäännöt"
-      url = "/saannot/jarjestyssaannot"
-      parent = "saannot"
-      weight = 3
+        identifier = "jarjestyssaannot"
+        name = "Järjestyssäännöt"
+        url = "/saannot/jarjestyssaannot"
+        parent = "saannot"
+        weight = 3
 
-  [[menu.main]]
+########################################
+## End of menu [saannot][FIN]
+########################################
+
+########################################
+## Start of menu [toiminta][FIN]
+########################################
+
+[[menu.main]]
     identifier = "toiminta"
     name = "Toiminta"
     url = "/toiminta/"
     weight = 4
     [[menu.main]]
-      identifier = "kiltahuone"
-      name = "Kiltahuone"
-      url = "/toiminta/kiltahuone"
-      parent = "toiminta"
-      weight = 1
+        identifier = "kiltahuone"
+        name = "Kiltahuone"
+        url = "/toiminta/kiltahuone"
+        parent = "toiminta"
+        weight = 1
     [[menu.main]]
-      identifier = "otitsunii"
-      name = "otitsunii"
-      url = "/toiminta/otitsunii"
-      parent = "toiminta"
-      weight = 2
+        identifier = "otitsunii"
+        name = "otitsunii"
+        url = "/toiminta/otitsunii"
+        parent = "toiminta"
+        weight = 2
     [[menu.main]]
-      identifier = "terminaali"
-      name = "Terminaali"
-      url = "/toiminta/terminaali"
-      parent = "toiminta"
-      weight = 3
+        identifier = "terminaali"
+        name = "Terminaali"
+        url = "/toiminta/terminaali"
+        parent = "toiminta"
+        weight = 3
     [[menu.main]]
-      identifier = "laulut"
-      name = "Laulut"
-      url = "/toiminta/laulut"
-      parent = "toiminta"
-      weight = 4
+        identifier = "laulut"
+        name = "Laulut"
+        url = "/toiminta/laulut"
+        parent = "toiminta"
+        weight = 4
     [[menu.main]]
-      identifier = "haalarimerkit"
-      name = "Haalarimerkit"
-      url = "/toiminta/haalarimerkit"
-      parent = "toiminta"
-      weight = 5
+        identifier = "haalarimerkit"
+        name = "Haalarimerkit"
+        url = "/toiminta/haalarimerkit"
+        parent = "toiminta"
+        weight = 5
 
+########################################
+## End of menu [toiminta][FIN]
+########################################
 
-  [[menu.main]]
+########################################
+## Start of menu [fuksit][FIN]
+########################################
+
+[[menu.main]]
     identifier = "fuksit"
     name = "Fuksit"
     url = "/fuksit/"
     weight = 5
     [[menu.main]]
-      identifier = "fuksit_yleista"
-      name = "Yleistä"
-      url = "/fuksit/"
-      parent = "fuksit"
-      weight = 1
+        identifier = "fuksit_yleista"
+        name = "Yleistä"
+        url = "/fuksit/"
+        parent = "fuksit"
+        weight = 1
     [[menu.main]]
-      identifier = "tuutorit"
-      name = "Tuutorit"
-      url = "/fuksit/tuutorit"
-      parent = "fuksit"
-      weight = 2
+        identifier = "tuutorit"
+        name = "Tuutorit"
+        url = "/fuksit/tuutorit"
+        parent = "fuksit"
+        weight = 2
     [[menu.main]]
-      identifier = "tietopaketti"
-      name = "Tietopaketti"
-      url = "/fuksit/tietopaketti"
-      parent = "fuksit"
-      weight = 3
+        identifier = "tietopaketti"
+        name = "Tietopaketti"
+        url = "/fuksit/tietopaketti"
+        parent = "fuksit"
+        weight = 3
     [[menu.main]]
-      identifier = "sanasto"
-      name = "Sanasto"
-      url = "/fuksit/sanasto"
-      parent = "fuksit"
-      weight = 4
+        identifier = "sanasto"
+        name = "Sanasto"
+        url = "/fuksit/sanasto"
+        parent = "fuksit"
+        weight = 4
     [[menu.main]]
-      identifier = "linkit"
-      name = "Hyödyllisiä linkkejä"
-      url = "/fuksit/linkit"
-      parent = "fuksit"
-      weight = 5
+        identifier = "linkit"
+        name = "Hyödyllisiä linkkejä"
+        url = "/fuksit/linkit"
+        parent = "fuksit"
+        weight = 5
     [[menu.main]]
-      identifier = "ukk"
-      name = "UKK"
-      url = "/fuksit/ukk"
-      parent = "fuksit"
-      weight = 6
+        identifier = "ukk"
+        name = "UKK"
+        url = "/fuksit/ukk"
+        parent = "fuksit"
+        weight = 6
     [[menu.main]]
-      identifier = "fuksitapahtuma"
-      name = "Tärkeimmät Fuksitapahtumat"
-      url = "/fuksit/tapahtumat"
-      parent = "fuksit"
-      weight = 7
+        identifier = "fuksitapahtuma"
+        name = "Tärkeimmät Fuksitapahtumat"
+        url = "/fuksit/tapahtumat"
+        parent = "fuksit"
+        weight = 7
 
+########################################
+## End of menu [fuksit][FIN]
+########################################
 
-  [[menu.main]]
+########################################
+## Start of menu [yritykset][FIN]
+########################################
+
+[[menu.main]]
     identifier = "yritykset"
     name = "Yritykset"
     url = "/yritykset/"
     weight = 6
 
+########################################
+## End of menu [yritykset][FIN]
+########################################
 
-  [[menu.main]]
+########################################
+## Start of menu [tietopankki][FIN]
+########################################
+
+[[menu.main]]
     identifier = "tietopankki"
     name = "Tietopankki"
     url = "/tietopankki/"
     weight = 7
     [[menu.main]]
-      identifier = "irc-opas"
-      name = "IRC-opas"
-      url = "/tietopankki/irc-opas"
-      parent = "tietopankki"
-      weight = 1
+        identifier = "irc-opas"
+        name = "IRC-opas"
+        url = "/tietopankki/irc-opas"
+        parent = "tietopankki"
+        weight = 1
     [[menu.main]]
-      identifier = "astiasto"
-      name = "Astiasto"
-      url = "/tietopankki/astiasto"
-      parent = "tietopankki"
-      weight = 2
+        identifier = "astiasto"
+        name = "Astiasto"
+        url = "/tietopankki/astiasto"
+        parent = "tietopankki"
+        weight = 2
     [[menu.main]]
-      identifier = "laskutuspohja"
-      name = "Laskutuspohja"
-      url = "/tietopankki/laskutuspohja"
-      parent = "tietopankki"
-      weight = 3
+        identifier = "laskutuspohja"
+        name = "Laskutuspohja"
+        url = "/tietopankki/laskutuspohja"
+        parent = "tietopankki"
+        weight = 3
     [[menu.main]]
-      identifier = "jasenhakemus"
-      name = "Jäsenhakemus"
-      url = "/tietopankki/jasenhakemus"
-      parent = "tietopankki"
-      weight = 4
+        identifier = "jasenhakemus"
+        name = "Jäsenhakemus"
+        url = "/tietopankki/jasenhakemus"
+        parent = "tietopankki"
+        weight = 4
     [[menu.main]]
-      identifier = "hyodyllisia-ohjelmia-opiskelijoille"
-      name = "Hyödyllisiä ohjelmia opiskelijoille"
-      url = "/tietopankki/hyodyllisia-ohjelmia-opiskelijoille"
-      parent = "tietopankki"
-      weight = 5
+        identifier = "hyodyllisia-ohjelmia-opiskelijoille"
+        name = "Hyödyllisiä ohjelmia opiskelijoille"
+        url = "/tietopankki/hyodyllisia-ohjelmia-opiskelijoille"
+        parent = "tietopankki"
+        weight = 5
     [[menu.main]]
-      identifier = "tietosuojaselosteet"
-      name = "Tietosuojaselosteet"
-      url = "/tietopankki/tietosuojaselosteet"
-      parent = "tietopankki"
-      weight = 6
+        identifier = "tietosuojaselosteet"
+        name = "Tietosuojaselosteet"
+        url = "/tietopankki/tietosuojaselosteet"
+        parent = "tietopankki"
+        weight = 6
     [[menu.main]]
-      identifier = "otitsunii-tunnushakemus"
-      name = "otitsunii-tunnushakemus"
-      url = "/tietopankki/otitsunii-tunnushakemus"
-      parent = "tietopankki"
-      weight = 7
+        identifier = "otitsunii-tunnushakemus"
+        name = "otitsunii-tunnushakemus"
+        url = "/tietopankki/otitsunii-tunnushakemus"
+        parent = "tietopankki"
+        weight = 7
     [[menu.main]]
-      identifier = "irc-weechat"
-      name = "Vaihtoehtoinen IRC-OPAS"
-      url = "/tietopankki/irc-weechat"
-      parent = "tietopankki"
-      weight = 8
+        identifier = "irc-weechat"
+        name = "Vaihtoehtoinen IRC-OPAS"
+        url = "/tietopankki/irc-weechat"
+        parent = "tietopankki"
+        weight = 8
 
-  [[menu.main]]
+########################################
+## End of menu [tietopankki][FIN]
+########################################
+
+########################################
+## Start of menu [galleria][FIN]
+########################################
+
+[[menu.main]]
     identifier = "galleria"
     name = "Galleria"
     url = "https://galleria.otit.fi"
     weight = 8
 
-#  [[menu.main]]
-#    identifier = "palaute"
-#    name = "Palaute"
-#    url = "/palaute/"
-#    weight = 9
-
 ########################################
-####                    ################
-####    END MAIN MENU   ################
-####                    ################
+## End of menu [galleria][FIN]
 ########################################
 
-
 ########################################
-####                   #################
-####    LOGOS          #################
-#### @REMEMBER TO UPDATE THE ENGLISH PAGE ALSO #################
+## Start of footer [FIN]
 ########################################
 
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "codemate-logo"
     name = ""
     url = "https://www.codemate.com/"
     pre = "<a href='https://www.codemate.com/'><img src='/img/codemate-Logo-tagline-white-nobg.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "mediatek-logo"
     name = ""
     url = "https://www.mediatek.com/"
     pre = "<a href='https://www.mediatek.com/'><img src='/img/MTK-logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "siili-logo"
     name = ""
     url = "https://www.siili.com/"
     pre = "<a href='https://www.siili.com/'><img src='/img/Siili_logo_text_8_spikes_Black_RGB_28042020.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "synopsys-logo"
     name = ""
     url = "https://www.synopsys.com/"
     pre = "<a href='https://www.synopsys.com/'><img src='/img/snps-logo-sts-purple-grey-e1581696903879.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "verkotan-logo"
     name = ""
     url = "https://verkotan.com/"
     pre = "<a href='https://verkotan.com/'><img src='/img/verkotan.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "visidon-logo"
     name = ""
     url = "https://www.visidon.fi/"
     pre = "<a href='https://www.visidon.fi/'><img src='/img/Visidon_logo_RGB_1200dpi_white.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "qt-logo"
     name = ""
     url = "http://www.qt.io"
     pre = "<a href='http://www.qt.io'><img src='/img/qt_group_logo.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
     identifier = "wapice-logo"
     name = ""
     url = "https://www.wapice.com/"
     pre = "<a href='https://www.wapice.com/'><img src='/img/Wapice_Logo_(No_Slogan).png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
     weight = 1
-  [[menu.footer]]
+[[menu.footer]]
       identifier = "op-logo"
       name = ""
       url = "https://www.op.fi/op-ryhma"
@@ -593,13 +696,5 @@ weight = 2
       weight = 1
 
 ########################################
-####                   #################
-####    ENDLOGOS       #################
-####                   #################
-########################################
-
-########################################
-####                   #################
-####    ENDMENU        #################
-####                   #################
+## END of footer [FIN]
 ########################################
