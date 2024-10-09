@@ -425,6 +425,12 @@ defaultContentLanguage = "fi"
 ########################################
 
 [[menu.footer]]
+    identifier = "cloudamite-logo"
+    name = ""
+    url = "https://cloudamite.com/"
+    pre = "<a href='https://cloudamite.com/'><img src='/img/CD_Logo_Vaaka.png' style='padding: 20px; max-height: 160px; max-width: 280px;'></a>"
+    weight = 1
+[[menu.footer]]
     identifier = "codemate-logo"
     name = ""
     url = "https://www.codemate.com/"
