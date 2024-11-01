@@ -39,7 +39,7 @@
 
 # Search widget
 - id: search_placeholder
-  translation: "SEARCH…"
+  translation: "Search…"
 
 # Languages widget
 - id: languages_title
@@ -52,11 +52,6 @@
 # Recent Posts widget
 - id: recent_title
   translation: "Recent Posts"
-#  translation: "Uutiset"
-
-# Calendar widget
-- id: calendar_title
-  translation: "Calendar"
 
 # Social widget
 - id: social_title

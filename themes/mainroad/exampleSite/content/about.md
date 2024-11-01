@@ -1,32 +1,41 @@
 ---
-title: About Hugo
-date: 2014-04-09
+title: About
+date: 2022-01-25T14:00:00.000Z
 authorbox: false
 sidebar: false
 menu: main
 ---
 
-Hugo is a static site engine written in Go.
+Our website builds with [Hugo](https://gohugo.io/) static site generator and
+[Mainroad](https://github.com/vimux/mainroad) theme. This demo allows you to see what Mainroad based website looks like
+before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the
+combination of Hugo and Mainroad can do.
 
+## About Mainroad
 
-It makes use of a variety of open source projects including:
+Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Main features:
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+* Responsive design
+* Main & secondary menus
+* Widgetized sidebar
+* Translations. Over 15 languages and counting
+* Configurable theme settings (sidebar position, author box, post navigation, highlight color) via config.toml
+* Hugo internal templates (Open Graph, Schema, Twitter Cards, Disqus, Google Analytics)
+* Wide cross-browser compatibility
+  * Desktop: IE11+, Chrome, Firefox, Safari
+  * Mobile: Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini
+* Custom Google Fonts support, MathJax, Table of Contents, SVG icons and much more…
 
-## Setup
+Learn more on [GitHub](https://github.com/vimux/mainroad). Mainroad theme is released under the
+[GPLv2 license](https://github.com/vimux/mainroad/blob/master/LICENSE.md).
 
-Some fun facts about [Hugo](http://gohugo.io/):
+## About Hugo
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and
+configurability. Hugo takes a directory with content and templates and renders them into a full HTML website. With its
+amazing speed and flexibility, Hugo makes building websites fun again.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+Learn more on [GitHub](https://github.com/gohugoio/hugo). Complete documentation is available at
+[Hugo Documentation](https://gohugo.io/getting-started/).

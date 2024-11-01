@@ -1,12 +1,10 @@
 {{ define "main" }}
 <main class="main list" role="main">
 	{{- with .Content }}
-
 	<div class="content main__content clearfix">
 		{{ . }}
 	</div>
 	{{- end }}
-	<h1 class="widget__title">{{ T "recent_title" }}</h1>
 	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 	{{- range $paginator.Pages }}
 		{{- .Render "summary" }}
@@ -23,7 +21,4 @@
 	{{ end }}
 </main>
 {{ partial "pagination.html" . }}
-{{ partial "authorbox.html" . }}
-{{ partial "pager.html" . }}
-{{ partial "comments.html" . }}
 {{ end }}
