@@ -1,12 +1,13 @@
 {{- $logoTitle := .Site.Params.logo.title | default .Site.Title -}}
 {{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}
+{{- $logoBackgroundImage := .Site.Params.logo.backgroundimage -}}
 {{- $logoImage := .Site.Params.logo.image -}}
 
 {{- if or $logoTitle $logoImage }}
 	{{/* Defined when logo is mixed (image + text) */}}
 	{{- $logoMix := and $logoImage $logoTitle -}}
 
-	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
+	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}" style="background-image: url('{{ $logoBackgroundImage }}'); background-position: 30% 50%">
 		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
 			{{ with $logoImage -}}
 				<div class="logo__item logo__imagebox">

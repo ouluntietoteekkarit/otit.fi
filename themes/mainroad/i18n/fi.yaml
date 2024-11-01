@@ -53,6 +53,10 @@
 - id: recent_title
   translation: "Viimeisimmät kirjoitukset"
 
+# Calendar widget
+- id: calendar_title
+  translation: "Kalenteri"
+
 # Social widget
 - id: social_title
   translation: "Sosiaalinen media"

@@ -28,7 +28,7 @@
 		{{- end }}
 		{{- with .Site.Params.widgets.social.linkedin }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="LinkedIn" rel="noopener noreferrer" href="https://linkedin.com/in/{{ . }}" target="_blank">
+			<a class="widget-social__link widget__link btn" title="LinkedIn" rel="noopener noreferrer" href="https://linkedin.com/{{ . }}" target="_blank">
 				{{ partial "svg/linkedin.svg" (dict "class" "widget-social__link-icon") }}
 				<span>LinkedIn</span>
 			</a>

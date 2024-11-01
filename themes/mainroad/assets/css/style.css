@@ -55,7 +55,8 @@ body {
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
-	background: #f7f7f7;
+	/*background: #f7f7f7;*/
+	background-color: #e2e2e2;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -427,7 +428,12 @@ select {
 	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #000;
+	/*color: #000;*/
+	color: white;
+	text-shadow: -2px 2px 0 #000,
+				  2px 2px 0 #000,
+				 2px -2px 0 #000,
+				-2px -2px 0 #000;
 }
 
 .logo__tagline {
@@ -1165,6 +1171,13 @@ textarea {
 	padding: 10px 25px;
 	font-size: 12px;
 	font-size: .75rem;
+	color: #999;
+	background: #2a2a2a;
+	border-top: 3px solid #999;
+}
+
+.footer-heading {
+	padding: 10px 25px;
 	color: #999;
 	background: #2a2a2a;
 	border-top: 3px solid #999;
