@@ -149,14 +149,14 @@ Killan taloudenhoitoa valvovat toiminnantarkastajat. Tilinpäätös tarvittavine
 24 § Killan tunnukset
 
 Killan virallisia tunnuksia ovat:  
-killan kokardi
-ansiomerkki
-kunniamerkki
-virkamerkki
-hallituskokardi
-killan nauha
-alumnipinssi
-killan lippu
+killan kokardi  
+ansiomerkki  
+kunniamerkki  
+virkamerkki  
+hallituskokardi  
+killan nauha  
+alumnipinssi  
+killan lippu  
 Yhdistyksen tunnukset, tunnusten käyttö ja tunnusten myöntämisen kriteerit määritellään tarkemmin killan tunnusohjesäännössä.
 
 25 § Ohjesäännöt
