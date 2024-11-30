@@ -44,10 +44,58 @@ Killan 25.11.2024 järjestetyssä vaalikokouksessa valittiin vuodelle 2025 seura
 - **Vuosijuhlavastaava:**  Antti Koponen 
 
 Seuraaviin pesteihin haetaan vielä toimihenkilöitä:
-- **Kulttuurisihteeri:**  
-- **Ulkosihteeri:** 
-- **Kansainvälisyys vastaava:**
-- **Alumnivastaava:** 
-- **Tiskijukka:**
+- **Kulttuurisihteeri**  
+- **Ulkosihteeri** 
+- **Kansainvälisyysvastaava**
+- **Alumnivastaava** 
+- **Tiskijukka**
 
-#### Toimikuntien toimihenkilöt
+
+
+#### Toimikunnat
+- **Tapahtumaministeriö:**
+    - Jimi Gustafsson
+    - Petra Heikkinen
+    - Justus Kuukasjärvi
+    - Jalmari Kalttonen
+    - Aapo Koivumäki
+    - Kalle Alasaarela
+    - Tuomas Pelkonen
+
+- **Tietoliikenneministeriö:**
+    - Sini Enqvist
+    - Tommi Jokinen
+    - Henrik Peteri
+    - Lauri Horsma
+    - Ville Kujala
+    - Ari-Pekka Ronkainen
+    - Joonas Patana
+
+- **Brändi-imagon ja Identiteetin Taktisen Charmin Hienostamisen, Wiestintätyylin Hyvän Ylläpidon ja Markkinointiyhteistyön Erityisministeriö(BITCHWHYME):**
+    - Petra Heikkinen
+    - Rosa-Maria Myllymäki
+    - Akseli Östberg
+    - Tuomas Jokinen
+
+- **Kansainvälisyysministeriö:**
+    - Aleksanteri Seppä
+    - Salla Rissanen
+
+- **Propagandaministeriö:**
+    - Jimi Gustafsson
+    - Tommi Jokinen
+    - Verneri Pudas
+    - Leevi Astikainen
+    - Jukka Memonen
+    - Joonas Patana
+    - Ville Kujala
+    - Aleksanteri Seppä
+    - Juho Bruun
+
+- **Kulttuuriministeriö:**
+    - Aapo Koivumäki
+
+- **Alumniministeriö:**
+    - Aleksanteri Seppä
+
+- **Ulkoministeriö:**
