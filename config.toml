@@ -56,6 +56,7 @@ paginate = "8" # Number of posts per page
 ignoreFiles = []
 
 defaultContentLanguage = "fi"
+enableRobotsTXT = true
 
 ################################################################################
 ##
