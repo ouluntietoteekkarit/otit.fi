@@ -6,10 +6,10 @@ sidebar: true
 menu:
 ---
 
-Jäsenrekisterin tietosuojaseloste: [PDF](Jasenrekisteri_tietosuojaseloste.pdf)
+Jäsenrekisterin tietosuojaseloste: [PDF](Jasenrekisteri_tietosuojaseloste_2025.pdf)
 
-Ulkojäsenrekisterin tietosuojaseloste: [PDF](ulkojasenrekisteri_tietosuojaseloste.pdf)
+Ulkojäsenrekisterin tietosuojaseloste: [PDF](Ulkojasenrekisteri_tietosuojaseloste_2025.pdf)
 
-Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistat_tietosuojaseloste.pdf)
+Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistat_tietosuojaseloste_2025.pdf)
 
-Kulkuoikeusrekisterin tietosuojaseloste: [PDF](Kulkuoikeusrekisteri_tietosuojaseloste.pdf)
+Kulkuoikeusrekisterin tietosuojaseloste: [PDF](Kulkuoikeusrekisteri_tietosuojaseloste_2025.pdf)
