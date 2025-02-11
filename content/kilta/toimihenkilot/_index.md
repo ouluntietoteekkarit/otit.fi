@@ -1,6 +1,6 @@
 ---
-title: Toimihenkilöt 2024
-date: 2024-02-13
+title: Toimihenkilöt 2025
+date: 2025-02-11
 authorbox: false
 sidebar: true
 menu:
@@ -8,9 +8,9 @@ menu:
 
 #### Matriisi- ja viinivastaava
 
-Tommi Jokinen
-- IRCnet: ringo
-- Telegram: tomjoki
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 
 Johan Porkholm
 - IRCnet: kanapita
@@ -22,73 +22,20 @@ Antti Koponen
 - Telegram: AKoponen
 - adm(at)otit.fi
 
-#### Operaattori
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
-- adm(at)otit.fi
-
+#### Sopivan kokoinen siskopuoli
 Kalle Asmundi
 - IRCnet: huntilla
 - Telegram: huntilla
-- adm(at)otit.fi
-
-Joonas Patana
-- IRCnet: sosig
-- Telegram: jatana
-- adm(at)otit.fi
-
-Ville Kujala
-- IRCnet: laiton
-- Telegram: laiton_irc
-- adm(at)otit.fi
-
-Niko Mätäsaho
-- IRCnet: esari
-- Telegram: esari2
-- adm(at)otit.fi
-
-Ari-Pekka Ronkainen
-- IRCnet: poramasa
-- Telegram: Poramasa
-- adm(at)otit.fi
 
 #### Pelivastaava
-Aleksi Tuovinen
-- IRCnet: pintti
-- Telegram: pintti
-
-#### Isoveli
-Kalle Asmundi
-- IRCnet: huntilla
-- Telegram: huntilla
-
-#### Graafikko
-Petra Heikkinen
-- IRCnet: liianiso
-- Telegram: liianiso
-
-Aati Strömmer
-- IRCnet: antamasa
-- Telegram: antamasa
-
-Toivo Xiong
-- IRCnet: rausku
-- Telegram: rausku666
-
-#### WWW-vastaava
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
-
-Joonas Patana
-- IRCnet: sosig
-- Telegram: jatana
+Saku Salo
+- IRCnet: sandalf
+- Telegram: xsandalf
 
 ### Urheiluvastaava
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
+Elias Niva
+- IRCnet: skumpet
+- Telegram: S3inae
 - urheiluvastaava(at)otit.fi
 
 #### Pelimanni
@@ -96,150 +43,102 @@ Verneri Pudas
 - IRCnet: napalmi
 - Telegram: napa1mi
 
-#### Kulttuurisihteeri
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-
-#### Sote- ja pepeministereiden yleisessä käytössä oleva rahvas rupisammakko
-Amanda Korhonen
-- IRCnet: teerex
-- Telegram: Dinonainen
-
-Santeri Hyvärinen
-- IRCnet: syomasa
-- Telegram: syomasa
-
-Justus Kuukasjärvi
-- IRCnet: joeoeti
-- Telegram: joeoeti
-
-Sini Enqvist
-- IRCnet: kuopattu
-- Telegram: kuopattu
-
-Markus Salo
-- IRCnet: saku_
-- Telegram: JackMoonShine
-
-Tuomas Pelkonen
-- IRCnet: kuolijo
-- Telegram: kuolijo
-
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-
-#### Sisäsihteeri
+#### Sisäkkö
 Kalle Asmundi
 - IRCnet: huntilla
 - Telegram: huntilla
 
 #### Fuksiasiainsihteeri
-Arttu Lahti
-- IRCnet: monkero
-- Telegram: monkero
+Kalle Alasaarela
+- IRCnet: keppana
+- Telegram: keppana3
 - fuksiasiainsihteeri(at)otit.fi
 
 #### Opesihteeri
-Jere Tepsa
-- IRCnet: stetson
-- Telegram: Stetson2
+Ville Kujala
+- IRCnet: laiton
+- Telegram: laitonnn
 
-#### KansainVälisyys vastaava
-Niklas Raesalmi
-- IRCnet: butpill
-- Telegram: Nraesalmi
-
+#### Kansainvälisyysvastaava vastaava
 Niranjan Sreegith
 - IRCnet: sambadi
 - Telegram: niranjansreegith
 
-#### Toimittaja
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
+#### Bitch That's Me
+Antti Koponen
+- IRCnet: taru
+- Telegram: AKoponen
 
-Aleksi Tuovinen
-- IRCnet: pintti
-- Telegram: pintti
-
+#### Saapuja
 Verneri Pudas
 - IRCnet: napalmi
 - Telegram: napa1mi
-
-Lasse Rapo
-- IRCnet: betoni
-- Telegram: bet0ni
-
-Saku Salo
-- IRCnet: sandalf
-- Telegram: xsandalf
-
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-
-Paavo Nikkari
-- IRCnet: kaemppis
-- Telegram: kaemppis
-
-Niko Mätäsaho
-- IRCnet: esari
-- Telegram: esari2
-
-Topi Bruun
-- IRCnet: metukka
-- Telegram: Jaajo
-
-#### sEPPÄ
-Jessika Lämsä
-- IRCnet: kospeli
-- Telegram: kospeli
-
-#### Alumnivastaava
-Niklas Riikonen
-- IRCnet: sebu_
-- Telegram: Sebbuu
-- alumnivastaava(at)otit.fi 
-
-#### Somevastaava
-Rebekka Kellokumpu
-- IRCnet: subuwu
-- Telegram: rebeotti
-
-#### Kuvaaja
-Joona Syrjäkoski
-- IRCnet: kaiffari
-- Telegram: joona_sk
-
-Sini Enqvist
-- IRCnet: kuopattu
-- Telegram: kuopattu
-
-Paavo Nikkari
-- IRCnet: kaemppis
-- Telegram: kaemppis
-
-#### Saapuja
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-
-#### Tiskijukka
-Teemu Puro
-- IRCnet: topakka
-- Telegram: topakka
 
 #### Sijoitusvastaava
 Lauri Ala-Mursula
 - IRCnet: limeboi
 - Telegram: Viikset
 
-#### Titeenimajuri
-Rainer Laaksonen
-- IRCnet: Kal3vi
-- Telegram: Kal3vi
+#### viTTY
+Verneri Pudas
+- IRCnet: napalmi
+- Telegram: napa1mi
+
+#### Vuosijuhlavastaava
+Antti Koponen
+- IRCnet: taru
+- Telegram: AKoponen
+
+
+### Toimikunnat
+
+#### Tapahtumaministeriö
+* Jimi Gustafsson
+* Petra Heikkinen
+* Justus Kuukasjärvi
+* Jalmari Kalttonen
+* Aapo Koivumäki
+* Kalle Alasaarela
+* Tuomas Pelkonen
+
+#### Tietoliikenneministeriö
+* Sini Enqvist
+* Tommi Jokinen
+* Henrik Peteri
+* Lauri Horsma
+* Ville Kujala
+* Ari-Pekka Ronkainen
+* Joonas Patana
+
+#### Brändi-imagon ja Identiteetin Taktisen Charmin Hienostamisen, Wiestintätyylin Hyvän Ylläpidon ja Markkinointiyhteistyön Erityisministeriö(BITCHWHYME)
+* Petra Heikkinen
+* Rosa-Maria Myllymäki
+* Akseli Östberg
+* Tuomas Jokinen
+
+#### Kansainvälisyysministeriö
+* Aleksanteri Seppä
+* Salla Rissanen
+
+#### Propagandaministeriö
+* Jimi Gustafsson
+* Tommi Jokinen
+* Verneri Pudas
+* Leevi Astikainen
+* Jukka Memonen
+* Joonas Patana
+* Ville Kujala
+* Aleksanteri Seppä
+* Juho Bruun
+
+#### Kulttuuriministeriö
+* Aapo Koivumäki
+
+#### Alumniministeriö
+* Aleksanteri Seppä
+
+#### Ulkoministeriö
+* 
 
 ---
 
