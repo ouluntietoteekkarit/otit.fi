@@ -9,9 +9,14 @@ menu:
 ---
 
 ## 2018 ->
+- ### 2025
+  - [1/2025](2018-2027/terminaali2501.pdf)
 - ### 2024
   - [1/2024](2018-2027/terminaali2401.pdf)
   - [2/2024](2018-2027/terminaali2402.pdf)
+  - [3/2024](2018-2027/terminaali2403.pdf)
+  - [4/2024](2018-2027/terminaali2404.pdf)
+  - [Fuksinaamasto/2024](2018-2027/terminaali2403liite.pdf)
 - ### 2023
   - [1/2023](2018-2027/terminaali2301.pdf) 
   - [2/2023](2018-2027/terminaali2302.pdf)
