@@ -109,6 +109,7 @@ Antti Koponen
 * Ville Kujala
 * Ari-Pekka Ronkainen
 * Joonas Patana
+* Kalle Asmundi
 
 #### Brändi-imagon ja Identiteetin Taktisen Charmin Hienostamisen, Wiestintätyylin Hyvän Ylläpidon ja Markkinointiyhteistyön Erityisministeriö(BITCHWHYME)
 * Petra Heikkinen
