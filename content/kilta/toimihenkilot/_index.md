@@ -130,6 +130,7 @@ Antti Koponen
 * Ville Kujala
 * Aleksanteri Seppä
 * Juho Bruun
+* Saku Salo
 
 #### Kulttuuriministeriö
 * Aapo Koivumäki
