@@ -16,7 +16,7 @@ menu:
 
 ## Harassment contact persons
 
-**Jere Ainasoja** 
+**Jere Ainasoja**  
 jukeboxi(at)otit.fi  
 Tg: jukeboxxxi  
 
