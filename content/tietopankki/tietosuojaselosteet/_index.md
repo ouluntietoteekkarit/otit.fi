@@ -13,3 +13,5 @@ Ulkojäsenrekisterin tietosuojaseloste: [PDF](Ulkojasenrekisteri_tietosuojaselos
 Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistat_tietosuojaseloste_2025.pdf)
 
 Kulkuoikeusrekisterin tietosuojaseloste: [PDF](Kulkuoikeusrekisteri_tietosuojaseloste_2025.pdf)
+
+Häirintäilmoituksen tietosuojaseloste: [PDF](Häirintäilmoitus_tietosuojaseloste_2025.pdf)
