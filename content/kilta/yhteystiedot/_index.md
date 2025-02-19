@@ -18,25 +18,33 @@ menu:
 
 ## Häirintäyhdyshenkilöt 
 
-**Salla Rissanen**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/patonki.jpg" alt="Salla Rissanen" width="300" >}}
-patonki(at)otit.fi  
-Tg: Smrissa  
-
-**Markus Teuhola**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/potero.jpg" alt="Markus Teuhola" width="300" >}}
-potero(at)otit.fi  
-Tg: p0ter0  
-
-**Jessika Lämsä**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/kospeli.jpg" alt="Jessika Lämsä" width="300" >}}
-kospeli(at)otit.fi  
-Tg: kospeli  
+**Jere Ainasoja** 
+jukeboxi(at)otit.fi  
+Tg: jukeboxxxi  
 
 **Amanda Korhonen**  
-{{<figure src="/img/hairintayhdyshenkilot/2024/teerex.jpg" alt="Amanda Korhonen" width="300" >}}
 teerex(at)otit.fi  
-Tg: Dinonainen  
+Tg: dinonainen
+
+**Janne Rautakorpi**  
+lammas(at)otit.fi  
+Tg: JanneRautakorpi  
+
+**Arttu Lahti**  
+monkero(at)otit.fi  
+Tg: monkero  
+
+**Venny Parkkila**  
+modeemi(at)otit.fi  
+Tg: jihaajihuu
+
+**Petrus Heikkilä**  
+putki(at)otit.fi  
+Tg: putki3
+
+**Sini Enqvist**  
+kuopattu(at)otit.fi  
+Tg: kuopattu
 
 ## Posti- ja laskutusosoitteet
 
