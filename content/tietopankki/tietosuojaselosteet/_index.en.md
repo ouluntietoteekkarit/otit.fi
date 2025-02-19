@@ -13,3 +13,5 @@ Member register privacy notice: [PDF](Member_register_privacy_notice_2025.pdf)
 Email list privacy notice: [PDF](Email_list_privacy_notice_2025.pdf)
 
 Access rights register privacy notice: [PDF](Access_rights_register_privacy_notice_2025.pdf)
+
+Harassment report privacy notice: [PDF](Harassment_report_privacy_notice_2025.pdf)
