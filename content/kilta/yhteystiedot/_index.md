@@ -18,7 +18,7 @@ menu:
 
 ## Häirintäyhdyshenkilöt 
 
-**Jere Ainasoja** 
+**Jere Ainasoja**  
 jukeboxi(at)otit.fi  
 Tg: jukeboxxxi  
 
