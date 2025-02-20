@@ -30,7 +30,7 @@ Jukka Memonen
 #### Tiedotusministeri
 *Vastaa tiedotuksesta*
 
-Julius Kurunheimo
+Julius Kuruheimo
 - IRCnet: molokku
 - Telegram: molokku
 - tiedotusministeri(at)otit.fi
