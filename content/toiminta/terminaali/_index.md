@@ -1,6 +1,6 @@
 ---
 title: Terminaali
-date: 2024-01-11
+date: 2025-02-20
 authorbox: false
 sidebar: true
 menu:
@@ -33,17 +33,17 @@ Petra Heikkinen - tiedotusministeri(at)otit.fi
 
 Toimittajat:
 
-- Verneri Pudas
-- Topi Bruun
+- Sini Enqvist
+- Tommi Jokinen
 - Henrik Peteri
-- Juho Bruun
-- Niko Mätäsaho
-- Saku Salo
-- Lasse Rapo
-- Aleksi Tuovinen
-- Paavo Nikkari
+- Lauri Horsma
+- Ville Kujala
+- Ari-Pekka Ronkainen
+- Joonas Patana
+- Kalle Asmundi
 
 Entiset päätoimittajat
+- 2024 - Petra Heikkinen
 - 2023 - Joonas Patana, Bekim Abazi (2/23)
 - 2022 - Niko Mätäsaho
 - 2021 - Verneri Pudas
