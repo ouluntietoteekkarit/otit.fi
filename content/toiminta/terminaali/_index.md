@@ -29,7 +29,7 @@ PL 4500
 
 Päätoimittaja:
 
-Petra Heikkinen - tiedotusministeri(at)otit.fi
+Julius Kuruheimo - tiedotusministeri(at)otit.fi
 
 Toimittajat:
 
