@@ -34,15 +34,17 @@ Petra Heikkinen - tiedotusministeri(at)otit.fi
 
 Journalists:
 
-- Verneri Pudas
-- Topi Bruun
-- Henrik Peteri
 - Juho Bruun
-- Niko Mätäsaho
+- Tommi Jokinen
+- Aleksanteri Seppä
+- Verneri Pudas
+- Ville Kujala
+- Leevi Astikainen
+- Joonas Patana
+- Kiia Koski
+- Jimi Gustafsson
 - Saku Salo
-- Lasse Rapo
-- Aleksi Tuovinen
-- Paavo Nikkari
+- Jukka Memonen
 
 Former executive editors:
 - 2023 - Joonas Patana, Bekim Abazi (2/23)
