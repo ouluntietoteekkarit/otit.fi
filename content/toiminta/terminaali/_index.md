@@ -33,14 +33,17 @@ Julius Kuruheimo - tiedotusministeri(at)otit.fi
 
 Toimittajat:
 
-- Sini Enqvist
+- Juho Bruun
 - Tommi Jokinen
-- Henrik Peteri
-- Lauri Horsma
+- Aleksanteri Seppä
+- Verneri Pudas
 - Ville Kujala
-- Ari-Pekka Ronkainen
+- Leevi Astikainen
 - Joonas Patana
-- Kalle Asmundi
+- Kiia Koski
+- Jimi Gustafsson
+- Saku Salo
+- Jukka Memonen
 
 Entiset päätoimittajat
 - 2024 - Petra Heikkinen
