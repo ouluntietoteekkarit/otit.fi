@@ -30,7 +30,7 @@ PL 4500
 
 Executive editor:
 
-Petra Heikkinen - tiedotusministeri(at)otit.fi
+Julius Kuruheimo - tiedotusministeri(at)otit.fi
 
 Journalists:
 
@@ -47,6 +47,7 @@ Journalists:
 - Jukka Memonen
 
 Former executive editors:
+- 2024 - Petra Heikkinen
 - 2023 - Joonas Patana, Bekim Abazi (2/23)
 - 2022 - Niko Mätäsaho
 - 2021 - Verneri Pudas
