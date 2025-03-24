@@ -140,7 +140,8 @@ Antti Koponen
 * Aleksanteri Seppä
 
 #### Ulkoministeriö
-* 
+* Antti Koponen (ulkoministeri)
+* Kiia Koski (ulkosihteeri)
 
 ---
 
