@@ -102,6 +102,7 @@ Antti Koponen
 * Tuomas Pelkonen
 
 #### Tietoliikenneministeriö
+* Antti Koponen
 * Sini Enqvist
 * Tommi Jokinen
 * Henrik Peteri
@@ -112,10 +113,12 @@ Antti Koponen
 * Kalle Asmundi
 
 #### Brändi-imagon ja Identiteetin Taktisen Charmin Hienostamisen, Wiestintätyylin Hyvän Ylläpidon ja Markkinointiyhteistyön Erityisministeriö(BITCHWHYME)
-* Petra Heikkinen
-* Rosa-Maria Myllymäki
-* Akseli Östberg
-* Tuomas Jokinen
+* Antti Koponen (some)
+* Petra Heikkinen (grafiikat, some)
+* Rosa-Maria Myllymäki (grafiikat, some)
+* Akseli Östberg (kuvaaja)
+* Tuomas Jokinen (kuvaaja)
+* Joona Syrjäkoski (kuvaaja)
 
 #### Kansainvälisyysministeriö
 * Aleksanteri Seppä
