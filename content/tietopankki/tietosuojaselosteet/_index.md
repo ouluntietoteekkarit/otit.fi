@@ -14,4 +14,6 @@ Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistat_tietosuojaseloste
 
 Kulkuoikeusrekisterin tietosuojaseloste: [PDF](Kulkuoikeusrekisteri_tietosuojaseloste_2025.pdf)
 
+Kiltahuoneen kameravalvonnan tietosuojaseloste: [PDF](kameravalvonta_tietosuojaseloste.pdf)
+
 Häirintäilmoituksen tietosuojaseloste: [PDF](Häirintäilmoitus_tietosuojaseloste_2025.pdf)
