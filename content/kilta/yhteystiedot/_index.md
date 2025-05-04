@@ -18,6 +18,9 @@ menu:
 
 ## Häirintäyhdyshenkilöt 
 
+**OTiT Häirintäilmoituslomake:**  
+Linkki suomenkieliseen lomakkeeseen: https://forms.gle/pcTfXjvrW9WYsJyZ8  
+
 **Jere Ainasoja**  
 jukeboxi(at)otit.fi  
 Tg: jukeboxxxi  

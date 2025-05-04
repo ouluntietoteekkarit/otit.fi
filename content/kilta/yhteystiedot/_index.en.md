@@ -14,7 +14,10 @@ menu:
 **Student tutors:** tuutorit(at)otit.fi  
 **Note!** Sending an email to the mailing lists of Oulun Tietoteekkarit ry is only permitted for those who are members of Oulun Tietoteekkarit ry, our sponsors and the personnel at University of Oulu. Others are advised to send their emails via the guilds Foreign Minister (ulkoministeri(at)otit.fi).  
 
-## Harassment contact persons
+## Harassment contact persons  
+
+**OTiT harassment report form:**  
+Link to the English version of the report: https://forms.gle/W6in2ubnD2Mf9EEJ9  
 
 **Jere Ainasoja**  
 jukeboxi(at)otit.fi  
