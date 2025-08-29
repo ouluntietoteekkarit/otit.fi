@@ -109,7 +109,6 @@ Antti Koponen
 * Lauri Horsma
 * Ville Kujala
 * Ari-Pekka Ronkainen
-* Joonas Patana
 * Kalle Asmundi
 
 #### Brändi-imagon ja Identiteetin Taktisen Charmin Hienostamisen, Wiestintätyylin Hyvän Ylläpidon ja Markkinointiyhteistyön Erityisministeriö(BITCHWHYME)
@@ -130,7 +129,6 @@ Antti Koponen
 * Verneri Pudas
 * Leevi Astikainen
 * Jukka Memonen
-* Joonas Patana
 * Ville Kujala
 * Aleksanteri Seppä
 * Juho Bruun

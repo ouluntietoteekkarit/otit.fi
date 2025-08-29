@@ -40,7 +40,6 @@ Journalists:
 - Verneri Pudas
 - Ville Kujala
 - Leevi Astikainen
-- Joonas Patana
 - Kiia Koski
 - Jimi Gustafsson
 - Saku Salo

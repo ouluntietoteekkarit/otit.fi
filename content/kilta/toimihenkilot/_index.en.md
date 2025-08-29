@@ -32,11 +32,6 @@ Kalle Asmundi
 - Telegram: huntilla
 - adm(at)otit.fi
 
-Joonas Patana
-- IRCnet: sosig
-- Telegram: jatana
-- adm(at)otit.fi
-
 Ville Kujala
 - IRCnet: laiton
 - Telegram: laiton_irc
@@ -79,10 +74,6 @@ Toivo Xiong
 Henrik Peteri
 - IRCnet: psykoosi
 - Telegram: psykoosi1
-
-Joonas Patana
-- IRCnet: sosig
-- Telegram: jatana
 
 #### Sport Manager
 Juho Bruun
