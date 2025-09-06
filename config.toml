@@ -274,6 +274,12 @@ enableRobotsTXT = true
         url = "/toiminta/haalarimerkit"
         parent = "toiminta"
         weight = 5
+    [[menu.main]]
+        identifier = "vuosijuhlat"
+        name = "Vuosijuhlat"
+        url = "/toiminta/vuosijuhlat"
+        parent = "toiminta"
+        weight = 6
 
 ########################################
 ## End of menu [toiminta][FIN]
@@ -624,6 +630,13 @@ enableRobotsTXT = true
         url = "/en/toiminta/haalarimerkit"
         parent = "toiminta"
         weight = 5
+
+    [[languages.en.menu.main]]
+        identifier = "vuosijuhlat"
+        name = "Annual Celebration"
+        url = "/en/toiminta/vuosijuhlat"
+        parent = "toiminta"
+        weight = 6
 
 ########################################
 ## End of menu [toiminta][ENG]
