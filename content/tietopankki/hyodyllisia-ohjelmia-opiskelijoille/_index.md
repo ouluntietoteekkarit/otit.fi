@@ -1,6 +1,6 @@
 ---
 title: Hyödyllisiä ohjelmia opiskelijoille
-date: 2021-14-10
+date: 2021-10-14
 authorbox: false
 sidebar: true
 menu:

@@ -52,7 +52,7 @@ baseURL = "https://otit.fi/"
 languageCode = "fi"
 title = "Oulun Tietoteekkarit ry"
 theme = ["mainroad", "hugo-shortcode-gallery"]
-paginate = "8" # Number of posts per page
+pagination.pagerSize = "8" # Number of posts per page
 ignoreFiles = []
 
 defaultContentLanguage = "fi"

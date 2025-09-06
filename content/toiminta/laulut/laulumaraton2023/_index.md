@@ -1,6 +1,6 @@
 ---
 title: Laulumaraton 2023
-date: 2024-1-11
+date: 2024-01-11
 authorbox: false
 sidebar: true
 menu:

@@ -1,6 +1,6 @@
 ---
 title: Laulumaraton 2021
-date: 2021-8-12
+date: 2021-08-12
 authorbox: false
 sidebar: true
 menu:

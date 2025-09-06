@@ -1,6 +1,6 @@
 ---
 title: Tietopankki
-date: 2021-15-5
+date: 2021-05-15
 authorbox: false
 sidebar: true
 menu:
