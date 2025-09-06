@@ -1,0 +1,11 @@
+name: otit
+
+services:
+  server:
+    image: hugomods/hugo:non-root
+    command: server -D --poll 700ms
+    volumes:
+      - ./:/src
+      - ~/hugo_cache:/tmp/hugo_cache
+    ports:
+      - "1313:1313"
