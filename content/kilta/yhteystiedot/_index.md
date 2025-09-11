@@ -49,6 +49,11 @@ Tg: putki3
 kuopattu(at)otit.fi  
 Tg: kuopattu
 
+## Alumnivastaava
+**Juho Bruun**
+joensuu(at)otit.fi
+Tg: joensuu
+  
 ## Posti- ja laskutusosoitteet
 
 ### Posti- ja laskutusosoite Suomesta

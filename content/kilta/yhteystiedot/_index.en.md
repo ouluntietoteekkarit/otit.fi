@@ -47,6 +47,12 @@ Tg: putki3
 kuopattu(at)otit.fi  
 Tg: kuopattu
 
+  
+## Alumni Manager
+**Juho Bruun**
+joensuu(at)otit.fi
+Tg: joensuu
+
 ## Postal and invoicing addresses
 
 ### Postal and invoicing address (for domestic mail)
