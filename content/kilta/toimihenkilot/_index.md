@@ -89,6 +89,10 @@ Antti Koponen
 - IRCnet: taru
 - Telegram: AKoponen
 
+#### Alumnivastaava
+Juho Bruun
+- IRCnet: joensuu
+- Telegram joensuu
 
 ### Toimikunnat
 
