@@ -47,10 +47,9 @@ Tg: putki3
 kuopattu(at)otit.fi  
 Tg: kuopattu
 
-  
 ## Alumni Manager
-**Juho Bruun**
-joensuu(at)otit.fi
+**Juho Bruun**  
+joensuu(at)otit.fi  
 Tg: joensuu
 
 ## Postal and invoicing addresses

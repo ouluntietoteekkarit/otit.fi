@@ -50,10 +50,10 @@ kuopattu(at)otit.fi
 Tg: kuopattu
 
 ## Alumnivastaava
-**Juho Bruun**
-joensuu(at)otit.fi
+**Juho Bruun**  
+joensuu(at)otit.fi  
 Tg: joensuu
-  
+
 ## Posti- ja laskutusosoitteet
 
 ### Posti- ja laskutusosoite Suomesta
