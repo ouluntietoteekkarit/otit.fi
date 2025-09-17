@@ -6,6 +6,23 @@ sidebar: true
 menu:
 ---
 
+## 2024
+- Aapo Koivumäki  
+- Aleksanteri Seppä  
+- Amanda Korhonen  
+- Anni Laitinen  
+- Hanna Jussila  
+- Henrik Peteri  
+- Joni Pitkänen  
+- Juho Bruun  
+- Juuso Herajärvi  
+- Kalle Alasaarela  
+- Lauri Gröndahl  
+- Paavo Nikkari  
+- Ronja Talvensaari  
+- Topias Mesilaakso  
+- Tuure Kuitinen
+
 ## 2023
 - Aapo Kinnunen
 - Arttu Lahti

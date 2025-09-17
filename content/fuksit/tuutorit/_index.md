@@ -1,13 +1,29 @@
 ---
-title: Vuoden 2024 tuutorit
-date: 2023-08-17
+title: Vuoden 2025 tuutorit
+date: 2025-09-17
 authorbox: false
 sidebar: true
 menu:
 ---
 
-**Fuksivastaava:** Salla Rissanen  
-**Fuksiapuri:** Arttu Lahti  
+#### Fuksiasiainministeri
+
+**Amanda Korhonen**
+
+**IRCnet:** teerex  
+**Telegram:** dinonainen  
+**Sähköposti:** fuksiasiainministeri (at) otit.fi
+
+
+#### Fuksiasiainsihteeri
+
+**Kalle Alasaarela**
+
+**IRCnet:** keppana  
+**Telegram:** keppana3  
+**Sähköposti:** fuksiasiainsihteeri (at) otit.fi  
+
+#### Tuutorit
 
 Aapo Koivumäki  
 Aleksanteri Seppä  
@@ -23,7 +39,12 @@ Lauri Gröndahl
 Paavo Nikkari  
 Ronja Talvensaari  
 Topias Mesilaakso  
-Tuure Kuitinen  
+Tuure Kuitunen  
+
+#### KV-tuutorit
+
+Cat Vo
+Phuc Nguyen
 
 ---
 
