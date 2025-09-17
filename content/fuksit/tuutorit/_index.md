@@ -43,7 +43,7 @@ Tuure Kuitunen
 
 #### KV-tuutorit
 
-Cat Vo
+Cat Vo  
 Phuc Nguyen
 
 ---
