@@ -280,6 +280,12 @@ enableRobotsTXT = true
         url = "/toiminta/vuosijuhlat"
         parent = "toiminta"
         weight = 6
+    [[menu.main]]
+        identifier = "kerhot"
+        name = "Kerhot"
+        url = "/toiminta/kerhot"
+        parent = "toiminta"
+        weight = 6
 
 ########################################
 ## End of menu [toiminta][FIN]
@@ -635,6 +641,13 @@ enableRobotsTXT = true
         identifier = "vuosijuhlat"
         name = "Annual Celebration"
         url = "/en/toiminta/vuosijuhlat"
+        parent = "toiminta"
+        weight = 6
+
+    [[languages.en.menu.main]]
+        identifier = "kerhot"
+        name = "Clubs"
+        url = "/en/toiminta/kerhot"
         parent = "toiminta"
         weight = 6
 
