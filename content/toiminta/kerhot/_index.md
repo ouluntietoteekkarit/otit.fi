@@ -12,9 +12,9 @@ Kerhon toimintaa pyörittää kerhonohjaaja, joka on vastuussa esim. kokoontumis
 ## Tämänhetkiset kerhot
 
 #### Mahjong-kerho
-Kokoontuu joka toinen maanantai kiltahuoneella kello 18. (8.9.2025 alkaen)
-Kerhonohjaaja: dolmio (TG: @datadrako1)
-Ilmoituskanavan linkin saat kysymällä!
+- Kokoontuu joka toinen maanantai kiltahuoneella kello 18. (8.9.2025 alkaen)
+- Kerhonohjaaja: dolmio (TG: @datadrako1)
+- Ilmoituskanavan linkin saat kysymällä!
 
 ## Haluatko perustaa kerhon?
 
