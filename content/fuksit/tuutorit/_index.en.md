@@ -26,20 +26,19 @@ menu:
 #### Tutors for national students
 
 Aapo Koivumäki  
-Aleksanteri Seppä  
-Amanda Korhonen  
-Anni Laitinen  
-Hanna Jussila  
 Henrik Peteri  
-Joni Pitkänen  
-Juho Bruun  
-Juuso Herajärvi  
-Kalle Alasaarela  
-Lauri Gröndahl  
-Paavo Nikkari  
-Ronja Talvensaari  
-Topias Mesilaakso  
-Tuure Kuitunen
+Justus Kuukasjärvi  
+Kiia Koski  
+Mari Ylivaikko  
+Markus Teuhola  
+Niko Laukka  
+Niko Niemi  
+Sini Enqvist  
+Tinja Untinen  
+Topi Bruun  
+Tuomas Jokinen  
+Ursa Muranen  
+Valtte Kontsas
 
 #### Tutors for international students
 

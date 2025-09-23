@@ -21,7 +21,7 @@ menu:
 - Paavo Nikkari  
 - Ronja Talvensaari  
 - Topias Mesilaakso  
-- Tuure Kuitinen
+- Tuure Kuitunen
 
 ## 2023
 - Aapo Kinnunen
