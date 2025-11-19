@@ -1,7 +1,7 @@
 ---
 title: Hallitus ja toimihenkilöt toimikaudelle 2026
 description: 
-date: 2025-11-20
+date: 2025-11-20T01:55:00+02:00
 categories:
   - "Uutiset"
 tags:
