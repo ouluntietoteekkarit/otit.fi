@@ -8,7 +8,7 @@ tags:
   - Vaalikokous
 ---
 
-Killan 20.11.2025 järjestetyssä vaalikokouksessa valittiin toimikaudelle 2026 seuraavat toimijat:
+Killan 19.11.2025 järjestetyssä vaalikokouksessa valittiin toimikaudelle 2026 seuraavat toimijat:
 
 ### Hallitus
 - **Puheenjohtaja:** Jere Ainasoja
