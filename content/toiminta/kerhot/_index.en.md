@@ -12,10 +12,23 @@ The club's activities are managed by a club host, who is responsible for things 
 
 ## Current clubs
 
-OTiT's Mahjong Club
-We gather in the guild room every other monday starting 8.9.2025 at 18:00.
-Club host: dolmio (TG: @datadrako1)
-Please ask the info channel link from the host.
+#### Mahjong Club
+
+- We gather in the guild room every (other) Monday starting 27.9.2025 at 18:00.
+- Club host: dolmio (TG: @datadrako1)
+- Please ask the info channel link from the host.
+
+#### OTiT's Board game club
+
+- We play different board games in the guild room every week!
+- Club host: joeoeti (TG: @joeoeti)
+- Please ask the info channel link from the host.
+
+#### Kart Club
+
+- We gather to play Mario Kart each Tuesday in the guild room at 17:00
+- Club host: seinä (tg; @S3inae)
+- Info channel: https://t.me/+RhftE9kHT6A5ZTA0
 
 ## Do you want to host a club?
 

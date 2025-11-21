@@ -12,9 +12,22 @@ Kerhon toimintaa pyörittää kerhonohjaaja, joka on vastuussa esim. kokoontumis
 ## Tämänhetkiset kerhot
 
 #### Mahjong-kerho
-- Kokoontuu joka toinen maanantai kiltahuoneella kello 18. (8.9.2025 alkaen)
+
+- Kokoontuu joka (toinen) maanantai kiltahuoneella kello 18.00. (27.9.2025)
 - Kerhonohjaaja: dolmio (TG: @datadrako1)
 - Ilmoituskanavan linkin saat kysymällä!
+
+#### Lautapelikerho
+
+- Kokoontuu kerran viikossa pelaamaan lautapelejä kiltahuoneella.
+- Kerhonohjaaja: joeoeti (TG: @joeoeti)
+- Ilmoituskanavan linkin saat kysymällä!
+
+#### Kartti-kerho
+
+- Kokoontuu tiistaisin kiltahuoneelle kello 17.00 pelaamaan Mario Kartia.
+- Kerhonohjaaja: seinä (TG: @S3inae)
+- Ilmoituskanava: https://t.me/+RhftE9kHT6A5ZTA0
 
 ## Haluatko perustaa kerhon?
 
