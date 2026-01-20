@@ -1,99 +1,99 @@
 ---
-title: Board 2025
-date: 2025-01-15
+title: Board 2026
+date: 2026-01-20
 authorbox: false
 sidebar: true
 menu:
 ---
 
 #### Chairman
-Salla Rissanen
-- IRCnet: patonki
-- Telegram: Smrissa
+Jere Ainasoja
+- IRCnet: jukeboxi
+- Telegram: jukeboxxxi
 - puheenjohtaja(at)otit.fi
 
 #### Secretary
-Rosa-Maria Myllymäki
-- IRCnet: jifflar
-- Telegram: rosamyl
+Elli-Kerttu Sepponen
+- IRCnet: ismonen
+- Telegram: ism0nen
 - sihteeri(at)otit.fi
 
 #### Treasurer
-Jukka Memonen
-- IRCnet: misvitus
-- Telegram: JiiMemo
+Vesa Jokela
+- IRCnet: oppipaha
+- Telegram: oppiipaha
 - rahastonhoitaja(at)otit.fi
 
 #### Minister of Information
 *responsible for information*
 
-Julius Kurunheimo
-- IRCnet: molokki
-- Telegram: molokki
+Petteri Keskikuru
+- IRCnet: muisti
+- Telegram: muisti_pk
 - tiedotusministeri(at)otit.fi
 
 #### Minister of Culture
 *responsible for culture*
 
-Jere Ainasoja
-- IRCnet: jukeboxi
-- Telegram: jukeboxxxi
+Jyri Lauren
+- IRCnet: lurileka
+- Telegram: Jykamias
 - kulttuuriministeri(at)otit.fi
 
-#### Minister of Freshman affairs (VC)
+#### Minister of Freshman affairs
 *responsible for freshmen*
 
-Amanda Korhonen
-- IRCnet: teerex
-- Telegram: dinonainen
+Kalle Alasaarela
+- IRCnet: keppana
+- Telegram: keppana3
 - fuksiasiainministeri(at)otit.fi
 
 #### Minister of Family and Basic Services
 *responsible for guild events*
 
-Henrik Arttu Lahti
-- IRCnet: monkero
-- Telegram: monkero
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
 - pepeministeri(at)otit.fi
 
 #### Minister of Social Affairs and Health
 *responsible for guild events*
 
-Janne Rautakorpi
-- IRCnet: Lammas
-- Telegram: JanneRautakorpi
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 - soteministeri(at)otit.fi
 
-#### Foreign Minister
+#### Foreign Minister (VC)
 *responsible for business relations*
 
-Antti Jokinen
-- IRCnet: taru
-- Telegram: AKoponen
+Rosa-Maria Myllymäki 
+- IRCnet: jifflar
+- Telegram: jifflar
 - ulkoministeri(at)otit.fi
 
 #### Minister of the Interior
 *responsible for the guild room and products*
 
-Tommi Jokinen
-- IRCnet: ringo
-- Telegram: tomjok
+Julius Kuruheimo
+- IRCnet: molokku
+- Telegram: molokku
 - sisaministeri(at)otit.fi
 
 #### Minister of Education
 *responsible for education*
 
-Aleksanteri Seppä
-- IRCnet: dolmio
-- Telegram: datadrako1
+Erki Kuivonen
+- IRCnet: typo_
+- Telegram: erkiku
 - opetusministeri(at)otit.fi
 
 #### Minister of Physical Education, Sports and Youth 
 *responsible for free time activities*
 
-Severi Sarala
-- IRCnet: susssy
-- Telegram: Susssy22
+Aapo Koivumäki
+- IRCnet: koripallo
+- Telegram: kor1pallo
 - urheiluministeri(at)otit.fi
 
 
