@@ -1,6 +1,6 @@
 ---
-title: Hallitus 2025
-date: 2025-01-15
+title: Hallitus 2026
+date: 2026-01-20
 authorbox: false
 sidebar: true
 menu:
@@ -8,95 +8,95 @@ menu:
 
 #### Puheenjohtaja
 
-Salla Rissanen
-- IRCnet: patonki
-- Telegram: Smrissa
+Jere Ainasoja
+- IRCnet: jukeboxi
+- Telegram: jukeboxxxi
 - puheenjohtaja(at)otit.fi
 
 #### Sihteeri
 
-Rosa-Maria Myllymäki
-- IRCnet: jifflar
-- Telegram: rosamyl
+Elli-Kerttu Sepponen
+- IRCnet: ismonen
+- Telegram: ism0nen
 - sihteeri(at)otit.fi
 
 #### Rahastonhoitaja
 
-Jukka Memonen
-- IRCnet: misvitus
-- Telegram: JiiMemo
+Vesa Jokela
+- IRCnet: oppipaha
+- Telegram: oppiipaha
 - rahastonhoitaja(at)otit.fi
 
 #### Tiedotusministeri
 *Vastaa tiedotuksesta*
 
-Julius Kuruheimo
-- IRCnet: molokku
-- Telegram: molokku
+Petteri Keskikuru
+- IRCnet: muisti
+- Telegram: muisti_pk
 - tiedotusministeri(at)otit.fi
 
-#### Kulttuuriministeri (VPJ)
+#### Kulttuuriministeri
 *Vastaa kulttuuritoiminnasta*
 
-Jere Ainasoja
-- IRCnet: jukeboxi
-- Telegram: jukeboxxxi
+Jyri Lauren
+- IRCnet: lurileka
+- Telegram: Jykamias
 - kulttuuriministeri(at)otit.fi
 
 #### Fuksiasiainministeri
 *Vastaa fukseista*
 
-Amanda Korhonen
-- IRCnet: teerex
-- Telegram: dinonainen
+Kalle Alasaarela
+- IRCnet: keppana
+- Telegram: keppana3
 - fuksiasiainministeri(at)otit.fi
 
 #### Perhe- ja peruspalveluministeri
 *Vastaa killan tapahtumista*
 
-Arttu Lahti
-- IRCnet: monkero
-- Telegram: monkero
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
 - pepeministeri(at)otit.fi
 
 #### Sosiaali- ja terveysministeri
 *Vastaa killan tapahtumista*
 
-Janne Rautakorpi
-- IRCnet: Lammas
-- Telegram: JanneRautakorpi
+Henrik Peteri
+- IRCnet: psykoosi
+- Telegram: psykoosi1
 - soteministeri(at)otit.fi
 
-#### Ulkoministeri
+#### Ulkoministeri (VPJ)
 *Vastaa yrityssuhteista*
 
-Antti Koponen
-- IRCnet: taru
-- Telegram: AKoponen
+Rosa-Maria Myllymäki 
+- IRCnet: jifflar
+- Telegram: jifflar
 - ulkoministeri(at)otit.fi
 
 #### Sisäministeri
 *Vastaa kiltahuoneesta ja välitystoiminnasta*
 
-Tommi Jokinen
-- IRCnet: ringo
-- Telegram: tomjoki
+Julius Kuruheimo
+- IRCnet: molokku
+- Telegram: molokku
 - sisaministeri(at)otit.fi
 
 #### Opetusministeri
 *Vastaa koulutuspolitiikasta*
 
-Aleksanteri Seppä
-- IRCnet: dolmio
-- Telegram: datadrako1
+Erki Kuivonen
+- IRCnet: typo_
+- Telegram: erkiku
 - opetusministeri(at)otit.fi
 
 #### Liikunta-, urheilu- ja nuorisoministeri
 *Vastaa killan vapaa-aikatoiminnasta*
 
-Severi Sarala
-- IRCnet: susssy
-- Telegram: Susssy22
+Aapo Koivumäki
+- IRCnet: koripallo
+- Telegram: kor1pallo
 - urheiluministeri(at)otit.fi
 
 ---
