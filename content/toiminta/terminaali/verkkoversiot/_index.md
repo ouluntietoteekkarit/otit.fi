@@ -225,9 +225,10 @@ menu:
 ---
 
 ## Vuosijuhlapainokset
- - [OTiT 10v](vuosijuhlapainokset/otit_10v.pdf)
- - [OTiT 15v](vuosijuhlapainokset/otit_15v.pdf)
- - [OTiT 20v](vuosijuhlapainokset/otit_20v.pdf)
--  [OTiT 35v](vuosijuhlapainokset/otit_35v.pdf)
+  - [OTiT 10v](vuosijuhlapainokset/otit_10v.pdf)
+  - [OTiT 15v](vuosijuhlapainokset/otit_15v.pdf)
+  - [OTiT 20v](vuosijuhlapainokset/otit_20v.pdf)
+  - [OTiT 35v](vuosijuhlapainokset/otit_35v.pdf)
+  - [OTiT 37v](vuosijuhlapainokset/otit_37v.pdf)
 
 ---
