@@ -93,7 +93,7 @@ Erki Kuivonen
 
 Aapo Koivumäki
 - IRCnet: koripallo
-- Telegram: kor1pallo
+- Telegram: Kor1pallo
 - urheiluministeri(at)otit.fi
 
 
