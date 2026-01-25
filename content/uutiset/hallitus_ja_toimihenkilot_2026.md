@@ -30,10 +30,10 @@ Killan 19.11.2025 järjestetyssä vaalikokouksessa valittiin toimikaudelle 2026 
 - **Tietoliikenneministeriön toiminnanjohtaja:** Kalle Asmundi
 - **Sopivan kokoinen siskopuoli:** Justus Kuukasjärvi
 - **isopeeisoiiisopee-pelivastaava:** Amanda Korhonen
-- **Urheiluvastaava:** _valitaan myöhemmin_
+- **Urheiluvastaava:** Elias Niva
 - **Lanivastaava:** Antti Koponen
 - **Pelimanni:** Aleksanteri Seppä
-- **Külttüürißihteeri:** _valitaan myöhemmin_
+- **Külttüürißihteeri:** Severi Sarala
 - **Sisäsihteeri:** Leevi Astikainen
 - **Fuksiasiainsihteeri:** Aapo Koivumäki
 - **Opetussihteeri:** Tommi Jokinen
@@ -74,6 +74,7 @@ Killan 19.11.2025 järjestetyssä vaalikokouksessa valittiin toimikaudelle 2026 
 - Sini Enqvist
 - Ville Kujala
 - Ari-Pekka Ronkainen
+- Vesa Jokela
 
 #### Brändiministeriö
 - Aati Strömmer
@@ -101,6 +102,10 @@ Killan 19.11.2025 järjestetyssä vaalikokouksessa valittiin toimikaudelle 2026 
 #### Külttüüriminißteriö
 - Jere Ainasoja
 - Kalle Alasaarela
+- Severi Sarala
+- Arttu Lahti
+- Janne Rautakorpi
+- Saku Salo
 
 
 #### Kerhoministeriö
