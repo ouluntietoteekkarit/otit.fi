@@ -92,7 +92,7 @@ Erki Kuivonen
 *responsible for free time activities*
 
 Aapo Koivumäki
-- IRCnet: koripallo
+- IRCnet: Koripallo
 - Telegram: Kor1pallo
 - urheiluministeri(at)otit.fi
 
