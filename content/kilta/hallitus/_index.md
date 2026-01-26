@@ -95,7 +95,7 @@ Erki Kuivonen
 *Vastaa killan vapaa-aikatoiminnasta*
 
 Aapo Koivumäki
-- IRCnet: koripallo
+- IRCnet: Koripallo
 - Telegram: Kor1pallo
 - urheiluministeri(at)otit.fi
 
