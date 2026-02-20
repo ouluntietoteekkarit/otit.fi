@@ -18,36 +18,10 @@ menu:
 
 ## Häirintäyhdyshenkilöt 
 
+haryt(at)otit.fi
+
 **OTiT Häirintäilmoituslomake:**  
 Linkki suomenkieliseen lomakkeeseen: https://forms.gle/pcTfXjvrW9WYsJyZ8  
-
-**Jere Ainasoja**  
-jukeboxi(at)otit.fi  
-Tg: jukeboxxxi  
-
-**Amanda Korhonen**  
-teerex(at)otit.fi  
-Tg: dinonainen
-
-**Janne Rautakorpi**  
-lammas(at)otit.fi  
-Tg: JanneRautakorpi  
-
-**Arttu Lahti**  
-monkero(at)otit.fi  
-Tg: monkero  
-
-**Venny Parkkila**  
-modeemi(at)otit.fi  
-Tg: jihaajihuu
-
-**Petrus Heikkilä**  
-putki(at)otit.fi  
-Tg: putki3
-
-**Sini Enqvist**  
-kuopattu(at)otit.fi  
-Tg: kuopattu
 
 ## Alumnivastaava
 **Juho Bruun**  
