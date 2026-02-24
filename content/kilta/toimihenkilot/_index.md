@@ -33,7 +33,7 @@ Rosa-Maria Myllymäki
 
 #### Panotekniikan diplomi-insinööri
 Markus Pirttisalo
-- IRCnet: 
+- IRCnet: tungtung
 - Telegram: marpirtt
 
 #### Janotekniikan diplomi-insinööri
@@ -80,7 +80,7 @@ Severi Sarala
 
 #### Sisäsihteeri:
 Leevi Astikainen
-- IRCnet: 
+- IRCnet: taatyty
 - Telegram: taatyty
 
 #### Fuksiasiainsihteeri:
@@ -95,7 +95,7 @@ Tommi Jokinen
 
 #### Peoples between autumn equivalent:
 Konsta Hynynen
-- IRCnet: 
+- IRCnet: kotiapu
 - Telegram: kotiapu
 
 #### Peoples between autumn equivalent:
@@ -125,7 +125,7 @@ Jukka Memonen
 
 #### X-käytävän susi:
 Konsta Hynynen
-- IRCnet: 
+- IRCnet: kotiapu
 - Telegram: kotiapu
 
 #### tiTTY:
