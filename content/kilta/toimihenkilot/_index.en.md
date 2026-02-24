@@ -6,6 +6,31 @@ sidebar: true
 menu:
 ---
 
+#### Harassment Contact Persons
+Kalle Alasaarela
+- IRCnet: keppana
+- Telegram: keppana3
+
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
+
+Vesa Jokela
+- IRCnet: oppipaha
+- Telegram: oppiipaha
+
+Amanda Korhonen
+- IRCnet: teerex
+- Telegram: dinonainen
+
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
+
+Rosa-Maria Myllymäki
+- IRCnet: jifflar
+- Telegram: jifflar
+
 #### Master of brewing techinques
 Markus Pirttisalo
 - IRCnet: 
