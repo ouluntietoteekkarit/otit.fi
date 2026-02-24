@@ -33,7 +33,7 @@ Rosa-Maria Myllymäki
 
 #### Master of brewing techinques
 Markus Pirttisalo
-- IRCnet: 
+- IRCnet: tungtung
 - Telegram: marpirtt
 
 #### Master of drinking techinques
@@ -80,7 +80,7 @@ Severi Sarala
 
 #### Secretary of Interior:
 Leevi Astikainen
-- IRCnet: 
+- IRCnet: taatyty
 - Telegram: taatyty
 
 #### Secretary of Freshman Affairs:
@@ -95,7 +95,7 @@ Tommi Jokinen
 
 #### Kansainvälisyysvastaava:
 Konsta Hynynen
-- IRCnet: 
+- IRCnet: kotiapu
 - Telegram: kotiapu
 
 #### Kansainvälisyysvastaava:
@@ -125,7 +125,7 @@ Jukka Memonen
 
 #### The wolf of X-corridor:
 Konsta Hynynen
-- IRCnet: 
+- IRCnet: kotiapu
 - Telegram: kotiapu
 
 #### tiTTY:
