@@ -107,6 +107,7 @@ Hanna Räty
 Verneri Pudas 
 - IRCnet: napalmi
 - Telegram: Napa1mi
+- alumnivastaava(at)otit.fi
 
 #### Influenssa:
 Rosa-Maria Myllymäki
