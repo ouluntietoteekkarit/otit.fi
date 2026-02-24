@@ -24,9 +24,9 @@ haryt(at)otit.fi
 Linkki suomenkieliseen lomakkeeseen: https://forms.gle/pcTfXjvrW9WYsJyZ8  
 
 ## Alumnivastaava
-**Juho Bruun**  
-joensuu(at)otit.fi  
-Tg: joensuu
+**Verneri Pudas**  
+alumnivastaava(at)otit.fi  
+Tg: Napa1mi
 
 ## Posti- ja laskutusosoitteet
 
