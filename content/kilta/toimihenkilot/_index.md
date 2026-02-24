@@ -1,36 +1,36 @@
 ---
-title: Toimihenkilöt 2025
-date: 2025-02-11
+title: Toimihenkilöt 2026
+date: 2026-02-24
 authorbox: false
 sidebar: true
 menu:
 ---
 
-#### Matriisi- ja viinivastaava
+#### Panotekniikan diplomi-insinööri
+Markus Pirttisalo
+- IRCnet: 
+- Telegram: marpirtt
 
+#### Janotekniikan diplomi-insinööri
 Henrik Peteri
 - IRCnet: psykoosi
 - Telegram: psykoosi1
 
-Johan Porkholm
-- IRCnet: kanapita
-- Telegram: JohanPorkholm
-
 #### Tietoliikenneministeriön toiminnanjohtaja
-Antti Koponen
-- IRCnet: taru
-- Telegram: AKoponen
-- adm(at)otit.fi
-
-#### Sopivan kokoinen siskopuoli
 Kalle Asmundi
 - IRCnet: huntilla
 - Telegram: huntilla
+- adm(at)otit.fi
 
-#### Pelivastaava
-Saku Salo
-- IRCnet: sandalf
-- Telegram: xsandalf
+#### Sopivan kokoinen siskopuoli
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
+
+#### isopeeisoiiisopee-pelivastaava
+Amanda Korhonen
+- IRCnet: teerex
+- Telegram: dinonainen
 
 ### Urheiluvastaava
 Elias Niva
@@ -38,115 +38,139 @@ Elias Niva
 - Telegram: S3inae
 - urheiluvastaava(at)otit.fi
 
+### Lanivastaava
+Antti Koponen
+- IRCnet: taru
+- Telegram: AKoponen
+
 #### Pelimanni
-Verneri Pudas
+Aleksanteri Seppä
+- IRCnet: dolmio
+- Telegram: datadrako1
+
+#### Külttüürißihteeri:
+Severi Sarala
+- IRCnet: susssy
+- Telegram: susssy22
+
+#### Sisäsihteeri:
+Leevi Astikainen
+- IRCnet: 
+- Telegram: taatyty
+
+#### Fuksiasiainsihteeri:
+Aapo Koivumäki
+- IRCnet: Koripallo
+- Telegram: Kor1pallo
+
+#### Opetussihteeri:
+Tommi Jokinen
+- IRCnet: ringo
+- Telegram: tomjoki
+
+#### Peoples between autumn equivalent:
+Konsta Hynynen
+- IRCnet: 
+- Telegram: kotiapu
+
+#### Peoples between autumn equivalent:
+Hanna Räty
+- IRCnet: 
+- Telegram: zBerghain
+
+#### Alumnivastaava:
+Verneri Pudas 
 - IRCnet: napalmi
-- Telegram: napa1mi
+- Telegram: Napa1mi
 
-#### Sisäkkö
-Kalle Asmundi
-- IRCnet: huntilla
-- Telegram: huntilla
+#### Influenssa:
+Rosa-Maria Myllymäki
+- IRCnet: jifflar
+- Telegram: jifflar
 
-#### Fuksiasiainsihteeri
-Kalle Alasaarela
-- IRCnet: keppana
-- Telegram: keppana3
-- fuksiasiainsihteeri(at)otit.fi
+#### Cummymamma:
+Salla Rissanen
+- IRCnet: patonki
+- Telegram: Smrissa
 
-#### Opesihteeri
-Ville Kujala
-- IRCnet: laiton
-- Telegram: laitonnn
+#### jUKKA:
+Jukka Memonen
+- IRCnet: misvitus
+- Telegram: JiiMemo
 
-#### Kansainvälisyysvastaava vastaava
-Niranjan Sreegith
-- IRCnet: sambadi
-- Telegram: niranjansreegith
+#### X-käytävän susi:
+Konsta Hynynen
+- IRCnet: 
+- Telegram: kotiapu
 
-#### Bitch That's Me
-Antti Koponen
-- IRCnet: taru
-- Telegram: AKoponen
-
-#### Saapuja
-Verneri Pudas
-- IRCnet: napalmi
-- Telegram: napa1mi
-
-#### Sijoitusvastaava
-Lauri Ala-Mursula
-- IRCnet: limeboi
-- Telegram: Viikset
-
-#### viTTY
-Verneri Pudas
-- IRCnet: napalmi
-- Telegram: napa1mi
-
-#### Vuosijuhlavastaava
-Antti Koponen
-- IRCnet: taru
-- Telegram: AKoponen
-
-#### Alumnivastaava
-Juho Bruun
-- IRCnet: joensuu
-- Telegram joensuu
+#### tiTTY:
+Saku Salo
+- IRCnet: sandalf
+- Telegram: xsandalf
 
 ### Toimikunnat
 
 #### Tapahtumaministeriö
-* Jimi Gustafsson
-* Petra Heikkinen
-* Justus Kuukasjärvi
-* Jalmari Kalttonen
 * Aapo Koivumäki
-* Kalle Alasaarela
-* Tuomas Pelkonen
+* Petra Heikkinen
+* Verneri Pudas
+* Sini Enqvist
+* Antti Koponen
+* Aleksanteri Seppä
+* Elli-Kerttu Sepponen
+* Konsta Hynynen
+* Leevi Astikainen
+* Ursa Muranen
+* Vesa Jokela
 
 #### Tietoliikenneministeriö
 * Antti Koponen
-* Sini Enqvist
-* Tommi Jokinen
+* Julius Kuruheimo
+* Jouni Laiti
+* Ilari Lappalainen
+* Aukusti Ahokangas
+* Erki Kuivonen
+* Justus Kuukasjärvi
+* Jyri Lauren
 * Henrik Peteri
-* Lauri Horsma
+* Sini Enqvist
 * Ville Kujala
 * Ari-Pekka Ronkainen
-* Kalle Asmundi
+* Vesa Jokela
 
-#### Brändi-imagon ja Identiteetin Taktisen Charmin Hienostamisen, Wiestintätyylin Hyvän Ylläpidon ja Markkinointiyhteistyön Erityisministeriö(BITCHWHYME)
-* Antti Koponen (some)
-* Petra Heikkinen (grafiikat, some)
-* Rosa-Maria Myllymäki (grafiikat, some)
-* Akseli Östberg (kuvaaja)
-* Tuomas Jokinen (kuvaaja)
-* Joona Syrjäkoski (kuvaaja)
+#### Brändiministeriö
+* Aati Strömmer
+* Aleksanteri Seppä
+* Tuomas Jokinen
+* Petra Heikkinen
+* Antti Koponen
+* Hanna Räty
 
 #### Kansainvälisyysministeriö
 * Aleksanteri Seppä
 * Salla Rissanen
 
-#### Propagandaministeriö
-* Jimi Gustafsson
-* Tommi Jokinen
-* Verneri Pudas
-* Leevi Astikainen
-* Jukka Memonen
-* Ville Kujala
+#### Terminaalin toimitus
+* Julius Kuruheimo
+* Vesa Jokela
+* Ursa Muranen
 * Aleksanteri Seppä
-* Juho Bruun
+* Verneri Pudas
+* Henrik Peteri
 * Saku Salo
 
-#### Kulttuuriministeriö
-* Aapo Koivumäki
-
-#### Alumniministeriö
-* Aleksanteri Seppä
-
 #### Ulkoministeriö
-* Antti Koponen (ulkoministeri)
-* Kiia Koski (ulkosihteeri)
+* Erki Kuivonen
+* Antti Koponen
+* Konsta Hynynen
+
+#### Külttüüriminißteriö
+* Jere Ainasoja
+* Kalle Alasaarela
+* Severi Sarala
+* Arttu Lahti
+* Janne Rautakorpi
+* Saku Salo
 
 ---
 
