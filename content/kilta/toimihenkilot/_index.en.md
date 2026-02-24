@@ -1,235 +1,176 @@
 ---
-title: Officials 2024
-date: 2024-02-13
+title: Officials 2026
+date: 2026-02-24
 authorbox: false
 sidebar: true
 menu:
 ---
 
-#### Matrix and wine manager
-Tommi Jokinen
-- IRCnet: ringo
-- Telegram: tomjoki
+#### Master of brewing techinques
+Markus Pirttisalo
+- IRCnet: 
+- Telegram: marpirtt
 
-Johan Porkholm
-- IRCnet: kanapita
-- Telegram: JohanPorkholm
-
-#### Director General of the Ministry of Transport and Communications' Telecommunications Division
-Antti Koponen
-- IRCnet: taru
-- Telegram: AKoponen
-- adm(at)otit.fi
-
-#### Operator
+#### Master of drinking techinques
 Henrik Peteri
 - IRCnet: psykoosi
 - Telegram: psykoosi1
-- adm(at)otit.fi
 
+#### Director of the Ministry of Telecommunications
 Kalle Asmundi
 - IRCnet: huntilla
 - Telegram: huntilla
 - adm(at)otit.fi
 
-Ville Kujala
-- IRCnet: laiton
-- Telegram: laiton_irc
-- adm(at)otit.fi
-
-Niko Mätäsaho
-- IRCnet: esari
-- Telegram: esari2
-- adm(at)otit.fi
-
-Ari-Pekka Ronkainen
-- IRCnet: poramasa
-- Telegram: Poramasa
-- adm(at)otit.fi
-
-#### Gaming Manager
-Aleksi Tuovinen
-- IRCnet: pintti
-- Telegram: pintti
-
-#### Big Brother 
-Kalle Asmundi
-- IRCnet: huntilla
-- Telegram: huntilla
-
-#### Graphic Designer
-Petra Heikkinen
-- IRCnet: liianiso
-- Telegram: liianiso
-
-Aati Strömmer
-- IRCnet: antamasa
-- Telegram: antamasa
-
-Toivo Xiong
-- IRCnet: rausku
-- Telegram: rausku666
-
-#### WWW-manager
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
-
-#### Sport Manager
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-- urheiluvastaava(at)otit.fi 
-
-#### Fiddler
-Verneri Pudas
-- IRCnet: napalmi
-- Telegram: napa1mi
-
-#### Secretary of Culture
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-
-#### A Common Toad Frog Commonly Used By the Ministers of Sote and Pepe 
-Amanda Korhonen
-- IRCnet: teerex
-- Telegram: Dinonainen
-
-Santeri Hyvärinen
-- IRCnet: syomasa
-- Telegram: syomasa
-
+#### Adequately Sized Half-Sister
 Justus Kuukasjärvi
 - IRCnet: joeoeti
 - Telegram: joeoeti
 
-Sini Enqvist
-- IRCnet: kuopattu
-- Telegram: kuopattu
+#### Gaming Manager
+Amanda Korhonen
+- IRCnet: teerex
+- Telegram: dinonainen
 
-Markus Salo
-- IRCnet: saku_
-- Telegram: JackMoonShine
+### Sports Manager
+Elias Niva
+- IRCnet: skumpet
+- Telegram: S3inae
+- urheiluvastaava(at)otit.fi
 
-Tuomas Pelkonen
-- IRCnet: kuolijo
-- Telegram: kuolijo
+### LAN Manager
+Antti Koponen
+- IRCnet: taru
+- Telegram: AKoponen
 
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
+#### Fiddler
+Aleksanteri Seppä
+- IRCnet: dolmio
+- Telegram: datadrako1
 
-#### Secretary of Interior
-Kalle Asmundi
-- IRCnet: huntilla
-- Telegram: huntilla
+#### Secretary of Cülttüür:
+Severi Sarala
+- IRCnet: susssy
+- Telegram: susssy22
 
-#### Secretary of Freshman Affairs
-Arttu Lahti
-- IRCnet: monkero
-- Telegram: monkero
-- fuksiasiainsihteeri(at)otit.fi
+#### Secretary of Interior:
+Leevi Astikainen
+- IRCnet: 
+- Telegram: taatyty
 
-#### Education Secretary
-Jere Tepsa
-- IRCnet: stetson
-- Telegram: Stetson2
+#### Secretary of Freshman Affairs:
+Aapo Koivumäki
+- IRCnet: Koripallo
+- Telegram: Kor1pallo
 
-#### International Manager
-Niklas Raesalmi
-- IRCnet: butpill
-- Telegram: Nraesalmi
+#### Secretary of Education:
+Tommi Jokinen
+- IRCnet: ringo
+- Telegram: tomjoki
 
-Niranjan Sreegith
-- IRCnet: sambadi
-- Telegram: niranjansreegith
+#### Kansainvälisyysvastaava:
+Konsta Hynynen
+- IRCnet: 
+- Telegram: kotiapu
 
-#### Reporter
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
+#### Kansainvälisyysvastaava:
+Hanna Räty
+- IRCnet: 
+- Telegram: zBerghain
 
-Aleksi Tuovinen
-- IRCnet: pintti
-- Telegram: pintti
-
-Verneri Pudas
+#### Alumni Manager:
+Verneri Pudas 
 - IRCnet: napalmi
-- Telegram: napa1mi
+- Telegram: Napa1mi
 
-Lasse Rapo
-- IRCnet: betoni
-- Telegram: bet0ni
+#### Influenza:
+Rosa-Maria Myllymäki
+- IRCnet: jifflar
+- Telegram: jifflar
 
+#### Cummymamma:
+Salla Rissanen
+- IRCnet: patonki
+- Telegram: Smrissa
+
+#### jUKKA:
+Jukka Memonen
+- IRCnet: misvitus
+- Telegram: JiiMemo
+
+#### The wolf of X-corridor:
+Konsta Hynynen
+- IRCnet: 
+- Telegram: kotiapu
+
+#### tiTTY:
 Saku Salo
 - IRCnet: sandalf
 - Telegram: xsandalf
 
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
+### Committees
 
-Paavo Nikkari
-- IRCnet: kaemppis
-- Telegram: kaemppis
+#### Ministry of Events
+* Aapo Koivumäki
+* Petra Heikkinen
+* Verneri Pudas
+* Sini Enqvist
+* Antti Koponen
+* Aleksanteri Seppä
+* Elli-Kerttu Sepponen
+* Konsta Hynynen
+* Leevi Astikainen
+* Ursa Muranen
+* Vesa Jokela
 
-Niko Mätäsaho
-- IRCnet: esari
-- Telegram: esari2
+#### Ministry of Telecommunications
+* Antti Koponen
+* Julius Kuruheimo
+* Jouni Laiti
+* Ilari Lappalainen
+* Aukusti Ahokangas
+* Erki Kuivonen
+* Justus Kuukasjärvi
+* Jyri Lauren
+* Henrik Peteri
+* Sini Enqvist
+* Ville Kujala
+* Ari-Pekka Ronkainen
+* Vesa Jokela
 
-Topi Bruun
-- IRCnet: metukka
-- Telegram: Jaajo
+#### Ministry of Brand Management
+* Aati Strömmer
+* Aleksanteri Seppä
+* Tuomas Jokinen
+* Petra Heikkinen
+* Antti Koponen
+* Hanna Räty
 
-#### sMITH
-Jessika Lämsä
-- IRCnet: kospeli
-- Telegram: kospeli
+#### Ministry of Internationality
+* Aleksanteri Seppä
+* Salla Rissanen
 
-#### Alumni Manager
-Niklas Riikonen
-- IRCnet: sebu_
-- Telegram: Sebbuu
-- alumnivastaava(at)otit.fi
+#### Terminaali Reporters
+* Julius Kuruheimo
+* Vesa Jokela
+* Ursa Muranen
+* Aleksanteri Seppä
+* Verneri Pudas
+* Henrik Peteri
+* Saku Salo
 
-#### Social Media Manager
-Rebekka Kellokumpu
-- IRCnet: subuwu
-- Telegram: rebeotti
+#### Ministry of Foreign Affairs
+* Erki Kuivonen
+* Antti Koponen
+* Konsta Hynynen
 
-#### Photographer
-Joona Syrjäkoski
-- IRCnet: kaiffari
-- Telegram: joona_sk
-
-Sini Enqvist
-- IRCnet: kuopattu
-- Telegram: kuopattu
-
-Paavo Nikkari
-- IRCnet: kaemppis
-- Telegram: kaemppis
-
-#### Arriver
-Juho Bruun
-- IRCnet: joensuu
-- Telegram: joensuu
-
-#### Disc Jockey
-Teemu Puro
-- IRCnet: topakka
-- Telegram: topakka
-
-#### Investment Manager
-Lauri Ala-Mursula
-- IRCnet: limeboi
-- Telegram: Viikset
-
-#### Titeeni Major
-Rainer Laaksonen
-- IRCnet: Kal3vi
-- Telegram: Kal3vi
+#### Ministry of Cülttüür
+* Jere Ainasoja
+* Kalle Alasaarela
+* Severi Sarala
+* Arttu Lahti
+* Janne Rautakorpi
+* Saku Salo
 
 ---
 
