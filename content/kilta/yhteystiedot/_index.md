@@ -1,6 +1,6 @@
 ---
 title: Yhteystiedot
-date: 2021-05-15
+date: 2026-24-02
 authorbox: false
 sidebar: true
 menu:
