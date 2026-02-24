@@ -6,6 +6,31 @@ sidebar: true
 menu:
 ---
 
+#### Häirintäyhdyshenkilöt
+Kalle Alasaarela
+- IRCnet: keppana
+- Telegram: keppana3
+
+Sini Enqvist
+- IRCnet: kuopattu
+- Telegram: kuopattu
+
+Vesa Jokela
+- IRCnet: oppipaha
+- Telegram: oppiipaha
+
+Amanda Korhonen
+- IRCnet: teerex
+- Telegram: dinonainen
+
+Justus Kuukasjärvi
+- IRCnet: joeoeti
+- Telegram: joeoeti
+
+Rosa-Maria Myllymäki
+- IRCnet: jifflar
+- Telegram: jifflar
+
 #### Panotekniikan diplomi-insinööri
 Markus Pirttisalo
 - IRCnet: 
