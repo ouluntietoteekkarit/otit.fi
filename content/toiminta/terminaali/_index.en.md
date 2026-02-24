@@ -1,6 +1,6 @@
 ---
 title: Terminaali
-date: 2024-06-09
+date: 2026-02-24
 authorbox: false
 sidebar: true
 menu:
@@ -30,22 +30,20 @@ PL 4500
 
 Executive editor:
 
-Julius Kuruheimo - tiedotusministeri(at)otit.fi
+Petteri Keskikuru - tiedotusministeri(at)otit.fi
 
 Journalists:
 
-- Juho Bruun
-- Tommi Jokinen
+- Julius Kuruheimo
+- Vesa Jokela
+- Ursa Muranen
 - Aleksanteri Seppä
 - Verneri Pudas
-- Ville Kujala
-- Leevi Astikainen
-- Kiia Koski
-- Jimi Gustafsson
+- Henrik Peteri
 - Saku Salo
-- Jukka Memonen
 
 Former executive editors:
+- 2025 - Julius Kuruheimo
 - 2024 - Petra Heikkinen
 - 2023 - Joonas Patana, Bekim Abazi (2/23)
 - 2022 - Niko Mätäsaho
