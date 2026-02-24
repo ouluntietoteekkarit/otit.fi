@@ -1,6 +1,6 @@
 ---
 title: Terminaali
-date: 2025-02-20
+date: 2026-02-24
 authorbox: false
 sidebar: true
 menu:
@@ -29,22 +29,20 @@ PL 4500
 
 Päätoimittaja:
 
-Julius Kuruheimo - tiedotusministeri(at)otit.fi
+Petteri Keskikuru - tiedotusministeri(at)otit.fi
 
 Toimittajat:
 
-- Juho Bruun
-- Tommi Jokinen
+- Julius Kuruheimo
+- Vesa Jokela
+- Ursa Muranen
 - Aleksanteri Seppä
 - Verneri Pudas
-- Ville Kujala
-- Leevi Astikainen
-- Kiia Koski
-- Jimi Gustafsson
+- Henrik Peteri
 - Saku Salo
-- Jukka Memonen
 
 Entiset päätoimittajat
+- 2025 - Julius Kuruheimo
 - 2024 - Petra Heikkinen
 - 2023 - Joonas Patana, Bekim Abazi (2/23)
 - 2022 - Niko Mätäsaho
