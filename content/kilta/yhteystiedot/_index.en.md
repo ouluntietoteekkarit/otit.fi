@@ -1,6 +1,6 @@
 ---
 title: Contact information
-date: 2024-04-08
+date: 2026-24-02
 authorbox: false
 sidebar: true
 menu:
@@ -22,9 +22,9 @@ haryt(at)otit.fi
 Link to the English version of the report: https://forms.gle/W6in2ubnD2Mf9EEJ9  
 
 ## Alumni Manager
-**Juho Bruun**  
-joensuu(at)otit.fi  
-Tg: joensuu
+**Verneri Pudas**  
+alumnivastaava(at)otit.fi  
+Tg: Napa1mi
 
 ## Postal and invoicing addresses
 
