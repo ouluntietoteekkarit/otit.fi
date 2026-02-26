@@ -197,6 +197,7 @@ Saku Salo
 * Arttu Lahti
 * Janne Rautakorpi
 * Saku Salo
+* Vesa Jokela
 
 ---
 
