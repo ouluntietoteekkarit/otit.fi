@@ -1,6 +1,6 @@
 ---
 title: Terminaalin verkkoversiot
-date: 2023-10-22
+date: 2026-3-16
 authorbox: false
 sidebar: true
 menu:
@@ -9,6 +9,8 @@ menu:
 ---
 
 ## 2018 ->
+- ### 2026
+  - [1/2026](2018-2027/terminaali2601.pdf)
 - ### 2025
   - [1/2025](2018-2027/terminaali2501.pdf)
   - [2/2025](2018-2027/terminaali2502.pdf)
