@@ -102,6 +102,9 @@ menu:
   - [4/2011](2008-2017/terminaali1104.pdf)
 - ### 2010
   - [1/2010](2008-2017/terminaali110.pdf)
+  - [2/2010](2008-2017/terminaali1002.pdf)
+  - [3/2010](2008-2017/terminaali1003.pdf)
+  - [4/2010](2008-2017/terminaali1004.pdf)
 - ### 2009
   - [1/2009](2008-2017/terminaali109.pdf)
   - [2/2009](2008-2017/terminaali209.pdf)
