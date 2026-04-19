@@ -17,16 +17,16 @@ Oulun Tietoteekkarit ry on yhdenvertainen kilta. Yhdenvertaisuudella tarkoitetaa
 2 § Järjestyssäännöt
 
 Oulun Tietoteekkarit ry:n jäsen:
-Ei puhu muista pahaa.
-Kuuntelee muiden mielipiteitä ja ymmärtää erilaisia näkökulmia.
-Ei painosta päihteiden käyttöön.
-Käyttäytyy asiallisesti ja tarkastelee aktiivisesti omaa toimintaansa.
-Omaa hyvät käytöstavat.
-Ylläpitää tervettä Teekkarihenkeä.
-On tukena kiltalaisille ja opiskelukavereille.
-Ei häiritse, puuttuu häirintään ja ilmoittaa häirinnästä, esimerkiksi OYY:n tai killan häirintäyhdyshenkilölle.
-Nauttii opiskeluajastaan omilla ehdoillaan sekä edellä mainittujen sääntöjen ja Suomen lakien mukaisesti.
-// Testaa ja kommentoi koodinsa.
+1.   Ei puhu muista pahaa.
+2.   Kuuntelee muiden mielipiteitä ja ymmärtää erilaisia näkökulmia.
+3.   Ei painosta päihteiden käyttöön.
+4.   Käyttäytyy asiallisesti ja tarkastelee aktiivisesti omaa toimintaansa.
+5.   Omaa hyvät käytöstavat.
+6.   Ylläpitää tervettä Teekkarihenkeä.
+7.   On tukena kiltalaisille ja opiskelukavereille.
+8.   Ei häiritse, puuttuu häirintään ja ilmoittaa häirinnästä, esimerkiksi OYY:n tai killan häirintäyhdyshenkilölle.
+9.   Nauttii opiskeluajastaan omilla ehdoillaan sekä edellä mainittujen sääntöjen ja Suomen lakien mukaisesti.
+10.   // Testaa ja kommentoi koodinsa.
 
 2 luku – Toiminta kurinpitotilanteissa
 
