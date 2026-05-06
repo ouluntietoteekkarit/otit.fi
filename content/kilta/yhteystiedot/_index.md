@@ -54,4 +54,4 @@ Y-tunnus: 0868690-8
 
 IRCNet #otit
 
-Pankkiyhteys Pohjanmaan Osuuspankki / POP-Oulu FI03 4744 3020 0116 87
+Pankkiyhteys Pankkiyhteys Holvi FI11 7997 7997 9204 70
