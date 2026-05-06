@@ -50,4 +50,4 @@ VAT number/business ID: 0868690-8
 ## Miscellaneous
 
 IRCNet #otit  
-Bank: Pohjanmaan Osuuspankki / POP-Oulu FI03 4744 3020 0116 87  
+Bank: Holvi FI11 7997 7997 9204 70
