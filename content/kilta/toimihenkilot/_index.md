@@ -1,6 +1,6 @@
 ---
 title: Toimihenkilöt 2026
-date: 2026-02-24
+date: 2026-05-21
 authorbox: false
 sidebar: true
 menu:
@@ -31,12 +31,11 @@ Rosa-Maria Myllymäki
 - IRCnet: jifflar
 - Telegram: jifflar
 
-#### Panotekniikan diplomi-insinööri
+#### Kilju- ja kiljuntakansleri
 Markus Pirttisalo
 - IRCnet: tungtung
 - Telegram: marpirtt
 
-#### Janotekniikan diplomi-insinööri
 Henrik Peteri
 - IRCnet: psykoosi
 - Telegram: psykoosi1
@@ -100,7 +99,7 @@ Konsta Hynynen
 
 #### Peoples between autumn equivalent:
 Hanna Räty
-- IRCnet: 
+- IRCnet: berghain
 - Telegram: zBerghain
 
 #### Alumnivastaava:
@@ -148,6 +147,7 @@ Saku Salo
 * Leevi Astikainen
 * Ursa Muranen
 * Vesa Jokela
+* Aleksi Kiviniemi
 
 #### Tietoliikenneministeriö
 * Antti Koponen
@@ -198,6 +198,12 @@ Saku Salo
 * Janne Rautakorpi
 * Saku Salo
 * Vesa Jokela
+* Saana Jurvelin
+* Aapo Kinnunen
+* Veikka Herrala
+* Verneri Pudas
+* Veeti Santaniemi
+* Aleksi Kiviniemi
 
 ---
 
