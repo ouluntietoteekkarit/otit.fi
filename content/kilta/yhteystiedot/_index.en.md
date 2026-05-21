@@ -1,6 +1,6 @@
 ---
 title: Contact information
-date: 2026-24-02
+date: 2026-05-21
 authorbox: false
 sidebar: true
 menu:
