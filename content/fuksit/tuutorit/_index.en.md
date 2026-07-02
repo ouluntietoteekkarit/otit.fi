@@ -25,20 +25,20 @@ menu:
 
 #### Tutors for national students
 
-Aukusti	Ahokangas
-Leevi	Astikainen
-Laura	Gröhn
-Vesa	Jokela
-Tuomas	Jokinen
-Justus	Jolma
-Janika	Käräjäoja
-Mihkkal	Karpoff
-Fransiska	Lehtinen
-Joona	Myllymäki
-Markus	Pirttisalo
-Hanna	Räty
-Janne	Rautakorpi
-Elli-Kerttu	Sepponen
+- Aukusti	Ahokangas
+- Leevi	Astikainen
+- Laura	Gröhn
+- Vesa	Jokela
+- Tuomas	Jokinen
+- Justus	Jolma
+- Janika	Käräjäoja
+- Mihkkal	Karpoff
+- Fransiska	Lehtinen
+- Joona	Myllymäki
+- Markus	Pirttisalo
+- Hanna	Räty
+- Janne	Rautakorpi
+- Elli-Kerttu	Sepponen
 
 #### Tutors for international students
 
