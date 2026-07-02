@@ -1,6 +1,6 @@
 ---
-title: Vuoden 2025 tuutorit
-date: 2025-09-17
+title: Vuoden 2026 tuutorit
+date: 2026-07-02
 authorbox: false
 sidebar: true
 menu:
@@ -8,42 +8,42 @@ menu:
 
 #### Fuksiasiainministeri
 
-**Amanda Korhonen**
+**Kalle Alasaarela**
 
-**IRCnet:** teerex  
-**Telegram:** dinonainen  
+**IRCnet:** keppana  
+**Telegram:** keppana3  
 **Sähköposti:** fuksiasiainministeri (at) otit.fi
 
 
 #### Fuksiasiainsihteeri
 
-**Kalle Alasaarela**
+**Aapo Koivumäki**
 
-**IRCnet:** keppana  
-**Telegram:** keppana3  
+**IRCnet:** Koripallo  
+**Telegram:** Kor1pallo  
 **Sähköposti:** fuksiasiainsihteeri (at) otit.fi  
 
 #### Tuutorit
 
-Aapo Koivumäki  
-Henrik Peteri  
-Justus Kuukasjärvi  
-Kiia Koski  
-Mari Ylivaikko  
-Markus Teuhola  
-Niko Laukka  
-Niko Niemi  
-Sini Enqvist  
-Tinja Untinen  
-Topi Bruun  
-Tuomas Jokinen  
-Ursa Muranen  
-Valtte Kontsas
+Aukusti	Ahokangas
+Leevi	Astikainen
+Laura	Gröhn
+Vesa	Jokela
+Tuomas	Jokinen
+Justus	Jolma
+Janika	Käräjäoja
+Mihkkal	Karpoff
+Fransiska	Lehtinen
+Joona	Myllymäki
+Markus	Pirttisalo
+Hanna	Räty
+Janne	Rautakorpi
+Elli-Kerttu	Sepponen
 
 #### KV-tuutorit
 
-Cat Vo  
-Phuc Nguyen
+Linh Le
+Pedro Setti
 
 ---
 
