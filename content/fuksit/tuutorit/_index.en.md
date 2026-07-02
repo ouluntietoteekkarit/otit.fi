@@ -1,6 +1,6 @@
 ---
-title: Student Tutors 2025
-date: 2024-09-06
+title: Student Tutors 2026
+date: 2026-07-02
 authorbox: false
 sidebar: true
 menu:
@@ -8,41 +8,41 @@ menu:
 
 #### Minister of Freshman Affairs
 
-**Amanda Korhonen**
+**Kalle Alasaarela**
 
-**IRCnet:** teerex  
-**Telegram:** dinonainen  
+**IRCnet:** keppana  
+**Telegram:** keppana3  
 **Email:** fuksiasiainministeri (at) otit.fi
 
 
 #### Secretary of Freshman Affairs
 
-**Kalle Alasaarela**
+**Aapo Koivumäki**
 
-**IRCnet:** keppana  
-**Telegram:** keppana3  
+**IRCnet:** Koripallo  
+**Telegram:** Kor1pallo  
 **Email:** fuksiasiainsihteeri (at) otit.fi
 
 #### Tutors for national students
 
-Aapo Koivumäki  
-Henrik Peteri  
-Justus Kuukasjärvi  
-Kiia Koski  
-Mari Ylivaikko  
-Markus Teuhola  
-Niko Laukka  
-Niko Niemi  
-Sini Enqvist  
-Tinja Untinen  
-Topi Bruun  
-Tuomas Jokinen  
-Ursa Muranen  
-Valtte Kontsas
+Aukusti	Ahokangas
+Leevi	Astikainen
+Laura	Gröhn
+Vesa	Jokela
+Tuomas	Jokinen
+Justus	Jolma
+Janika	Käräjäoja
+Mihkkal	Karpoff
+Fransiska	Lehtinen
+Joona	Myllymäki
+Markus	Pirttisalo
+Hanna	Räty
+Janne	Rautakorpi
+Elli-Kerttu	Sepponen
 
 #### Tutors for international students
 
-Cat Vo  
-Phuc Nguyen
+Linh Le
+Pedro Setti
 
 ---
