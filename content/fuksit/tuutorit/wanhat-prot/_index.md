@@ -1,10 +1,28 @@
 ---
 title: Edeltävien vuosien pienryhmäohjaajat / tuutorit
-date: 2023-03-30
+date: 2026-07-02
 authorbox: false
 sidebar: true
 menu:
 ---
+
+## 2025
+- Aapo Koivumäki
+- Henrik Peteri
+- Justus Kuukasjärvi
+- Kiia Koski
+- Mari Ylivaikko
+- Markus Teuhola
+- Niko Laukka
+- Niko Niemi
+- Sini Enqvist
+- Tinja Untinen
+- Topi Bruun
+- Tuomas Jokinen
+- Ursa Muranen
+- Valtte Kontsas
+- Cat Vo
+- Phuc Nguyen
 
 ## 2024
 - Aapo Koivumäki  
