@@ -1,11 +1,11 @@
 ---
-title: TUTORiaali 2026
+title: TUTORial 2026
 description:
 date: 2026-08-19
 categories:
   - "Uutiset"
 tags:
---
+---
 
 Welcome to TUTORial, OTiT’s very first event of the freshman year.
 
