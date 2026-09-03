@@ -21,7 +21,7 @@ Elli-Kerttu Sepponen
 #### Treasurer
 Vesa Jokela
 - IRCnet: oppipaha
-- Telegram: oppiipaha
+- Telegram: oppipaha
 - rahastonhoitaja(at)otit.fi
 
 #### Minister of Information
