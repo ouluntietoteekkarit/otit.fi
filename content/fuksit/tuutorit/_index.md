@@ -1,6 +1,6 @@
 ---
 title: Vuoden 2026 tuutorit
-date: 2026-07-02
+date: 2026-09-03
 authorbox: false
 sidebar: true
 menu:
@@ -33,7 +33,6 @@ menu:
 - Justus	Jolma
 - Janika	Käräjäoja
 - Mihkkal	Karpoff
-- Fransiska	Lehtinen
 - Joona	Myllymäki
 - Markus	Pirttisalo
 - Hanna	Räty
