@@ -24,7 +24,7 @@ Elli-Kerttu Sepponen
 
 Vesa Jokela
 - IRCnet: oppipaha
-- Telegram: oppiipaha
+- Telegram: oppipaha
 - rahastonhoitaja(at)otit.fi
 
 #### Tiedotusministeri
