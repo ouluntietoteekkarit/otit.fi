@@ -1,6 +1,6 @@
 ---
 title: Laulut
-date: 2021-05-15
+date: 2026-09-10
 authorbox: false
 sidebar: true
 menu:
@@ -18,8 +18,6 @@ kuuluu pappilasta päin, kuuluu päin.
 Ja taas ja siis ja
 
 yks, kaks, kolme, neljä, viis.
-
-(Oulun Teekkariyhdistys ei suosita neekeri-sanan laulua enää Teekkarihymnissä. Korvaavat sanat ”yö kuin kaamos pohjoisen on pimiä” valittiin yhdistyksen vuosikokouksessa 2017)
 
 ## Pieniä bittejä
 On pieniä bittejä,
