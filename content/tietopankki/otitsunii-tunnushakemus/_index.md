@@ -1,12 +1,12 @@
 ---
 title: otitsunii-tunnushakemus
-date: 2022-12-06
+date: 2026-09-17
 authorbox: false
 sidebar: true
 menu:
 ---
 
-PDF-muotoisen hakemuksen saat [tästä](otitsunii_käyttäjätunnushakemus.pdf)
+PDF-muotoisen hakemuksen saat [tästä](otitsunii_käyttäjätunnushakemus.pdf) tai voit täyttää sen sähköisenä myös [täällä](https://docs.google.com/forms/d/e/1FAIpQLScEevSeLeFf-r674xzJjGdNEyGOV0xxAz47NoLm_8niKkydjQ/viewform?usp=header)
 
 Otitsunii on Oulun Tietoteekkarit ry:n oma Linux-palvelin. Palvelimeen voivat saada käyttäjätunnuksen Oulun Tietoteekkarit ry:n jäsenet.
 
