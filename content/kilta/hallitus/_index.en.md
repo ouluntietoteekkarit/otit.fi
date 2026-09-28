@@ -1,6 +1,6 @@
 ---
 title: Board 2026
-date: 2026-01-20
+date: 2026-09-28
 authorbox: false
 sidebar: true
 menu:
@@ -59,17 +59,17 @@ Justus Kuukasjärvi
 #### Minister of Social Affairs and Health
 *responsible for guild events*
 
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
+Tuomas Jokinen
+- IRCnet: koskija
+- Telegram: jtuomas
 - soteministeri(at)otit.fi
 
-#### Foreign Minister (VC)
+#### Foreign Minister
 *responsible for business relations*
 
-Rosa-Maria Myllymäki 
-- IRCnet: jifflar
-- Telegram: jifflar
+Saara Urmas 
+- IRCnet: 
+- Telegram: ssurmass
 - ulkoministeri(at)otit.fi
 
 #### Minister of the Interior
