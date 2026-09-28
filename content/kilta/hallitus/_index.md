@@ -1,6 +1,6 @@
 ---
 title: Hallitus 2026
-date: 2026-01-20
+date: 2026-09-28
 authorbox: false
 sidebar: true
 menu:
@@ -62,17 +62,17 @@ Justus Kuukasjärvi
 #### Sosiaali- ja terveysministeri
 *Vastaa killan tapahtumista*
 
-Henrik Peteri
-- IRCnet: psykoosi
-- Telegram: psykoosi1
+Tuomas Jokinen
+- IRCnet: koskija
+- Telegram: jtuomas
 - soteministeri(at)otit.fi
 
-#### Ulkoministeri (VPJ)
+#### Ulkoministeri
 *Vastaa yrityssuhteista*
 
-Rosa-Maria Myllymäki 
-- IRCnet: jifflar
-- Telegram: jifflar
+Saara Urmas
+- IRCnet: 
+- Telegram: ssurmass
 - ulkoministeri(at)otit.fi
 
 #### Sisäministeri
