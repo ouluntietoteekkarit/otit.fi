@@ -6,14 +6,14 @@ sidebar: true
 menu:
 ---
 
-Jäsenrekisterin tietosuojaseloste: [PDF](Jasenrekisteri_tietosuojaseloste_2025.pdf)
+Jäsenrekisterin tietosuojaseloste: [PDF](Jasenrekisterin_tietosuojaseloste_2026.pdf)
 
-Ulkojäsenrekisterin tietosuojaseloste: [PDF](Ulkojasenrekisteri_tietosuojaseloste_2025.pdf)
+Ulkojäsenrekisterin tietosuojaseloste: [PDF](Ulkojasenrekisterin_tietosuojaseloste_2026.pdf)
 
-Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistat_tietosuojaseloste_2025.pdf)
+Sähköpostilistojen tietosuojaseloste: [PDF](Sahkopostilistojen_tietosuojaseloste_2026.pdf)
 
-Kulkuoikeusrekisterin tietosuojaseloste: [PDF](Kulkuoikeusrekisteri_tietosuojaseloste_2025.pdf)
+Kulkuoikeusrekisterin tietosuojaseloste: [PDF](Kulkuoikeusrekisterin_tietosuojaseloste_2026.pdf)
 
-Kiltahuoneen kameravalvonnan tietosuojaseloste: [PDF](kameravalvonta_tietosuojaseloste.pdf)
+Kiltahuoneen kameravalvonnan tietosuojaseloste: [PDF](Kameravalvonnan_tietosuojaseloste_2026.pdf)
 
-Häirintäilmoituksen tietosuojaseloste: [PDF](Häirintäilmoitus_tietosuojaseloste_2025.pdf)
+Häirintäilmoituksen tietosuojaseloste: [PDF](Hairintailmoituksen_tietosuojaseloste_2026.pdf)
