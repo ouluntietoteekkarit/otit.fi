@@ -1,6 +1,6 @@
 ---
 title: Tunnusohjesääntö
-date: 2023-07-24
+date: 2026-10-27
 authorbox: false
 sidebar: true
 menu:
@@ -27,34 +27,35 @@ Kokardit ovat Oulun Teekkariyhdistys ry:n tunnusohjesäännöissä olevan 3 § m
 
 4 § Pinssit
 
-Virkamerkki: Killan virallinen virkamerkki on hallituskokardin ns. pinssi-versio. Killan hallituksen jäsenet ja toimihenkilöt ovat oikeutettuja kantamaan virkamerkkiä edustustilanteissa toimikautensa ajan. Virkamerkkiä kannetaan vasemmassa napinlävessä tai sydämen päällä.
+Edustuspinssi: Killan edustuspinssi on hallituskokardia vastaava pinssi. Killan hallituksen jäsenet ja toimihenkilöt ovat oikeutettuja kantamaan pinssiä edustustilanteissa toimikautensa ajan.
 
-Alumnipinssi: Killan alumnipinssi on kullattu killan kokardin ns. pinssi-versio. Alumnipinssin voi lunastaa valmistuttuaan diplomijäseneksi. Alumnipinssi annetaan killan hallituksessa toimineille henkilöille valmistujaislahjaksi. Alumnipinssiä kannetaan vasemmassa napinlävessä tai sydämen päällä.
+Hopeinen alumnipinssi: Killan hopeinen alumnipinssi on killan kokardia vastaava pinssi. Hopeisen alumnipinssin voi lunastaa valmistuttuaan diplomi-insinööriksi. Hopeinen alumnipinssi voidaan antaa killan toimihenkilönä toimineille henkilöille valmistujaislahjaksi.
+
+Kultainen alumnipinssi: Killan kultainen alumnipinssi on kullattu killan kokardia vastaava pinssi. Kultainen alumnipinssi annetaan killan hallituksessa toimineille henkilöille valmistujaislahjaksi. 
+
+Edustus- ja alumnipinssejä kannetaan vasemmassa napinlävessä tai sydämen päällä.
 
 5 § Ansio- ja kunniamerkki
 
-Ansiomerkki: Hopeinen killan hallituskokardin mukainen pinssi. Ansiomerkki voidaan myöntää killan varsinaiselle jäsenelle tai diplomijäsenelle kiitollisuuden osoituksena ansiokkaasta toiminnasta killan hyväksi. Killan hallitus voi yksimielisellä päätöksellä myöntää ansiomerkin. Ansiomerkkiä kannetaan vasemmassa napinlävessä tai sydämen päällä.
+Ansiomerkki: Hopeinen killan hallituskokardin “Tea for two” mukainen pinssi, jonka halkaisija on 25 mm. Ansiomerkki voidaan myöntää killan varsinaiselle jäsenelle tai diplomijäsenelle kiitollisuuden osoituksena ansiokkaasta toiminnasta killan hyväksi. Killan hallitus voi yksimielisellä päätöksellä myöntää ansiomerkin. Ansiomerkkiä kannetaan vasemmassa napinlävessä tai sydämen päällä.
 
-Kunniamerkki: Kultainen killan hallituskokardin “Tea for two” mukainen pinssi. Kunniamerkki voidaan myöntää killan varsinaiselle jäsenelle tai diplomijäsenelle kiitollisuuden osoituksena erittäin arvokkaasta toiminnasta killan hyväksi. Kunniamerkin voi myöntää aiemmin kunniamerkin saaneiden ja killan hallituksen yhteisestä päätöksestä. Kunniamerkkiä kannetaan yhdistyksen nauhassa.
+Kunniamerkki: Kultainen killan hallituskokardin “Tea for two” mukainen pinssi, jonka halkaisija on 25 mm. Kunniamerkki nauhoineen voidaan myöntää killan varsinaiselle jäsenelle tai diplomijäsenelle kunnianosoituksena tai kiitollisuuden osoituksena erittäin arvokkaasta toiminnasta killan hyväksi. Kunniamerkin nauhoineen voi myöntää aiemmin kunniamerkin saaneiden ja killan hallituksen yhteisestä päätöksestä. Kunniamerkkiä kannetaan aina 35 mm yhdistyksen leveässä mustassa nauhassa. Leveää nauhaa kannetaan kuten yhdistyksen nauhaa.
 
 Ansio- ja kunniamerkit jaetaan pääsääntöisesti killan vuosijuhlien yhteydessä.
 
-6 § Killan nauha
+6 § Yhdistyksen nauha
 
-Edustusnauha, jota pidetään rinnukseen kiinnitettynä. Pidettäessä OYY:n ja/tai OTY:n edustusnauhojen kanssa, sitä pidetään niiden alapuolella.
+Yhdistyksen nauha on leveydeltään 25 mm. Värien järjestys ja nauhan raitojen leveydet ovat ylhäältä alaspäin: musta 11 mm, valkoinen 5 mm, musta 3 mm, keltainen 3 mm ja musta 3 mm.
 
-Edustusnauha on leveydeltään 25 mm. Nauhan raitojen leveydet ovat ylhäältä alaspäin:
-musta 11 mm
-valkoinen 5 mm
-musta 3 mm
-keltainen 3 mm
-musta 3 mm
+Yhdistyksen leveä nauha on leveydeltään 35mm. Värien järjestys ja nauhan raitojen leveydet ovat ylhäältä alaspäin: musta 13 mm, valkoinen 7 mm, musta 5 mm, keltainen 5 mm ja musta 5 mm. Leveää nauhaa saavat kantaa vain henkilöt, joille on myönnetty yhdistyksen kunniamerkki tai jokin muu killan myöntämä oikeus kantaa nauhaa.
 
-Killan nauha ei ole täysin heraldiikan sääntöjen mukainen - tarkoituksella. Musta-valkoraidat kuvaavat killan opintoalan olennaisia yksiköitä, ykkösiä ja nollia. Keltainen raita kuvaa killan epävirallista keltaista maskottia Paggia.
+Yhdistyksen nauhaa saavat kantaa kaikki yhdistyksen jäsenet. Nauha puetaan kulkemaan oikealta olkapäältä viistosti alas vasemmalle. Frakin kanssa nauhaa kannetaan liivin alla, ja tumman puvun kanssa se kulkee liivin sekä solmion päältä. Ilta- tai juhlapuvun kanssa nauha voidaan vaihtoehtoisesti pukea ruusukkeeksi vasempaan rintaan. Nauhan ei tulisi koskaan koskettaa paljasta ihoa. Kannettaessa yhdistyksen nauhaa OYY:n ja/tai OTY:n edustusnauhojen kanssa, sitä pidetään niiden alapuolella.
+
+Yhdistyksen nauha ei ole täysin heraldiikan sääntöjen mukainen - tarkoituksella. Musta-valkoraidat kuvaavat killan opintoalan olennaisia yksiköitä: ykkösiä ja nollia. Keltainen raita kuvaa killan epävirallista keltaista maskottia Paggia.
 
 7 § Killan lippu
 
-Killan lippu on hyvän ja sopivan kokoinen kantolippu jota voidaan säilyttää edustustilanteissa jalustalla tai sitä voidaan kantaa. Killan lippu on taustaltaan musta, killan nimi sekä logo on valkoisella. Killan nimi ja logo on myös ns. kehystetty valkoisella neliöllä.
+Killan lippu on hyvän ja sopivan kokoinen kantolippu, jota voidaan säilyttää edustustilanteissa jalustalla tai sitä voidaan kantaa. Killan lippu on taustaltaan musta ja killan nimi sekä logo ovat valkoisella. Killan nimi ja logo on myös kehystetty valkoisella neliöllä.
 
 8 § Killan haalarit
 
