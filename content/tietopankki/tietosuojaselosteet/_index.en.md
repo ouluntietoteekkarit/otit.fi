@@ -6,12 +6,12 @@ sidebar: true
 menu:
 ---
 
-Temporary member register privacy notice: [PDF](Temporary_member_register_privacy_notice_2025.pdf)
+Temporary member register privacy notice: [PDF](Temporary_member_register_privacy_notice_2026.pdf)
 
-Member register privacy notice: [PDF](Member_register_privacy_notice_2025.pdf)
+Member register privacy notice: [PDF](Member_register_privacy_notice_2026.pdf)
 
-Email list privacy notice: [PDF](Email_list_privacy_notice_2025.pdf)
+Email list privacy notice: [PDF](Email_list_privacy_notice_2026.pdf)
 
-Access rights register privacy notice: [PDF](Access_rights_register_privacy_notice_2025.pdf)
+Access rights register privacy notice: [PDF](Access_rights_register_privacy_notice_2026.pdf)
 
-Harassment report privacy notice: [PDF](Harassment_report_privacy_notice_2025.pdf)
+Harassment report privacy notice: [PDF](Harassment_report_privacy_notice_2026.pdf)
